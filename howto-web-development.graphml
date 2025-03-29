@@ -2885,7 +2885,7 @@ Aber wenn eine Methode aufgerufen wird (true.toString(), "hello".toUpperCase()),
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="3339.561493186824" y="-4971.958766406891"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="3339.561493186824" y="-4881.782575930701"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">Eval-Kontext – Der Eval-Kontext wird durch den Aufruf der eval()-Funktion erzeugt und führt Code aus, der als String übergeben wird. Dieser Kontext ist in modernen JavaScript-Anwendungen selten von Bedeutung und sollte vermieden werden.</y:NodeLabel>
@@ -2896,7 +2896,7 @@ Aber wenn eine Methode aufgerufen wird (true.toString(), "hello".toUpperCase()),
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="3339.561493186824" y="-4891.323448946574"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="3339.561493186824" y="-4801.147258470383"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">Call Stack und Kontextstack – Der Call Stack verwaltet die Reihenfolge, in der Ausführungskontexte betreten und verlassen werden. Jeder neue Kontext wird auf den Stack gelegt, und sobald der Kontext ausgeführt ist, wird er wieder entfernt.</y:NodeLabel>
@@ -2907,7 +2907,7 @@ Aber wenn eine Methode aufgerufen wird (true.toString(), "hello".toUpperCase()),
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="4006.561493186824" y="-5067.734523809524"/>
+          <y:Geometry height="35.0" width="600.0" x="4006.561493186824" y="-4970.4682539682535"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">Erzeugung durch eval() – Wenn die eval()-Funktion aufgerufen wird, wird der darin enthaltene Code als Teil des aktuellen Ausführungskontexts ausgeführt, wodurch ein neuer Eval-Kontext entsteht.</y:NodeLabel>
@@ -2918,7 +2918,7 @@ Aber wenn eine Methode aufgerufen wird (true.toString(), "hello".toUpperCase()),
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="77.75208702481723" width="600.0" x="4006.561493186824" y="-5002.734376845742"/>
+          <y:Geometry height="77.75208702481723" width="600.0" x="4006.561493186824" y="-4905.468107004472"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.5440122624086143">Code-Ausführung zur Laufzeit – Der Eval-Kontext führt JavaScript-Code aus, der als String übergeben wird. Zum Beispiel:
@@ -2932,7 +2932,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="4006.561493186824" y="-4894.982179105305"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="4006.561493186824" y="-4797.715909264034"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">Zugriff auf den aktuellen Kontext – Code, der im Eval-Kontext ausgeführt wird, hat Zugriff auf den aktuellen Scope (z. B. Variablen im Funktionskontext oder globalen Kontext), was bedeutet, dass er die gleichen Variablen und Funktionen verwenden kann.</y:NodeLabel>
@@ -2943,7 +2943,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="4006.561493186824" y="-4814.346861644986"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="4006.561493186824" y="-4717.080591803717"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">Sicherheitsrisiken – Die Verwendung von eval() kann zu Sicherheitslücken führen, insbesondere wenn unkontrollierter oder benutzerdefinierter Code evaluiert wird. Es besteht das Risiko, dass schadhafter Code ausgeführt wird.</y:NodeLabel>
@@ -2954,7 +2954,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="4006.561493186824" y="-4733.711544184669"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="4006.561493186824" y="-4636.445274343399"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">Performance-Probleme – Die Verwendung von eval() kann die Performance beeinträchtigen, da der JavaScript-Interpreter den übergebenen Code zur Laufzeit analysieren und auswerten muss, was den Optimierungsprozess des Codes behindern kann.</y:NodeLabel>
@@ -3042,7 +3042,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="4641.561493186824" y="-5415.448647359272"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="4769.561493186824" y="-6547.7170997402245"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">window – Das globale Objekt im Browser, das den globalen Kontext darstellt. Es enthält viele Methoden und Eigenschaften, z. B. window.setTimeout(), window.document, und auch globale Variablen und Funktionen. In einem Browser entspricht window dem globalen Kontext.</y:NodeLabel>
@@ -3053,7 +3053,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="4641.561493186824" y="-4843.192658730159"/>
+          <y:Geometry height="35.0" width="600.0" x="4769.561493186824" y="-5975.461111111111"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">this – Ein spezielles Schlüsselwort, das auf das aktuelle Objekt oder den aktuellen Kontext verweist. Im globalen Kontext (im Browser) verweist this auf das window-Objekt.</y:NodeLabel>
@@ -3064,7 +3064,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="5404.561493186824" y="-6188.333567994193"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-7320.602020375146"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">document – Ein globales Objekt, das das HTML-Dokument des aktuellen Fensters oder der aktuellen Registerkarte darstellt. Es ist Teil des window-Objekts und ermöglicht den Zugriff auf die DOM (Document Object Model).</y:NodeLabel>
@@ -3075,7 +3075,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="5404.561493186824" y="-6107.698250533876"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-7239.966702914828"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">console – Ein globales Objekt, das Methoden wie console.log(), console.warn(), und console.error() bereitstellt, um Ausgaben in der Konsole zu machen. Es wird häufig für Debugging und Logging verwendet.</y:NodeLabel>
@@ -3086,7 +3086,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="5404.561493186824" y="-6027.062933073558"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-7159.33138545451"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">setTimeout() und setInterval() – Diese globalen Funktionen gehören ebenfalls zum window-Objekt und ermöglichen das Verzögern von Funktionen (setTimeout) bzw. das wiederholte Ausführen von Funktionen in einem festen Intervall (setInterval).</y:NodeLabel>
@@ -3097,7 +3097,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5912.038293650794"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-7044.306746031746"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">Math – Ein globales Objekt, das mathematische Funktionen und Konstanten bereitstellt, wie z. B. Math.PI, Math.random(), und Math.sqrt().</y:NodeLabel>
@@ -3108,7 +3108,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5808.702579365079"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6940.971031746032"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">JSON – Ein globales Objekt, das Methoden zum Parsen von JSON-Daten (JSON.parse()) und zum Erstellen von JSON-Strings (JSON.stringify()) bereitstellt.</y:NodeLabel>
@@ -3119,7 +3119,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.354512870114377" width="600.0" x="4006.561493186824" y="-5118.089161196964"/>
+          <y:Geometry height="20.354512870114377" width="600.0" x="4006.561493186824" y="-5973.226859609662"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">Browser-Kontext</y:NodeLabel>
@@ -3130,7 +3130,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5698.7763888888885"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6831.0448412698415"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">Object – Das globale Objekt, das die Basis für alle Objekte in JavaScript bildet und grundlegende Methoden wie Object.assign(), Object.keys(), und Object.getPrototypeOf() enthält.</y:NodeLabel>
@@ -3141,7 +3141,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5604.960119047619"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6737.228571428572"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">Array – Das globale Array-Objekt, das Funktionen wie Array.isArray(), Array.prototype.push(), und Array.prototype.map() bereitstellt.</y:NodeLabel>
@@ -3152,7 +3152,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5503.82123015873"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6636.089682539682"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">Function – Das globale Funktionsobjekt, das Methoden zum Erstellen und Manipulieren von Funktionen enthält, z. B. Function.prototype.apply() und Function.prototype.call().</y:NodeLabel>
@@ -3163,7 +3163,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5406.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6538.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">Date – Ein globales Objekt, das Funktionen zur Arbeit mit Datums- und Zeitangaben bereitstellt, wie new Date(), Date.now(), und Date.parse().</y:NodeLabel>
@@ -3174,7 +3174,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5341.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6473.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">RegExp – Ein globales Objekt, das Funktionen für reguläre Ausdrücke (Regex) bietet, z. B. RegExp.prototype.test() und RegExp.prototype.exec().</y:NodeLabel>
@@ -3185,7 +3185,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5276.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6408.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">Promise – Ein globales Objekt, das zur Handhabung von asynchronen Operationen verwendet wird, einschließlich Methoden wie Promise.all() und Promise.resolve().</y:NodeLabel>
@@ -3196,7 +3196,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5211.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6343.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">ArrayBuffer, Uint8Array und andere Typed Arrays – Diese Objekte bieten effizienten Zugriff auf binäre Daten und werden häufig für Low-Level-Operationen verwendet.</y:NodeLabel>
@@ -3207,7 +3207,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5146.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6278.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">localStorage und sessionStorage – Diese Objekte ermöglichen die Speicherung von Daten im Browser, entweder dauerhaft (localStorage) oder nur für die Dauer der Sitzung (sessionStorage).</y:NodeLabel>
@@ -3218,7 +3218,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5081.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6213.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">fetch – Eine globale Funktion, die für das Abrufen von Ressourcen über das Netzwerk (z. B. API-Aufrufe) verwendet wird, als moderne Alternative zu XMLHttpRequest.</y:NodeLabel>
@@ -3229,7 +3229,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-5016.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6148.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">alert(), confirm(), prompt() – Diese Funktionen gehören ebenfalls zum window-Objekt und ermöglichen die Interaktion mit dem Benutzer über Pop-up-Dialoge.</y:NodeLabel>
@@ -3240,7 +3240,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="5404.561493186824" y="-4951.224801587302"/>
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-6083.493253968254"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">NaN – Ein globaler Wert, der für "Not-a-Number" steht und für ungültige numerische Operationen verwendet wird (z. B. das Ergebnis einer Division durch null).</y:NodeLabel>
@@ -3251,7 +3251,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.354512870114377" width="600.0" x="5404.561493186824" y="-4886.2246770699785"/>
+          <y:Geometry height="20.354512870114377" width="600.0" x="5532.561493186824" y="-6018.4931294509315"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">Infinity und -Infinity – Globale Werte, die unendliche positive oder negative Zahlen repräsentieren.</y:NodeLabel>
@@ -3262,7 +3262,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.354512870114377" width="600.0" x="5404.561493186824" y="-6238.688169133471"/>
+          <y:Geometry height="20.354512870114377" width="600.0" x="5532.561493186824" y="-7370.956621514422"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">console.log(window.innerWidth);</y:NodeLabel>
@@ -3273,7 +3273,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.354512870114377" width="600.0" x="5404.561493186824" y="-4835.869915165216"/>
+          <y:Geometry height="20.354512870114377" width="600.0" x="5532.561493186824" y="-5968.138367546169"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">console.log(this === window);</y:NodeLabel>
@@ -3284,7 +3284,7 @@ console.log(x);  // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="6103.561493186824" y="-6239.94269497832"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="6231.561493186824" y="-7372.211147359272"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">const headline = document.createElement("h1");
@@ -3297,7 +3297,7 @@ document.body.appendChild(headline);</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="6103.561493186824" y="-6159.307377518003"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="6231.561493186824" y="-7291.575829898955"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">console.log("Normale Ausgabe");
@@ -3310,7 +3310,7 @@ console.error("Fehlermeldung!");</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.354512870114377" width="600.0" x="6103.561493186824" y="-6078.672296117598"/>
+          <y:Geometry height="20.354512870114377" width="600.0" x="6231.561493186824" y="-7210.9407484985495"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">setTimeout(() =&gt; console.log("1 Sekunde später"), 1000);</y:NodeLabel>
@@ -3321,7 +3321,7 @@ console.error("Fehlermeldung!");</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="78.46141867802635" width="600.0" x="6103.561493186824" y="-6028.31741568822"/>
+          <y:Geometry height="78.46141867802635" width="600.0" x="6231.561493186824" y="-7160.585868069173"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.8986780890136288">let count = 0;
@@ -3336,7 +3336,7 @@ const interval = setInterval(() =&gt; {
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="6103.561493186824" y="-5919.855790216416"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="6231.561493186824" y="-7052.124242597368"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">console.log(Math.PI); // 3.141592653589793
@@ -3349,7 +3349,7 @@ console.log(Math.sqrt(25)); // 5</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="96.03600323388946" width="600.0" x="6103.561493186824" y="-5839.220580982024"/>
+          <y:Geometry height="96.03600323388946" width="600.0" x="6231.561493186824" y="-6971.489033362977"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.6195641169451847">const obj = { name: "Alice", age: 25 };
@@ -3365,7 +3365,7 @@ console.log(parsedObj.name); // Alice</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="63.815931548139815" width="600.0" x="6103.561493186824" y="-5713.184354662957"/>
+          <y:Geometry height="63.815931548139815" width="600.0" x="6231.561493186824" y="-6845.45280704391"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.6423407740694529">const person = { name: "Max", age: 30 };
@@ -3379,7 +3379,7 @@ console.log(Object.assign({}, person, { job: "Entwickler" }));</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="63.815931548139815" width="600.0" x="6103.561493186824" y="-5619.368084821688"/>
+          <y:Geometry height="63.815931548139815" width="600.0" x="6231.561493186824" y="-6751.636537202641"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.6423407740694529">const numbers = [1, 2, 3];
@@ -3393,7 +3393,7 @@ console.log(numbers.map(n =&gt; n * 2)); // [2, 4, 6, 8]</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="78.46141867802635" width="600.0" x="6103.561493186824" y="-5525.551939497744"/>
+          <y:Geometry height="78.46141867802635" width="600.0" x="6231.561493186824" y="-6657.820391878697"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.8986780890136288">function greet(name) {
@@ -3408,7 +3408,7 @@ greet.apply(null, ["Tom"]); // Aufruf mit `apply`</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="56.73070933901272" width="600.0" x="6103.561493186824" y="-5417.090156256807"/>
+          <y:Geometry height="56.73070933901272" width="600.0" x="6231.561493186824" y="-6549.35860863776"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.166135919505905">const now = new Date();
@@ -3421,7 +3421,7 @@ console.log(Date.now()); // Zeitstempel in Millisekunden</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="50.63499313124339" width="600.0" x="6103.561493186824" y="-5330.359361644987"/>
+          <y:Geometry height="50.63499313124339" width="600.0" x="6231.561493186824" y="-6462.627814025939"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">const regex = /\d+/;
@@ -3434,7 +3434,7 @@ console.log("Hallo 123!".match(/\d+/)); // ['123']</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="6103.561493186824" y="-5249.724007936508"/>
+          <y:Geometry height="35.0" width="600.0" x="6231.561493186824" y="-6381.99246031746"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">const myPromise = new Promise(resolve =&gt; setTimeout(() =&gt; resolve("Fertig!"), 2000));
@@ -3446,7 +3446,7 @@ myPromise.then(console.log); // Ausgabe nach 2 Sek: "Fertig!"</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="63.815931548139815" width="600.0" x="6103.561493186824" y="-5184.723640377244"/>
+          <y:Geometry height="63.815931548139815" width="600.0" x="6231.561493186824" y="-6316.992092758195"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.6423407740694529">const buffer = new ArrayBuffer(8);
@@ -3460,7 +3460,7 @@ console.log(view); // Uint8Array(8) [255, 0, 0, 0, 0, 0, 0, 0]</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="78.46141867802635" width="600.0" x="6103.561493186824" y="-5090.9074950532995"/>
+          <y:Geometry height="78.46141867802635" width="600.0" x="6231.561493186824" y="-6223.1759474342525"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.8986780890136288">localStorage.setItem("user", JSON.stringify({ name: "Alex" }));
@@ -3475,7 +3475,7 @@ console.log(sessionStorage.getItem("temp")); // "Nur für diese Sitzung"</y:Node
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="56.73070933901272" width="600.0" x="6103.561493186824" y="-4982.445711812363"/>
+          <y:Geometry height="56.73070933901272" width="600.0" x="6231.561493186824" y="-6114.714164193316"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.166135919505905">fetch("https://jsonplaceholder.typicode.com/todos/1")
@@ -3488,7 +3488,7 @@ console.log(sessionStorage.getItem("temp")); // "Nur für diese Sitzung"</y:Node
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="63.815931548139815" width="600.0" x="6103.561493186824" y="-4895.714910218514"/>
+          <y:Geometry height="63.815931548139815" width="600.0" x="6231.561493186824" y="-6027.983362599465"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.6423407740694529">alert("Willkommen!");
@@ -3502,7 +3502,7 @@ console.log(userName);</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="6103.561493186824" y="-4801.898611111111"/>
+          <y:Geometry height="35.0" width="600.0" x="6231.561493186824" y="-5934.167063492064"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">console.log(0 / 0); // NaN
@@ -3514,11 +3514,654 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="35.0" width="600.0" x="6103.561493186824" y="-4736.898611111111"/>
+          <y:Geometry height="35.0" width="600.0" x="6231.561493186824" y="-5869.167063492064"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">console.log(0 / 0); // NaN
 console.log(isNaN("Hallo")); // true</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n312">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4006.561493186824" y="-5231.953843736645"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">Node.js</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n313">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="65.7714846703293" width="600.0" x="4769.561493186824" y="-5910.4607423351645"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.6201173351646503">1. global (Das window-Äquivalent in Node.js)
+
+In Node.js gibt es kein window, stattdessen gibt es global, das globale Variablen und Funktionen enthält.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n314">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-5917.783766406891"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">console.log(global.setTimeout); // Funktion vorhanden
+global.myVar = "Hallo Node.js";
+console.log(global.myVar); // "Hallo Node.js"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n315">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5814.689161196962"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">2. process (Informationen zum laufenden Node.js-Prozess)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n316">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-5837.148448946574"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">console.log(process.pid); // Prozess-ID
+console.log(process.cwd()); // Aktuelles Arbeitsverzeichnis
+process.exit(0); // Beendet das Programm mit Status 0</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n317">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5741.372891355693"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">3. console (Logging, Debugging)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n318">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-5756.5131314862565"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">console.log("Normale Ausgabe");
+console.error("Fehlermeldung");
+console.warn("Warnung");</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n319">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5631.046700879502"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">4. setTimeout() &amp; setInterval() (Zeitgesteuerte Funktionen, ähnlich wie im Browser)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n320">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="110.01661378457993" width="600.0" x="5532.561493186824" y="-5675.877751336735"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.5434631422904204">setTimeout(() =&gt; console.log("Nach 2 Sekunden"), 2000);
+
+let counter = 0;
+const interval = setInterval(() =&gt; {
+  console.log("Intervall", ++counter);
+  if (counter === 3) clearInterval(interval);
+}, 1000);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n321">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5535.860986593789"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">5. setImmediate() (Code ausführen, sobald der Event Loop es zulässt)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n322">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="5532.561493186824" y="-5535.860986593789"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">setImmediate(() =&gt; console.log("Sofort nach dem aktuellen Tick"));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n323">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5478.183605641407"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">6. __dirname &amp; __filename (Verzeichnis und Datei-Pfad)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n324">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-5485.506349206349"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">console.log(__dirname); // Pfad des aktuellen Verzeichnisses
+console.log(__filename); // Pfad zur aktuellen Datei</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n325">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5405.365748498551"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">7. Buffer (Arbeiten mit Binärdaten)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n326">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-5420.505988629114"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">const buf = Buffer.from("Hello");
+console.log(buf.toString()); // "Hello"
+console.log(buf.toJSON()); // { type: 'Buffer', data: [ 72, 101, 108, 108, 111 ] }</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n327">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5332.547891355693"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">8. require() (Importieren von Modulen) CommonJS</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n328">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-5339.870634920635"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">const fs = require("fs"); // Importiert das `fs`-Modul für Dateisystem-Operationen
+console.log(typeof fs.readFile); // "function"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n329">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-5232.519319927122"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">9. module &amp; exports (Modulsystem in Node.js)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n330">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="94.88012224549402" width="600.0" x="5532.561493186824" y="-5274.870616678301"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.041623622746556">// In Datei `math.js`
+module.exports.add = (a, b) =&gt; a + b;
+
+// In einer anderen Datei
+const math = require("./math");
+console.log(math.add(2, 3)); // 5</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n331">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-4944.44312945093"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">10. import &amp; export (ES Module)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n332">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="94.88012224549402" width="600.0" x="5532.561493186824" y="-4986.794426202112"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.041623622746556">// In Datei `math.js`
+module.exports.add = (a, b) =&gt; a + b;
+
+// In einer anderen Datei
+const math = require("./math");
+console.log(math.add(2, 3)); // 5</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n333">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-4480.603446911249"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">11. URL (Arbeiten mit URLs)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n334">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-4495.743687041812"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">const url = new URL("https://example.com/path?name=John");
+console.log(url.hostname); // "example.com"
+console.log(url.searchParams.get("name")); // "John"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n335">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-4407.785589768391"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">12. timers (Alternativer Zugriff auf setTimeout() &amp; setImmediate())</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n336">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-4415.108333333334"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">const timers = require("timers");
+timers.setTimeout(() =&gt; console.log("Timeout über Timers-Modul"), 1000);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n337">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-4305.277256435058"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">13. worker_threads (Threads in Node.js)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n338">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="110.01661378457993" width="600.0" x="5532.561493186824" y="-4350.108306892291"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.5434631422904204">const { Worker, isMainThread } = require("worker_threads");
+
+if (isMainThread) {
+  new Worker(__filename);
+} else {
+  console.log("Dieser Code läuft in einem Worker-Thread");
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n339">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-4194.951065958867"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">14. os (Infos über das Betriebssystem)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n340">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-4210.091306089431"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">const os = require("os");
+console.log(os.platform()); // z. B. "win32" oder "linux"
+console.log(os.cpus().length); // Anzahl der CPU-Kerne</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n341">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-4114.3157484985495"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1108501850576431">15. fs (Dateisystem-Operationen)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n342">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="50.63499313124339" width="600.0" x="5532.561493186824" y="-4129.455988629114"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1182778156216955">const fs = require("fs");
+fs.writeFileSync("test.txt", "Hallo Welt");
+console.log(fs.readFileSync("test.txt", "utf-8")); // "Hallo Welt"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n343">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-3999.1383675461684"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.11085018505718836">16. http (Erstellen eines einfachen HTTP-Servers)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n344">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="119.71949297630181" width="600.0" x="5532.561493186824" y="-4048.820857599262"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.32849648815090404">const http = require("http");
+
+const server = http.createServer((req, res) =&gt; {
+  res.writeHead(200, { "Content-Type": "text/plain" });
+  res.end("Hallo von Node.js!");
+});
+
+server.listen(3000, () =&gt; console.log("Server läuft auf Port 3000"));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n345">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-3891.7784469112476"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.11085018505718836">17. path (Arbeiten mit Dateipfaden)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n346">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-3899.1011904761904"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">const path = require("path");
+console.log(path.join(__dirname, "test.txt")); // Plattform-unabhängiger Pfad</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n347">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.354512870114377" width="600.0" x="4769.561493186824" y="-3826.7784469112476"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.11085018505718836">18. crypto (Verschlüsselung und Hashing)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n348">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="35.0" width="600.0" x="5532.561493186824" y="-3834.1011904761904"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.3671875">const crypto = require("crypto");
+console.log(crypto.createHash("sha256").update("Passwort").digest("hex"));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n349">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="181.13043103823202" width="600.0" x="4006.561493186824" y="-5181.598945677848"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="175.59375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.768340519116464">Wichtige Unterschiede zu globalen Objekten im Browser:
+
+✅ Kein window, sondern global
+✅ Kein document, da es kein DOM gibt
+✅ process für Umgebungsvariablen und den Node.js-Prozess
+✅ require(), module.exports, import/export für Module
+✅ Buffer für Binärdaten
+✅ __dirname &amp; __filename für Dateipfade
+✅ Viele systemnahe Module wie fs, http, crypto
+
+Node.js ist für Server- und Backend-Entwicklung optimiert und bietet viele Funktionen, die im Browser fehlen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n350">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="132.91160217498054" width="600.0" x="5532.561493186824" y="-5149.84826140495"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="-0.1418551625101827"> CommonJS (CJS)
+
+    Standard in Node.js (bis Node 12+ gab es fast nur CJS)
+
+    Dateien enden oft auf .js
+
+    Verwendet require() zum Importieren
+
+    Verwendet module.exports oder exports zum Exportieren</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n351">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="177.71588044196596" width="600.0" x="6231.561493186824" y="-5284.344249744794"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.127471470983437">✅ Vorteile:
+
+    Funktioniert direkt in Node.js
+
+    Einfach &amp; weit verbreitet
+
+❌ Nachteile:
+
+    Synchrones Laden, nicht optimal für Browser
+
+    Nicht kompatibel mit import/export</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n352">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="110.01661378457993" width="600.0" x="6231.561493186824" y="-5076.628346574831"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.5434631422904204">// &#128194; math.js (CommonJS-Modul)
+module.exports.add = (a, b) =&gt; a + b;
+module.exports.sub = (a, b) =&gt; a - b;
+
+// &#128194; main.js
+const math = require("./math"); // Importieren
+console.log(math.add(2, 3)); // 5</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n353">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="336.1700352886219" width="600.0" x="5532.561493186824" y="-4861.913985898279"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="331.0546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.5576738943109376"> ECMAScript Modules (ESM)
+
+    Der moderne JavaScript-Standard
+
+    Dateien enden meist auf .mjs (oder .js mit "type": "module" in package.json)
+
+    Verwendet import zum Importieren
+
+    Verwendet export zum Exportieren
+
+✅ Vorteile:
+
+    Asynchrones Laden (perfekt für Browser)
+
+    Standard in modernen JavaScript-Umgebungen
+
+    Funktioniert in Node.js und Browsern
+
+❌ Nachteile:
+
+    Standardmäßig nicht direkt in älteren Node.js-Versionen nutzbar
+
+    Möglicherweise nicht kompatibel mit älteren npm-Paketen</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n354">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="257.935463470958" width="600.0" x="6231.561493186824" y="-4935.383803164051"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="260.390625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="-1.227580764521008">
+// &#128194; math.mjs (ESM-Modul)
+export const add = (a, b) =&gt; a + b;
+export const sub = (a, b) =&gt; a - b;
+
+// &#128194; main.mjs
+import { add } from "./math.mjs"; // Importieren
+console.log(add(2, 3)); // 5
+
+// ODER (alternative Schreibweise):
+
+// &#128194; math.mjs
+const add = (a, b) =&gt; a + b;
+export default add;
+
+// &#128194; main.mjs
+import add from "./math.mjs";
+console.log(add(2, 3)); // 5</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n355">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="544.6011416648817" width="600.0" x="6231.561493186824" y="-4646.220610514981"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="528.9140625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.843539582440826">Was ist was?
+Modul	CommonJS (CJS)	ES Modules (ESM)
+require()	✅ Ja	❌ Nein
+import / export	❌ Nein	✅ Ja
+module.exports	✅ Ja	❌ Nein
+.mjs	❌ Nein	✅ Ja
+.cjs	✅ Ja	❌ Nein
+package.json mit "type": "module"	❌ Nein	✅ Ja
+&#128295; Wie aktiviere ich ESM in Node.js?
+
+1️⃣ Dateiendung .mjs verwenden
+2️⃣ Oder in package.json setzen:
+
+{
+  "type": "module"
+}
+
+Dann kannst du auch .js statt .mjs für ES Modules nutzen.
+&#128640; Wann sollte ich was benutzen?
+
+✔ Nutze CommonJS (require()), wenn du:
+✅ Schnell etwas mit Node.js entwickeln willst
+✅ Kompatibel mit älteren Node.js-Versionen bleiben möchtest
+✅ Viele npm-Module nutzt, die noch auf CJS basieren
+
+✔ Nutze ES Modules (import/export), wenn du:
+✅ Modernen JavaScript-Code schreibst
+✅ Code für Browser und Node.js gleichermaßen entwickelst
+✅ Asynchrones Laden brauchst (z. B. import() für dynamische Importe)
+
+&#127919; Fazit:
+
+    CommonJS ist noch weit verbreitet, aber ESM ist die Zukunft &#128640;
+
+    Für neue Projekte: Nutze ES Modules (import/export)
+
+    Für ältere oder bestehende Projekte: CommonJS bleibt eine sichere Wahl &#128161;</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -6906,7 +7549,7 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="29.876929761901195" tx="-300.0" ty="-0.0">
             <y:Point x="3308.061493186824" y="-5048.15799087302"/>
-            <y:Point x="3308.061493186824" y="-4946.64126984127"/>
+            <y:Point x="3308.061493186824" y="-4856.465079365079"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -6920,7 +7563,7 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="59.75385952380239" tx="-300.0" ty="-0.0">
             <y:Point x="3292.061493186824" y="-5018.281061111119"/>
-            <y:Point x="3292.061493186824" y="-4866.005952380952"/>
+            <y:Point x="3292.061493186824" y="-4775.829761904762"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -6933,8 +7576,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-20.253997252497356" tx="-300.0" ty="-0.0">
-            <y:Point x="3959.061493186824" y="-4966.895267093767"/>
-            <y:Point x="3959.061493186824" y="-5050.234523809524"/>
+            <y:Point x="3959.061493186824" y="-4876.719076617576"/>
+            <y:Point x="3959.061493186824" y="-4952.9682539682535"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -6946,10 +7589,7 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="300.0" sy="-10.126998626248678" tx="-300.0" ty="-0.0">
-            <y:Point x="3975.061493186824" y="-4956.768268467518"/>
-            <y:Point x="3975.061493186824" y="-4963.858333333334"/>
-          </y:Path>
+          <y:Path sx="300.0" sy="-10.126998626248678" tx="-300.0" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -6961,8 +7601,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="3991.061493186824" y="-4946.64126984127"/>
-            <y:Point x="3991.061493186824" y="-4869.664682539683"/>
+            <y:Point x="3991.061493186824" y="-4856.465079365079"/>
+            <y:Point x="3991.061493186824" y="-4772.398412698412"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -6975,8 +7615,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="10.126998626248678" tx="-300.0" ty="-0.0">
-            <y:Point x="3975.061493186824" y="-4936.514271215021"/>
-            <y:Point x="3975.061493186824" y="-4789.029365079365"/>
+            <y:Point x="3975.061493186824" y="-4846.33808073883"/>
+            <y:Point x="3975.061493186824" y="-4691.763095238095"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -6989,8 +7629,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="20.253997252497356" tx="-300.0" ty="-0.0">
-            <y:Point x="3959.061493186824" y="-4926.387272588772"/>
-            <y:Point x="3959.061493186824" y="-4708.394047619047"/>
+            <y:Point x="3959.061493186824" y="-4836.211082112582"/>
+            <y:Point x="3959.061493186824" y="-4611.127777777778"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7089,8 +7729,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-21.097913804684747" tx="-300.0" ty="-0.0">
-            <y:Point x="5277.061493186824" y="-5411.229064598336"/>
-            <y:Point x="5277.061493186824" y="-6163.016071428571"/>
+            <y:Point x="5405.061493186824" y="-6543.497516979288"/>
+            <y:Point x="5405.061493186824" y="-7295.284523809524"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7103,8 +7743,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-18.28485863072678" tx="-300.0" ty="-0.0">
-            <y:Point x="5293.061493186824" y="-5408.416009424377"/>
-            <y:Point x="5293.061493186824" y="-6082.380753968254"/>
+            <y:Point x="5421.061493186824" y="-6540.684461805329"/>
+            <y:Point x="5421.061493186824" y="-7214.649206349206"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7116,7 +7756,10 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:Path sx="300.0" sy="-16.878331043747796" tx="-300.0" ty="-0.0">
+            <y:Point x="3959.061493186824" y="-5124.790235805653"/>
+            <y:Point x="3959.061493186824" y="-5963.049603174604"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -7128,8 +7771,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-5.088628217528594" tx="-300.0" ty="-0.0">
-            <y:Point x="4626.061493186824" y="-5113.000532979435"/>
-            <y:Point x="4626.061493186824" y="-5390.131150793651"/>
+            <y:Point x="4626.061493186824" y="-5968.138231392133"/>
+            <y:Point x="4626.061493186824" y="-6522.399603174603"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7141,10 +7784,7 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="300.0" sy="5.088628217528594" tx="-300.0" ty="-0.0">
-            <y:Point x="4626.061493186824" y="-5102.823276544377"/>
-            <y:Point x="4626.061493186824" y="-4825.692658730159"/>
-          </y:Path>
+          <y:Path sx="300.0" sy="5.088628217528594" tx="-300.0" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -7156,8 +7796,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-15.471803456768814" tx="-300.0" ty="-0.0">
-            <y:Point x="5309.061493186824" y="-5405.602954250419"/>
-            <y:Point x="5309.061493186824" y="-6001.745436507937"/>
+            <y:Point x="5437.061493186824" y="-6537.871406631371"/>
+            <y:Point x="5437.061493186824" y="-7134.013888888889"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7170,8 +7810,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-12.658748282810848" tx="-300.0" ty="-0.0">
-            <y:Point x="5325.061493186824" y="-5402.789899076462"/>
-            <y:Point x="5325.061493186824" y="-5894.538293650794"/>
+            <y:Point x="5453.061493186824" y="-6535.058351457414"/>
+            <y:Point x="5453.061493186824" y="-7026.806746031746"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7184,8 +7824,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-9.845693108852881" tx="-300.0" ty="-0.0">
-            <y:Point x="5341.061493186824" y="-5399.976843902504"/>
-            <y:Point x="5341.061493186824" y="-5791.202579365079"/>
+            <y:Point x="5469.061493186824" y="-6532.245296283456"/>
+            <y:Point x="5469.061493186824" y="-6923.471031746032"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7198,8 +7838,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-7.032637934894915" tx="-300.0" ty="-0.0">
-            <y:Point x="5357.061493186824" y="-5397.163788728546"/>
-            <y:Point x="5357.061493186824" y="-5681.2763888888885"/>
+            <y:Point x="5485.061493186824" y="-6529.432241109498"/>
+            <y:Point x="5485.061493186824" y="-6813.5448412698415"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7212,8 +7852,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-4.219582760936948" tx="-300.0" ty="-0.0">
-            <y:Point x="5373.061493186824" y="-5394.350733554587"/>
-            <y:Point x="5373.061493186824" y="-5587.460119047619"/>
+            <y:Point x="5501.061493186824" y="-6526.6191859355395"/>
+            <y:Point x="5501.061493186824" y="-6719.728571428572"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7226,8 +7866,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-1.4065275869789815" tx="-300.0" ty="-0.0">
-            <y:Point x="5389.061493186824" y="-5391.53767838063"/>
-            <y:Point x="5389.061493186824" y="-5486.32123015873"/>
+            <y:Point x="5517.061493186824" y="-6523.806130761582"/>
+            <y:Point x="5517.061493186824" y="-6618.589682539682"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7251,8 +7891,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="4.219582760936952" tx="-300.0" ty="-0.0">
-            <y:Point x="5373.061493186824" y="-5385.911568032714"/>
-            <y:Point x="5373.061493186824" y="-5323.724801587302"/>
+            <y:Point x="5501.061493186824" y="-6518.180020413666"/>
+            <y:Point x="5501.061493186824" y="-6455.993253968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7265,8 +7905,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="7.032637934894915" tx="-300.0" ty="-0.0">
-            <y:Point x="5357.061493186824" y="-5383.098512858755"/>
-            <y:Point x="5357.061493186824" y="-5258.724801587302"/>
+            <y:Point x="5485.061493186824" y="-6515.3669652397075"/>
+            <y:Point x="5485.061493186824" y="-6390.993253968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7279,8 +7919,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="9.845693108852878" tx="-300.0" ty="-0.0">
-            <y:Point x="5341.061493186824" y="-5380.285457684798"/>
-            <y:Point x="5341.061493186824" y="-5193.724801587302"/>
+            <y:Point x="5469.061493186824" y="-6512.55391006575"/>
+            <y:Point x="5469.061493186824" y="-6325.993253968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7293,8 +7933,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="12.65874828281084" tx="-300.0" ty="-0.0">
-            <y:Point x="5325.061493186824" y="-5377.47240251084"/>
-            <y:Point x="5325.061493186824" y="-5128.724801587302"/>
+            <y:Point x="5453.061493186824" y="-6509.740854891792"/>
+            <y:Point x="5453.061493186824" y="-6260.993253968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7307,8 +7947,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="15.471803456768804" tx="-300.0" ty="-0.0">
-            <y:Point x="5309.061493186824" y="-5374.659347336882"/>
-            <y:Point x="5309.061493186824" y="-5063.724801587302"/>
+            <y:Point x="5437.061493186824" y="-6506.927799717834"/>
+            <y:Point x="5437.061493186824" y="-6195.993253968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7321,8 +7961,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="18.284858630726767" tx="-300.0" ty="-0.0">
-            <y:Point x="5293.061493186824" y="-5371.846292162924"/>
-            <y:Point x="5293.061493186824" y="-4998.724801587302"/>
+            <y:Point x="5421.061493186824" y="-6504.114744543876"/>
+            <y:Point x="5421.061493186824" y="-6130.993253968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7335,8 +7975,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="21.09791380468473" tx="-300.0" ty="-0.0">
-            <y:Point x="5277.061493186824" y="-5369.033236988966"/>
-            <y:Point x="5277.061493186824" y="-4933.724801587302"/>
+            <y:Point x="5405.061493186824" y="-6501.301689369918"/>
+            <y:Point x="5405.061493186824" y="-6065.993253968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7349,8 +7989,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="23.910968978642693" tx="-300.0" ty="-0.0">
-            <y:Point x="5261.061493186824" y="-5366.220181815008"/>
-            <y:Point x="5261.061493186824" y="-4876.047420634921"/>
+            <y:Point x="5389.061493186824" y="-6498.48863419596"/>
+            <y:Point x="5389.061493186824" y="-6008.315873015874"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7363,8 +8003,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-23.910968978642714" tx="-300.0" ty="-0.0">
-            <y:Point x="5261.061493186824" y="-5414.0421197722935"/>
-            <y:Point x="5261.061493186824" y="-6228.510912698413"/>
+            <y:Point x="5389.061493186824" y="-6546.310572153246"/>
+            <y:Point x="5389.061493186824" y="-7360.779365079365"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7388,8 +8028,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6024.061493186824" y="-6163.016071428571"/>
-            <y:Point x="6024.061493186824" y="-6214.625198412698"/>
+            <y:Point x="6152.061493186824" y="-7295.284523809524"/>
+            <y:Point x="6152.061493186824" y="-7346.8936507936505"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7402,8 +8042,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6024.061493186824" y="-6082.380753968254"/>
-            <y:Point x="6024.061493186824" y="-6133.989880952381"/>
+            <y:Point x="6152.061493186824" y="-7214.649206349206"/>
+            <y:Point x="6152.061493186824" y="-7266.258333333333"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7416,8 +8056,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-12.658748282810848" tx="-300.0" ty="-0.0">
-            <y:Point x="6040.061493186824" y="-6014.404184790747"/>
-            <y:Point x="6040.061493186824" y="-6068.495039682541"/>
+            <y:Point x="6168.061493186824" y="-7146.6726371716995"/>
+            <y:Point x="6168.061493186824" y="-7200.763492063492"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7507,8 +8147,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6024.061493186824" y="-5323.724801587302"/>
-            <y:Point x="6024.061493186824" y="-5305.041865079365"/>
+            <y:Point x="6152.061493186824" y="-6455.993253968254"/>
+            <y:Point x="6152.061493186824" y="-6437.3103174603175"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7521,8 +8161,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6024.061493186824" y="-5258.724801587302"/>
-            <y:Point x="6024.061493186824" y="-5232.224007936508"/>
+            <y:Point x="6152.061493186824" y="-6390.993253968254"/>
+            <y:Point x="6152.061493186824" y="-6364.49246031746"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7535,8 +8175,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6024.061493186824" y="-5193.724801587302"/>
-            <y:Point x="6024.061493186824" y="-5152.815674603175"/>
+            <y:Point x="6152.061493186824" y="-6325.993253968254"/>
+            <y:Point x="6152.061493186824" y="-6285.084126984126"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7549,8 +8189,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6088.061493186824" y="-5128.724801587302"/>
-            <y:Point x="6088.061493186824" y="-5051.676785714286"/>
+            <y:Point x="6216.061493186824" y="-6260.993253968254"/>
+            <y:Point x="6216.061493186824" y="-6183.945238095239"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7563,8 +8203,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6072.061493186824" y="-5063.724801587302"/>
-            <y:Point x="6072.061493186824" y="-4954.080357142857"/>
+            <y:Point x="6200.061493186824" y="-6195.993253968254"/>
+            <y:Point x="6200.061493186824" y="-6086.34880952381"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7577,8 +8217,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6056.061493186824" y="-4998.724801587302"/>
-            <y:Point x="6056.061493186824" y="-4863.8069444444445"/>
+            <y:Point x="6184.061493186824" y="-6130.993253968254"/>
+            <y:Point x="6184.061493186824" y="-5996.075396825396"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7591,8 +8231,8 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6040.061493186824" y="-4933.724801587302"/>
-            <y:Point x="6040.061493186824" y="-4784.398611111111"/>
+            <y:Point x="6168.061493186824" y="-6065.993253968254"/>
+            <y:Point x="6168.061493186824" y="-5916.667063492064"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -7605,8 +8245,570 @@ console.log(isNaN("Hallo")); // true</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
-            <y:Point x="6024.061493186824" y="-4876.047420634921"/>
-            <y:Point x="6024.061493186824" y="-4719.398611111111"/>
+            <y:Point x="6152.061493186824" y="-6008.315873015874"/>
+            <y:Point x="6152.061493186824" y="-5851.667063492064"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e312" source="n256" target="n312">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
+            <y:Point x="3975.061493186824" y="-5107.911904761905"/>
+            <y:Point x="3975.061493186824" y="-5221.776587301587"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e313" source="n312" target="n313">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-9.611853299776234" tx="-300.0" ty="-0.0">
+            <y:Point x="4626.061493186824" y="-5231.388440601363"/>
+            <y:Point x="4626.061493186824" y="-5877.575"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e314" source="n313" target="n314">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
+            <y:Point x="5389.061493186824" y="-5877.575"/>
+            <y:Point x="5389.061493186824" y="-5892.466269841269"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e315" source="n312" target="n315">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-8.481047029214324" tx="-300.0" ty="-0.0">
+            <y:Point x="4642.061493186824" y="-5230.257634330801"/>
+            <y:Point x="4642.061493186824" y="-5804.511904761905"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e316" source="n315" target="n316">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0">
+            <y:Point x="5389.061493186824" y="-5804.511904761905"/>
+            <y:Point x="5389.061493186824" y="-5811.830952380952"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e317" source="n312" target="n317">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-7.350240758652414" tx="-300.0" ty="-0.0">
+            <y:Point x="4658.061493186824" y="-5229.126828060239"/>
+            <y:Point x="4658.061493186824" y="-5731.195634920636"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e318" source="n317" target="n318">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e319" source="n312" target="n319">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-6.219434488090505" tx="-300.0" ty="-0.0">
+            <y:Point x="4674.061493186824" y="-5227.996021789678"/>
+            <y:Point x="4674.061493186824" y="-5620.8694444444445"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e320" source="n319" target="n320">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e321" source="n312" target="n321">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-5.088628217528595" tx="-300.0" ty="-0.0">
+            <y:Point x="4690.061493186824" y="-5226.865215519116"/>
+            <y:Point x="4690.061493186824" y="-5525.683730158731"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e322" source="n321" target="n322">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e323" source="n312" target="n323">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-3.9578219469666855" tx="-300.0" ty="-0.0">
+            <y:Point x="4706.061493186824" y="-5225.734409248554"/>
+            <y:Point x="4706.061493186824" y="-5468.006349206349"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e324" source="n323" target="n324">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e325" source="n312" target="n325">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-2.827015676404776" tx="-300.0" ty="-0.0">
+            <y:Point x="4722.061493186824" y="-5224.603602977992"/>
+            <y:Point x="4722.061493186824" y="-5395.188492063493"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e326" source="n325" target="n326">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e327" source="n312" target="n327">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-1.6962094058428665" tx="-300.0" ty="-0.0">
+            <y:Point x="4738.061493186824" y="-5223.47279670743"/>
+            <y:Point x="4738.061493186824" y="-5322.370634920635"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e328" source="n327" target="n328">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e329" source="n312" target="n329">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.5654031352809561" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e330" source="n329" target="n330">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-5.088628217528594" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e331" source="n312" target="n331">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="0.5654031352809543" tx="-300.0" ty="-0.0">
+            <y:Point x="4754.061493186824" y="-5221.211184166306"/>
+            <y:Point x="4754.061493186824" y="-4934.265873015873"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e332" source="n331" target="n332">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-5.088628217528594" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e333" source="n312" target="n333">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="1.6962094058428647" tx="-300.0" ty="-0.0">
+            <y:Point x="4738.061493186824" y="-5220.080377895744"/>
+            <y:Point x="4738.061493186824" y="-4470.426190476192"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e334" source="n333" target="n334">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e335" source="n312" target="n335">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="2.827015676404775" tx="-300.0" ty="-0.0">
+            <y:Point x="4722.061493186824" y="-5218.949571625182"/>
+            <y:Point x="4722.061493186824" y="-4397.608333333334"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e336" source="n335" target="n336">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e337" source="n312" target="n337">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="3.9578219469666855" tx="-300.0" ty="-0.0">
+            <y:Point x="4706.061493186824" y="-5217.81876535462"/>
+            <y:Point x="4706.061493186824" y="-4295.1"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e338" source="n337" target="n338">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e339" source="n312" target="n339">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="5.088628217528596" tx="-300.0" ty="-0.0">
+            <y:Point x="4690.061493186824" y="-5216.687959084058"/>
+            <y:Point x="4690.061493186824" y="-4184.773809523809"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e340" source="n339" target="n340">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e341" source="n312" target="n341">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="6.219434488090506" tx="-300.0" ty="-0.0">
+            <y:Point x="4674.061493186824" y="-5215.557152813496"/>
+            <y:Point x="4674.061493186824" y="-4104.138492063492"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e342" source="n341" target="n342">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e343" source="n312" target="n343">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="7.350240758652415" tx="-300.0" ty="-0.0">
+            <y:Point x="4658.061493186824" y="-5214.426346542935"/>
+            <y:Point x="4658.061493186824" y="-3988.961111111111"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e344" source="n343" target="n344">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e345" source="n312" target="n345">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="8.481047029214324" tx="-300.0" ty="-0.0">
+            <y:Point x="4642.061493186824" y="-5213.295540272373"/>
+            <y:Point x="4642.061493186824" y="-3881.6011904761904"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e346" source="n345" target="n346">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e347" source="n312" target="n347">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="9.611853299776232" tx="-300.0" ty="-0.0">
+            <y:Point x="4626.061493186824" y="-5212.164734001811"/>
+            <y:Point x="4626.061493186824" y="-3816.6011904761904"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e348" source="n347" target="n348">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e349" source="n256" target="n349">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="16.878331043747792" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e350" source="n329" target="n350">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="5.088628217528594" tx="-300.0" ty="-0.0">
+            <y:Point x="5389.061493186824" y="-5217.253435274535"/>
+            <y:Point x="5389.061493186824" y="-5083.39246031746"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e351" source="n350" target="n351">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-33.227900543745136" tx="-300.0" ty="-0.0">
+            <y:Point x="6152.061493186824" y="-5116.620360861205"/>
+            <y:Point x="6152.061493186824" y="-5195.486309523811"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e352" source="n350" target="n352">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="33.227900543745136" tx="-300.0" ty="-0.0">
+            <y:Point x="6152.061493186824" y="-5050.164559773715"/>
+            <y:Point x="6152.061493186824" y="-5021.620039682541"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e353" source="n331" target="n353">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="5.088628217528594" tx="-300.0" ty="-0.0">
+            <y:Point x="5389.061493186824" y="-4929.177244798344"/>
+            <y:Point x="5389.061493186824" y="-4693.828968253968"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e354" source="n353" target="n354">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-84.04250882215547" tx="-300.0" ty="-0.0">
+            <y:Point x="6152.061493186824" y="-4777.8714770761235"/>
+            <y:Point x="6152.061493186824" y="-4806.416071428572"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e355" source="n353" target="n355">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="84.04250882215547" tx="-300.0" ty="-0.0">
+            <y:Point x="6152.061493186824" y="-4609.786459431813"/>
+            <y:Point x="6152.061493186824" y="-4373.92003968254"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
