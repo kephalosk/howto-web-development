@@ -183,7 +183,7 @@
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.0" width="350.0" x="2930.7294949865236" y="-190.39880952380952"/>
+          <y:Geometry height="20.0" width="350.0" x="2942.523060803708" y="-190.39880952380952"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="350.0" x="4.0" xml:space="preserve" y="-0.06640625">&lt;script type="module" src="./src/main.tsx"&gt;&lt;/script&gt;</y:NodeLabel>
@@ -194,7 +194,7 @@
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="206.3732273871338" width="556.1753827970169" x="2355.5541121895067" y="-283.5854232173764"/>
+          <y:Geometry height="206.3732273871338" width="556.1753827970169" x="2367.3476780066912" y="-283.5854232173764"/>
           <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="203.859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="556.1753827970169" x="4.0" xml:space="preserve" y="1.2569261935668692">&lt;!doctype html&gt;
@@ -229,10 +229,10 @@
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.0" width="281.49629837975226" x="2055.057813809754" y="-340.79761904761904"/>
+          <y:Geometry height="20.0" width="293.28986419693683" x="2055.057813809754" y="-340.79761904761904"/>
           <y:Fill color="#3366FF" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="281.49629837975226" x="4.0" xml:space="preserve" y="-0.06640625">javascript-syntax-und-datentypen.graphml</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="293.28986419693683" x="4.0" xml:space="preserve" y="-0.06640625">javascript-syntax-und-datentypen.graphml</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -284,10 +284,21 @@
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="20.0" width="281.49629837975226" x="2055.057813809754" y="-290.66468253968253"/>
+          <y:Geometry height="20.0" width="293.28986419693683" x="2055.057813809754" y="-290.66468253968253"/>
           <y:Fill color="#3366FF" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="281.49629837975226" x="4.0" xml:space="preserve" y="-0.06640625">javascript-variablen-und-konstanten.graphml</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="293.28986419693683" x="4.0" xml:space="preserve" y="-0.06640625">javascript-variablen-und-konstanten.graphml</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n24">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="293.28986419693683" x="2055.057813809754" y="-240.53174603174602"/>
+          <y:Fill color="#3366FF" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="293.28986419693683" x="4.0" xml:space="preserve" y="-0.06640625">javascript-operatoren-und-ausdruecke.graphml</y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -476,7 +487,7 @@
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="111.80607994112222" sy="-0.0" tx="-140.74814918987613" ty="-0.0"/>
+          <y:Path sx="111.80607994112222" sy="-0.0" tx="-146.64493209846842" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -540,7 +551,18 @@
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="111.80607994112222" sy="-0.0" tx="-140.74814918987613" ty="-0.0"/>
+          <y:Path sx="111.80607994112222" sy="-0.0" tx="-146.64493209846842" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="n20" target="n24">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-0.0" tx="-146.64493209846842" ty="-0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
