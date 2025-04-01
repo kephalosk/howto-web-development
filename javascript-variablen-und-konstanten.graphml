@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.21.1-->
+  <key attr.name="Beschreibung" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="161.84756437304623" x="0.0" y="-3000.004761904762"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.84756437304623" x="4.0" xml:space="preserve" y="-0.06640625">Javascript</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="70.0" x="181.84756437304623" y="-3000.004761904762"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.0" x="4.0" xml:space="preserve" y="-0.06640625">Praxis</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="231.0" x="271.8475643730462" y="-3000.004761904762"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.0" x="4.0" xml:space="preserve" y="-0.06640625">1. Grundlagen und DOM-Interaktion</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="223.61215988224444" x="522.8475643730462" y="-3000.004761904762"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="223.61215988224444" x="4.0" xml:space="preserve" y="-0.06640625">Variablen und Konstanten</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="395.55990073861227" width="600.0" x="909.4597242552907" y="-5916.696220210576"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="387.5859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.9869816193058796">1. Variablen deklarieren (var, let, const)
+❌ Bad Practice (Verwendung von var)
+
+var name = "Alice";
+var name = "Bob"; // Erlaubt erneute Deklaration
+console.log(name); // "Bob"
+
+if (true) {
+    var age = 25; // `var` hat Funktionsscope, kein Blockscope
+}
+console.log(age); // 25 (unerwartet sichtbar außerhalb des Blocks)
+
+&#128308; Problem: var kann erneut deklariert werden und ist nicht block-scoped, was zu unerwarteten Fehlern führen kann.
+✅ Best Practice (Verwendung von let)
+
+let name = "Alice";
+name = "Bob"; // Wert kann geändert werden
+console.log(name); // "Bob"
+
+if (true) {
+    let age = 25; // Block-scope
+    console.log(age); // 25
+}
+// console.log(age); // ❌ ReferenceError: age is not defined
+
+&#128994; Vorteil: let hat Block-Scope und kann nicht erneut deklariert werden.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="136.6349931312434" width="600.0" x="1529.4597242552907" y="-5787.233766406892"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.7198403156216955">let name = "Alice";
+name = "Bob"; // Wert kann geändert werden
+console.log(name); // "Bob"
+
+if (true) {
+    let age = 25; // Block-scope
+    console.log(age); // 25
+}
+// console.log(age); // ❌ ReferenceError: age is not defined</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="297.74120206520735" width="600.0" x="909.4597242552907" y="-5491.13607722308"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="274.5234375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="11.6088822826041">2. Konstanten deklarieren (const)
+❌ Bad Practice (Versuch, eine const-Variable neu zuzuweisen)
+
+const PI = 3.14159;
+PI = 3.14; // ❌ TypeError: Assignment to constant variable
+
+&#128308; Problem: Eine const-Variable kann nicht neu zugewiesen werden.
+✅ Best Practice (Verwendung von const, wo möglich)
+
+const PI = 3.14159;
+console.log(PI); // 3.14159
+
+const person = { name: "Alice" };
+person.name = "Bob"; // ✅ Erlaubt, weil das Objekt selbst nicht verändert wird
+console.log(person.name); // "Bob"
+
+// person = { name: "Charlie" }; // ❌ TypeError: Assignment to constant variable
+
+&#128994; Vorteil: const verhindert eine Neuzuweisung, erlaubt aber das Ändern von Objekteigenschaften.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="136.6349931312434" width="600.0" x="1529.4597242552907" y="-5410.582972756098"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.786246565621695">const PI = 3.14159;
+console.log(PI); // 3.14159
+
+const person = { name: "Alice" };
+person.name = "Bob"; // ✅ Erlaubt, weil das Objekt selbst nicht verändert wird
+console.log(person.name); // "Bob"
+
+// person = { name: "Charlie" }; // ❌ TypeError: Assignment to constant variable</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="412.07474596918706" width="600.0" x="909.4597242552907" y="-5163.394515841736"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="401.71875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.177997984593276">3. Unterschied zwischen let und const in Schleifen
+❌ Bad Practice (let benutzen, wenn sich der Wert nicht ändert)
+
+let TAX_RATE = 0.19; // ❌ Sollte eine Konstante sein
+console.log(TAX_RATE);
+
+&#128308; Problem: TAX_RATE sollte als const definiert werden, weil sie sich nicht ändert.
+✅ Best Practice (const für unveränderliche Werte)
+
+const TAX_RATE = 0.19; // ✅ Korrekt
+console.log(TAX_RATE);
+
+❌ Bad Practice (var in Schleifen nutzen)
+
+for (var i = 0; i &lt; 3; i++) {
+    setTimeout(() =&gt; console.log(i), 1000);
+}
+// Ausgabe nach 1 Sekunde: 3, 3, 3 (unerwartet)
+
+&#128308; Problem: var hat keinen Block-Scope, daher bleibt i = 3 am Ende.
+✅ Best Practice (let in Schleifen nutzen)
+
+for (let i = 0; i &lt; 3; i++) {
+    setTimeout(() =&gt; console.log(i), 1000);
+}
+// Ausgabe nach 1 Sekunde: 0, 1, 2 (korrekt)
+
+&#128994; Vorteil: let hat Block-Scope, daher bleibt i pro Iteration erhalten.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="178.55729256270274" width="600.0" x="1529.4597242552907" y="-5046.635789138494"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="175.59375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.4817712813510298">for (var i = 0; i &lt; 3; i++) {
+    setTimeout(() =&gt; console.log(i), 1000);
+}
+// Ausgabe nach 1 Sekunde: 3, 3, 3 (unerwartet)
+
+&#128308; Problem: var hat keinen Block-Scope, daher bleibt i = 3 am Ende.
+✅ Best Practice (let in Schleifen nutzen)
+
+for (let i = 0; i &lt; 3; i++) {
+    setTimeout(() =&gt; console.log(i), 1000);
+}
+// Ausgabe nach 1 Sekunde: 0, 1, 2 (korrekt)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="200.89976176198564" width="600.0" x="909.4597242552907" y="-4721.319722150834"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="189.7265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.586599630993078">4. Variablen ohne Wert initialisieren
+❌ Bad Practice (uninitialisierte let-Variablen verwenden)
+
+let count;
+console.log(count); // undefined (kann zu Fehlern führen)
+
+&#128308; Problem: Es ist besser, Variablen direkt mit einem Wert zu initialisieren.
+✅ Best Practice (direkte Initialisierung)
+
+let count = 0; // ✅ Initialisiert mit sinnvollem Wert
+console.log(count); // 0
+
+&#128994; Vorteil: Klar definierte Werte verhindern undefined-Fehler.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="41.61351492530548" width="600.0" x="1529.4597242552907" y="-4641.676598732494"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.6739449626529677">let count = 0; // ✅ Initialisiert mit sinnvollem Wert
+console.log(count); // 0</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="253.3735457165023" width="600.0" x="909.4597242552907" y="-4490.419709366188"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="246.2578125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.557866608251061">5. Hoisting – Verhalten von Variablen vor der Deklaration
+❌ Bad Practice (var-Hoisting kann unerwartete Werte liefern)
+
+console.log(a); // undefined (statt Fehler)
+var a = 10;
+console.log(a); // 10
+
+&#128308; Problem: var-Deklarationen werden "hochgezogen" (hoisted), aber der Wert bleibt undefined, bis die Zuweisung erfolgt.
+✅ Best Practice (let oder const vermeiden das Problem)
+
+console.log(b); // ❌ ReferenceError: Cannot access 'b' before initialization
+let b = 10;
+console.log(b); // 10
+
+&#128994; Vorteil: let und const werden zwar auch gehoisted, aber sie bleiben im "Temporal Dead Zone" (TDZ), bis sie initialisiert werden.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="49.29260526011285" width="600.0" x="1529.4597242552907" y="-4388.379239137993"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.4470838800561978">console.log(b); // ❌ ReferenceError: Cannot access 'b' before initialization
+let b = 10;
+console.log(b); // 10</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="312.4105210460306" width="600.0" x="909.4597242552907" y="-4207.046133538888"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="302.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.810729273015568">6. Globale Variablen vermeiden
+❌ Bad Practice (globale Variablen ohne let, const oder var)
+
+function setUsername() {
+    username = "Alice"; // ❌ Automatisch eine globale Variable!
+}
+setUsername();
+console.log(username); // "Alice" (wurde ungewollt global)
+
+&#128308; Problem: Ohne let, const oder var wird username automatisch global, was zu ungewollten Nebenwirkungen führt.
+✅ Best Practice (Immer let oder const benutzen)
+
+function setUsername() {
+    let username = "Alice"; // ✅ Lokale Variable
+    console.log(username); // "Alice"
+}
+setUsername();
+// console.log(username); // ❌ ReferenceError: username is not defined
+
+&#128994; Vorteil: Keine versehentliche globale Variable, saubere Scopes.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="97.8341183088362" width="600.0" x="1529.4597242552907" y="-4099.7579321702915"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.5186216544179842">function setUsername() {
+    let username = "Alice"; // ✅ Lokale Variable
+    console.log(username); // "Alice"
+}
+setUsername();
+// console.log(username); // ❌ ReferenceError: username is not defined</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="233.29466527770086" width="600.0" x="909.4597242552907" y="-3864.635427876946"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="217.9921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.651238888850457">7. Dynamische und statische Typisierung von Variablen
+❌ Bad Practice (Typen inkonsistent verwenden)
+
+let data = 42;
+data = "Hallo"; // ❌ Typ gewechselt (schwache Typisierung kann Probleme verursachen)
+console.log(data); // "Hallo"
+
+&#128308; Problem: JavaScript erlaubt Typänderungen, aber das kann zu unerwarteten Fehlern führen.
+✅ Best Practice (Konsistente Typen verwenden oder TypeScript nutzen)
+
+let age = 30; // ✅ Bleibt eine Zahl
+// age = "Dreißig"; // ❌ Fehler in TypeScript (wenn genutzt)
+console.log(age);
+
+&#128994; Vorteil: Klare Typverwendung reduziert Fehler.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="55.724066045047834" width="600.0" x="1529.4597242552907" y="-3775.8501282606194"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.662814272523974">let age = 30; // ✅ Bleibt eine Zahl
+// age = "Dreißig"; // ❌ Fehler in TypeScript (wenn genutzt)
+console.log(age);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="233.29466527770086" width="600.0" x="909.4597242552907" y="-3601.3405866071043"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="217.9921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.651238888850457">8. Objekte und Arrays als const deklarieren
+❌ Bad Practice (const für Objekte falsch verstehen)
+
+const user = { name: "Alice" };
+user = { name: "Bob" }; // ❌ TypeError: Assignment to constant variable.
+
+&#128308; Problem: const verhindert eine Neuzuweisung, aber nicht die Veränderung von Objekteigenschaften.
+✅ Best Practice (Objekte mit Object.freeze schützen, wenn nötig)
+
+const user = Object.freeze({ name: "Alice" });
+user.name = "Bob"; // ❌ Keine Änderung möglich (wird ignoriert)
+console.log(user.name); // "Alice"
+
+&#128994; Vorteil: Object.freeze verhindert unerwünschte Objektveränderungen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="55.724066045047834" width="600.0" x="1529.4597242552907" y="-3512.555286990778"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.662814272523974">const user = Object.freeze({ name: "Alice" });
+user.name = "Bob"; // ❌ Keine Änderung möglich (wird ignoriert)
+console.log(user.name); // "Alice"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="197.56492396297125" width="600.0" x="909.4597242552907" y="-3338.0455572195806"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="189.7265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.9191807314855396">9. Temporale Totzone (TDZ) – Zugriff auf Variablen vor der Initialisierung
+❌ Bad Practice (Zugriff auf let oder const vor der Deklaration)
+
+console.log(x); // ❌ ReferenceError: Cannot access 'x' before initialization
+let x = 5;
+
+&#128308; Problem: x befindet sich in der "Temporal Dead Zone" (TDZ), bis sie deklariert wird.
+✅ Best Practice (Variablen immer oben im Block deklarieren)
+
+let x = 5;
+console.log(x); // ✅ 5 (keine TDZ)
+
+&#128994; Vorteil: Vermeidet TDZ-Fehler und macht Code lesbarer.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n21">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="44.2395063367419" width="600.0" x="1529.4597242552907" y="-3261.382848406466"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.986940668371062">let x = 5;
+console.log(x); // ✅ 5 (keine TDZ)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n22">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="240.9510384165714" width="600.0" x="909.4597242552907" y="-3110.4802811130476"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="232.125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.413019208285732">10. Destrukturierung von Variablen (const, let in Arrays &amp; Objekten)
+❌ Bad Practice (Manuelle Zuweisung aus Objekten)
+
+const user = { name: "Alice", age: 25 };
+const name = user.name;
+const age = user.age;
+console.log(name, age); // "Alice", 25
+
+&#128308; Problem: Umständlich, wenn viele Werte extrahiert werden müssen.
+✅ Best Practice (Destrukturierung verwenden)
+
+const user = { name: "Alice", age: 25 };
+const { name, age } = user;
+console.log(name, age); // "Alice", 25
+
+&#128994; Vorteil: Kürzerer, klarer Code.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n23">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="55.72406604504772" width="600.0" x="1529.4597242552907" y="-3017.866794927286"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.662814272523974">const user = { name: "Alice", age: 25 };
+const { name, age } = user;
+console.log(name, age); // "Alice", 25</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n24">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="377.48969272643075" width="600.0" x="909.4597242552907" y="-2839.5289733473423"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="359.3203125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="9.084690113215402">11. Variablen in Closures (Lexikalischer Scope)
+❌ Bad Practice (Zugriff auf eine sich ändernde Variable in einem Closure)
+
+function createCounters() {
+    let count = 0;
+    return function () {
+        count++;
+        console.log(count);
+    };
+}
+
+const counter = createCounters();
+counter(); // 1
+counter(); // 2
+
+&#128308; Problem: count bleibt im Speicher erhalten, weil das innere function-Closure auf die äußere Variable zugreift. Dies kann unerwartetes Verhalten in Schleifen verursachen.
+✅ Best Practice (IIFE oder let in Schleifen nutzen)
+
+for (let i = 1; i &lt;= 3; i++) {
+    setTimeout(() =&gt; console.log(i), 1000);
+}
+// Ausgabe nach 1 Sekunde: 1, 2, 3 (korrekt)
+
+&#128994; Vorteil: let erstellt eine neue Kopie von i pro Schleifendurchlauf.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n25">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="71.03681232278882" width="600.0" x="1529.4597242552907" y="-2686.3025331455215"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.252781161394523">for (let i = 1; i &lt;= 3; i++) {
+    setTimeout(() =&gt; console.log(i), 1000);
+}
+// Ausgabe nach 1 Sekunde: 1, 2, 3 (korrekt)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n26">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="312.4105210460306" width="600.0" x="909.4597242552907" y="-2432.0389906817454"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="11.877135523015113">12. Variablen in Modulen (import / export)
+❌ Bad Practice (Globale Variablen statt Module verwenden)
+
+// script1.js
+let user = "Alice";
+
+// script2.js
+console.log(user); // ❌ Funktioniert nicht sicher über mehrere Dateien hinweg
+
+&#128308; Problem: Globale Variablen können durch andere Skripte überschrieben werden.
+✅ Best Practice (Module mit export / import nutzen)
+
+// user.js
+export const user = "Alice";
+
+// main.js
+import { user } from "./user.js";
+console.log(user); // ✅ "Alice"
+
+&#128994; Vorteil: Kapselung von Variablen, bessere Struktur.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n27">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="97.8341183088362" width="600.0" x="1529.4597242552907" y="-2324.7507893131483"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.5186216544179842">// user.js
+export const user = "Alice";
+
+// main.js
+import { user } from "./user.js";
+console.log(user); // ✅ "Alice"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n28">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="168.21549359730028" width="600.0" x="909.4597242552907" y="-2089.628381719285"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.377278048650169">13. const und Performance – Wird const schneller ausgeführt?
+
+&#128204; Mythos: const sei schneller als let, weil der Wert nicht verändert werden kann.
+
+&#128161; Realität:
+
+    const und let haben ähnliche Performance.
+
+    Optimierung passiert auf Engine-Ebene (z. B. durch den V8-Compiler in Chrome).
+
+    Verwende const, weil es sicherer ist, nicht wegen Performance.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n29">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="112.06875724558262" width="600.0" x="909.4597242552907" y="-1891.412553225966"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.569534872791337">14. Symbol als unveränderliche Konstante nutzen
+✅ Best Practice (Symbol für einzigartige Werte nutzen)
+
+const ID = Symbol("id");
+console.log(ID === Symbol("id")); // ❌ false (Symbole sind einzigartig)
+
+&#128994; Vorteil: Keine Kollision mit anderen Variablen möglich.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n30">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="39.13525757749471" width="600.0" x="1529.4597242552907" y="-1854.9458033919218"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.4348162887472427">const ID = Symbol("id");
+console.log(ID === Symbol("id")); // ❌ false (Symbole sind einzigartig)</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n31">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="112.06875724558262" width="600.0" x="909.4597242552907" y="-1749.3435056069184"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.569534872791337">15. globalThis für globale Variablen in jeder Umgebung
+✅ Best Practice (globalThis statt window oder global)
+
+globalThis.user = "Alice";
+console.log(globalThis.user); // ✅ "Alice"
+
+&#128994; Vorteil: Funktioniert in Browsern, Node.js und Web-Workers.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n32">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="39.13525757749471" width="600.0" x="1529.4597242552907" y="-1712.8767557728743"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.4348162887472427">globalThis.user = "Alice";
+console.log(globalThis.user); // ✅ "Alice"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n33">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="339.565946906071" width="600.0" x="909.4597242552907" y="-1607.274640119702"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="331.0546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.255629703035538">16. let und const in try/catch Blocks
+❌ Bad Practice (Variable außerhalb von catch blockieren)
+
+try {
+    throw new Error("Oops!");
+} catch (error) {
+    let message = error.message;
+}
+console.log(message); // ❌ ReferenceError: message is not defined
+
+&#128308; Problem: let und const haben Block-Scope, daher ist message nur innerhalb des catch-Blocks sichtbar.
+✅ Best Practice (Variable vor dem try-Block deklarieren)
+
+let message;
+try {
+    throw new Error("Oops!");
+} catch (error) {
+    message = error.message;
+}
+console.log(message); // ✅ "Oops!"
+
+&#128994; Vorteil: message bleibt außerhalb des Blocks nutzbar.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n34">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="112.06875724558262" width="600.0" x="1529.4597242552907" y="-1493.526045289458"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.569534872791337">let message;
+try {
+    throw new Error("Oops!");
+} catch (error) {
+    message = error.message;
+}
+console.log(message); // ✅ "Oops!"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n35">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="282.554202935579" width="600.0" x="909.4597242552907" y="-1237.7084506741387"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="274.5234375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.015382717789407">17. const für funktionale Programmierung (Immutable Data)
+
+&#128204; JavaScript ist von Natur aus nicht funktional, aber const kann helfen, Daten unveränderlich zu machen.
+❌ Bad Practice (Mutieren von Arrays und Objekten)
+
+const numbers = [1, 2, 3];
+numbers.push(4); // ❌ Mutiert das Array
+console.log(numbers); // [1, 2, 3, 4]
+
+&#128308; Problem: numbers wurde verändert, obwohl es const ist.
+✅ Best Practice (Neue Arrays/Objekte erstellen statt zu mutieren)
+
+const numbers = [1, 2, 3];
+const newNumbers = [...numbers, 4]; // ✅ Neues Array statt Mutation
+console.log(newNumbers); // [1, 2, 3, 4]
+
+&#128994; Vorteil: Funktionale Programmierung mit const verhindert Nebeneffekte.
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n36">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="55.72406604504772" width="600.0" x="1529.4597242552907" y="-1124.2933822288733"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.662814272523974">const numbers = [1, 2, 3];
+const newNumbers = [...numbers, 4]; // ✅ Neues Array statt Mutation
+console.log(newNumbers); // [1, 2, 3, 4]</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n37">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="335.99999999999994" width="600.0" x="909.4597242552907" y="-925.1539682539683"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="331.0546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.47265625">18. var kann zu Problemen mit this führen
+❌ Bad Practice (var in Arrow Functions verwenden)
+
+function Person(name) {
+    this.name = name;
+    setTimeout(function () {
+        console.log(this.name); // ❌ undefined (falsches `this`)
+    }, 1000);
+}
+new Person("Alice");
+
+&#128308; Problem: function() erstellt ein neues this, daher ist this.name nicht Alice.
+✅ Best Practice (const mit Arrow Functions nutzen)
+
+function Person(name) {
+    this.name = name;
+    setTimeout(() =&gt; {
+        console.log(this.name); // ✅ "Alice"
+    }, 1000);
+}
+new Person("Alice");
+
+&#128994; Vorteil: Arrow Functions übernehmen this vom umgebenden Kontext.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n38">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="112.06875724558267" width="600.0" x="1529.4597242552907" y="-813.1883468767596"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.569534872791337">function Person(name) {
+    this.name = name;
+    setTimeout(() =&gt; {
+        console.log(this.name); // ✅ "Alice"
+    }, 1000);
+}
+new Person("Alice");</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n39">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="173.15328883004025" width="600.0" x="909.4597242552907" y="-559.1536285420043"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.846175665020155">19. const für Enum-ähnliche Werte nutzen
+✅ Best Practice (const für feste Werte setzen)
+
+const ROLES = Object.freeze({
+    ADMIN: "admin",
+    USER: "user",
+    GUEST: "guest"
+});
+console.log(ROLES.ADMIN); // ✅ "admin"
+
+&#128994; Vorteil: Verhindert das Überschreiben von Werten (ähnlich wie Enums in anderen Sprachen).</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n40">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="100.40894645435242" width="600.0" x="1529.4597242552907" y="-522.7814573541604"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.806035727176209">const ROLES = Object.freeze({
+    ADMIN: "admin",
+    USER: "user",
+    GUEST: "guest"
+});
+console.log(ROLES.ADMIN); // ✅ "admin"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n41">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="335.99999999999994" width="600.0" x="909.4597242552907" y="-356.0"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="316.921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="9.5390625">20. Gibt es eine Obergrenze für Variablen in JavaScript?
+
+&#128204; Technisch gibt es kein Limit für die Anzahl der Variablen, aber:
+
+    Zu viele globale Variablen können Speicherverbrauch erhöhen.
+
+    Zu viele lokale Variablen in einer Funktion können Stack Overflow verursachen.
+
+❌ Bad Practice (Tausende Variablen in einer Funktion)
+
+function createVars() {
+    let a1 = 1, a2 = 2, a3 = 3, ... a10000 = 10000; // ❌ Unrealistisch viele Variablen
+}
+
+&#128308; Problem: Speicherverschwendung &amp; unlesbarer Code.
+✅ Best Practice (Daten in Arrays oder Objekten speichern)
+
+function createVars() {
+    const data = Array.from({ length: 10000 }, (_, i) =&gt; i + 1); // ✅ Besser!
+}
+
+&#128994; Vorteil: Spart Speicherplatz, besser skalierbar.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n42">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="154.00910962811236" width="600.0" x="1529.4597242552907" y="-265.0045548140562"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3404923140561777">function createVars() {
+    let a1 = 1, a2 = 2, a3 = 3, ... a10000 = 10000; // ❌ Unrealistisch viele Variablen
+}
+
+&#128308; Problem: Speicherverschwendung &amp; unlesbarer Code.
+✅ Best Practice (Daten in Arrays oder Objekten speichern)
+
+function createVars() {
+    const data = Array.from({ length: 10000 }, (_, i) =&gt; i + 1); // ✅ Besser!
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <edge id="e0" source="n1" target="n2">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.0" sy="-0.0" tx="-115.5" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n1">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="80.92378218652311" sy="-0.0" tx="-35.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="115.5" sy="-0.0" tx="-111.80607994112222" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n5">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n3" target="n4">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-9.473684210526315" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552907" y="-2999.478446115288"/>
+            <y:Point x="765.9597242552907" y="-5718.91626984127"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n6" target="n7">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n3" target="n6">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-8.421052631578947" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552907" y="-2998.4258145363406"/>
+            <y:Point x="781.9597242552907" y="-5342.265476190476"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n3" target="n8">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-7.368421052631579" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552907" y="-2997.3731829573935"/>
+            <y:Point x="797.9597242552907" y="-4957.357142857143"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n8" target="n9">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n10" target="n11">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n3" target="n10">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-6.315789473684211" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552907" y="-2996.320551378446"/>
+            <y:Point x="813.9597242552907" y="-4620.869841269841"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n3" target="n12">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-5.263157894736842" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552907" y="-2995.2679197994985"/>
+            <y:Point x="829.9597242552907" y="-4363.732936507937"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n12" target="n13">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n14" target="n15">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n3" target="n14">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-4.210526315789473" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552907" y="-2994.2152882205514"/>
+            <y:Point x="845.9597242552907" y="-4050.840873015873"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n16" target="n17">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n3" target="n16">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-3.1578947368421044" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552907" y="-2993.162656641604"/>
+            <y:Point x="861.9597242552907" y="-3747.9880952380954"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="n18" target="n19">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n3" target="n18">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-2.1052631578947363" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552907" y="-2992.1100250626564"/>
+            <y:Point x="877.9597242552907" y="-3484.693253968254"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e19" source="n20" target="n21">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="n3" target="n20">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-1.0526315789473681" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552907" y="-2991.0573934837093"/>
+            <y:Point x="893.9597242552907" y="-3239.263095238095"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e21" source="n22" target="n23">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e22" source="n3" target="n22">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e23" source="n24" target="n25">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e24" source="n3" target="n24">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="1.0526315789473681" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552907" y="-2988.9521303258143"/>
+            <y:Point x="893.9597242552907" y="-2650.784126984127"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e25" source="n26" target="n27">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e26" source="n3" target="n26">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="2.1052631578947363" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552907" y="-2987.8994987468673"/>
+            <y:Point x="877.9597242552907" y="-2275.8337301587303"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e27" source="n3" target="n28">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="3.1578947368421044" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552907" y="-2986.8468671679198"/>
+            <y:Point x="861.9597242552907" y="-2005.5206349206348"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e28" source="n29" target="n30">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e29" source="n3" target="n29">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="4.210526315789473" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552907" y="-2985.7942355889722"/>
+            <y:Point x="845.9597242552907" y="-1835.3781746031746"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e30" source="n31" target="n32">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e31" source="n3" target="n31">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="5.263157894736841" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552907" y="-2984.741604010025"/>
+            <y:Point x="829.9597242552907" y="-1693.309126984127"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e32" source="n33" target="n34">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e33" source="n3" target="n33">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="6.315789473684209" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552907" y="-2983.6889724310777"/>
+            <y:Point x="813.9597242552907" y="-1437.4916666666666"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e34" source="n35" target="n36">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e35" source="n3" target="n35">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="7.368421052631579" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552907" y="-2982.63634085213"/>
+            <y:Point x="797.9597242552907" y="-1096.4313492063493"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e36" source="n37" target="n38">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e37" source="n3" target="n37">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="8.421052631578949" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552907" y="-2981.583709273183"/>
+            <y:Point x="781.9597242552907" y="-757.1539682539683"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e38" source="n39" target="n40">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e39" source="n3" target="n39">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="9.473684210526319" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552907" y="-2980.5310776942356"/>
+            <y:Point x="765.9597242552907" y="-472.57698412698414"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e40" source="n41" target="n42">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
