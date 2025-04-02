@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.21.1-->
+  <key attr.name="Beschreibung" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="161.84756437304623" x="0.0" y="-4019.569841269841"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.84756437304623" x="4.0" xml:space="preserve" y="-0.06640625">Javascript</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="70.0" x="181.84756437304623" y="-4019.569841269841"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.0" x="4.0" xml:space="preserve" y="-0.06640625">Praxis</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="231.0" x="271.8475643730462" y="-4019.569841269841"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.0" x="4.0" xml:space="preserve" y="-0.06640625">1. Grundlagen und DOM-Interaktion</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="223.61215988224444" x="522.8475643730462" y="-4019.569841269841"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="223.61215988224444" x="4.0" xml:space="preserve" y="-0.06640625">Funktionen und Geltungsbereiche</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="371.7323211154946" width="600.0" x="925.4597242552907" y="-4995.0717161133025"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="359.3203125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.206004307747207">9️⃣ Rekursive Funktionen
+
+Rekursion ist eine Technik, bei der sich eine Funktion selbst aufruft.
+❌ Bad Practice: Iteration mit for für rekursive Probleme
+
+function factorial(n) {
+    let result = 1;
+    for (let i = 2; i &lt;= n; i++) {
+        result *= i;
+    }
+    return result;
+}
+console.log(factorial(5)); // ✅ Aber nicht optimal für tiefe Rekursion
+
+&#128308; Problem: Bei sehr großen n könnte eine iterative Lösung den Code schwer verständlich machen.
+✅ Best Practice: Nutzung von Rekursion
+
+function factorial(n) {
+    if (n === 0) return 1; // Basisfall
+    return n * factorial(n - 1); // Rekursiver Aufruf
+}
+console.log(factorial(5)); // ✅ Ausgabe: 120
+
+✅ Warum besser? Rekursive Funktionen sind besonders nützlich für Probleme, die sich in kleinere Teilprobleme zerlegen lassen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="82.53179296377925" width="600.0" x="1545.4597242552907" y="-4850.471452037445"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.9338652318892855">function factorial(n) {
+    if (n === 0) return 1; // Basisfall
+    return n * factorial(n - 1); // Rekursiver Aufruf
+}
+console.log(factorial(5)); // ✅ Ausgabe: 120</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="384.61872361278205" width="600.0" x="925.4597242552907" y="-4593.339123711153"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="373.453125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.58279930639128">10 Lexikalischer Scope &amp; Closure mit var
+❌ Bad Practice: var innerhalb von setTimeout verursacht Probleme
+
+function timer() {
+    for (var i = 1; i &lt;= 3; i++) {
+        setTimeout(() =&gt; {
+            console.log(i); // ❌ Erwartet: 1, 2, 3 / Tatsächlich: 4, 4, 4
+        }, i * 1000);
+    }
+}
+timer();
+
+&#128308; Problem: var ist function-scoped und alle setTimeout-Funktionen greifen auf die gleiche i-Variable zu.
+✅ Best Practice: let oder eine IIFE nutzen
+
+function timer() {
+    for (let i = 1; i &lt;= 3; i++) {
+        setTimeout(() =&gt; {
+            console.log(i); // ✅ Erwartet: 1, 2, 3
+        }, i * 1000);
+    }
+}
+timer();
+
+✅ Warum besser? let ist block-scoped und erstellt eine eigene Instanz von i für jede Iteration.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="127.57460672081288" width="600.0" x="1545.4597242552907" y="-4464.817065265168"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.25605336040644">function timer() {
+    for (let i = 1; i &lt;= 3; i++) {
+        setTimeout(() =&gt; {
+            console.log(i); // ✅ Erwartet: 1, 2, 3
+        }, i * 1000);
+    }
+}
+timer();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="303.8721691727316" width="600.0" x="925.4597242552907" y="-5672.601957602239"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.607959586365723">7️⃣ Immediately Invoked Function Expressions (IIFE)
+Bad Practice: Globale Variablen durch normale Funktionen
+
+function setup() {
+    let secret = "Ich bin geheim";
+}
+setup();
+console.log(secret); // ❌ Fehler: secret ist nicht definiert
+
+&#128308; Problem: Variablen innerhalb normaler Funktionen sind nicht global sichtbar, aber können global verschmutzen, wenn vergessen wird, let oder const zu nutzen.
+Best Practice: IIFE für isolierten Scope
+
+(function() {
+    let secret = "Ich bin geheim";
+    console.log(secret); // ✅ Zugriff innerhalb der IIFE
+})(); 
+// console.log(secret); ❌ Fehler: secret ist nicht definiert
+
+✅ Warum besser? Vermeidet globale Variablen und hält den Code gekapselt.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="85.44883583857768" width="600.0" x="1545.4597242552907" y="-5563.390290935162"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.3923866692884985">(function() {
+    let secret = "Ich bin geheim";
+    console.log(secret); // ✅ Zugriff innerhalb der IIFE
+})(); 
+// console.log(secret); ❌ Fehler: secret ist nicht definiert</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="313.6576523162225" width="600.0" x="925.4597242552907" y="-5338.729619808904"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="302.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.434294908111042">8️⃣ Funktionale Programmierung: Higher-Order Functions
+
+Higher-Order Functions sind Funktionen, die andere Funktionen als Argumente akzeptieren oder eine Funktion zurückgeben.
+❌ Bad Practice: Wiederholter Code ohne Funktionen
+
+const numbers = [1, 2, 3, 4, 5];
+const doubleNumbers = [];
+for (let i = 0; i &lt; numbers.length; i++) {
+    doubleNumbers.push(numbers[i] * 2);
+}
+console.log(doubleNumbers); // ❌ Funktionalität nicht wiederverwendbar
+
+&#128308; Problem: Die Logik ist fest im Code eingebettet und schwer wiederverwendbar.
+✅ Best Practice: Nutzung einer Higher-Order Function (map)
+
+const numbers = [1, 2, 3, 4, 5];
+const doubleNumbers = numbers.map(num =&gt; num * 2);
+console.log(doubleNumbers); // ✅ Ausgabe: [2, 4, 6, 8, 10]
+
+✅ Warum besser? map ist eine Higher-Order Function, die die Logik wiederverwendbar macht.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="54.61125421965653" width="600.0" x="1545.4597242552907" y="-5209.206420760622"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.1064083598284924">const numbers = [1, 2, 3, 4, 5];
+const doubleNumbers = numbers.map(num =&gt; num * 2);
+console.log(doubleNumbers); // ✅ Ausgabe: [2, 4, 6, 8, 10]</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="338.30107134690724" width="600.0" x="925.4597242552907" y="-4178.7203769432945"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="331.0546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.623191923453305">1️⃣1️⃣ Function Currying
+
+Currying ist eine Technik, bei der eine Funktion mehrere Argumente schrittweise annimmt.
+❌ Bad Practice: Mehrfache Argumente auf einmal erwarten
+
+function add(a, b, c) {
+    return a + b + c;
+}
+console.log(add(1, 2, 3)); // ✅ Funktioniert, aber nicht flexibel
+
+&#128308; Problem: Diese Funktion erlaubt keinen schrittweisen Aufruf.
+✅ Best Practice: Currying nutzen
+
+function add(a) {
+    return function(b) {
+        return function(c) {
+            return a + b + c;
+        };
+    };
+}
+console.log(add(1)(2)(3)); // ✅ Ausgabe: 6
+
+✅ Warum besser? Ermöglicht teilweise Anwendung von Funktionen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="127.57460672081311" width="600.0" x="1545.4597242552907" y="-4073.3571446302476"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.25605336040644">function add(a = 0) {
+    return function(b = 0) {
+        return function(c = 0) {
+            return a + b + c;
+        };
+    };
+}
+console.log(add(1)(2)(3)); // ✅ Ausgabe: 6</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="315.30585986083673" width="600.0" x="925.4597242552907" y="-3810.4191997716885"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="302.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.258398680418395">1️⃣2️⃣ Rest-Parameter für flexible Funktionsaufrufe
+❌ Bad Practice: Nutzung von arguments für beliebige Parameter
+
+function sum() {
+    let total = 0;
+    for (let i = 0; i &lt; arguments.length; i++) {
+        total += arguments[i];
+    }
+    return total;
+}
+console.log(sum(1, 2, 3, 4)); // ✅ Funktioniert, aber arguments ist veraltet
+
+&#128308; Problem: arguments ist eine array-ähnliche Struktur, aber kein echtes Array.
+✅ Best Practice: Nutzung von ...rest
+
+function sum(...numbers) {
+    return numbers.reduce((acc, num) =&gt; acc + num, 0);
+}
+console.log(sum(1, 2, 3, 4)); // ✅ Ausgabe: 10
+
+✅ Warum besser? rest erzeugt ein echtes Array und kann mit map, reduce, etc. genutzt werden.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="68.68046557052162" width="600.0" x="1545.4597242552907" y="-3687.106502626531"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.0746077852609233">function sum(...numbers) {
+    return numbers.reduce((acc, num) =&gt; acc + num, 0);
+}
+console.log(sum(1, 2, 3, 4)); // ✅ Ausgabe: 10</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="376.23980723999597" width="600.0" x="925.4597242552907" y="-2772.8576020326964"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="373.453125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.3933411199977854">1️⃣5️⃣ Erste-Klasse-Funktionen (First-Class Functions)
+
+In JavaScript sind Funktionen First-Class Citizens, d.h. sie können wie jede andere Variable behandelt werden.
+❌ Bad Practice: Hardcodierte Funktionsaufrufe
+
+function greet() {
+    console.log("Hallo!");
+}
+function callGreet() {
+    greet(); // ❌ Fest codiert, nicht flexibel
+}
+callGreet();
+
+&#128308; Problem: Die Funktion greet ist nicht austauschbar.
+✅ Best Practice: Funktion als Parameter übergeben
+
+function greet() {
+    console.log("Hallo!");
+}
+function callFunction(fn) {
+    fn(); // ✅ Flexibel, kann jede Funktion aufrufen
+}
+callFunction(greet);
+
+✅ Warum besser? Erhöht Wiederverwendbarkeit und Flexibilität.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="110.15944692176936" width="600.0" x="1545.4597242552907" y="-2639.817421873583"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.614879710884452">function greet() {
+    console.log("Hallo!");
+}
+function callFunction(fn) {
+    fn(); // ✅ Flexibel, kann jede Funktion aufrufen
+}
+callFunction(greet);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="410.5825905841543" width="600.0" x="925.4597242552907" y="-2366.617485768267"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="401.71875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.4319202920769385">1️⃣6️⃣ Funktionen als Rückgabewerte (Higher-Order Functions)
+
+Funktionen können andere Funktionen zurückgeben.
+❌ Bad Practice: Wiederholter Code ohne Rückgabefunktionen
+
+function multiplierBy2(num) {
+    return num * 2;
+}
+function multiplierBy3(num) {
+    return num * 3;
+}
+console.log(multiplierBy2(5)); // ❌ Nicht wiederverwendbar
+console.log(multiplierBy3(5));
+
+&#128308; Problem: Zwei fast identische Funktionen.
+✅ Best Practice: Funktion zurückgeben
+
+function createMultiplier(multiplier) {
+    return function (num) {
+        return num * multiplier;
+    };
+}
+const double = createMultiplier(2);
+const triple = createMultiplier(3);
+console.log(double(5)); // ✅ 10
+console.log(triple(5)); // ✅ 15
+
+✅ Warum besser? Reduziert Redundanz und verbessert Wiederverwendbarkeit.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="144.8321329487626" width="600.0" x="1545.4597242552907" y="-2233.7422569505716"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.818410224381296">function createMultiplier(multiplier) {
+    return function (num) {
+        return num * multiplier;
+    };
+}
+const double = createMultiplier(2);
+const triple = createMultiplier(3);
+console.log(double(5)); // ✅ 10
+console.log(triple(5)); // ✅ 15</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="229.1729296994983" width="600.0" x="925.4597242552907" y="-3465.1130521513364"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="217.9921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.590371099749063">1️⃣3️⃣ Dynamische Funktionen mit new Function()
+❌ Bad Practice: eval() zur Laufzeit verwenden
+
+const code = "return a + b;";
+const add = new Function("a", "b", code);
+console.log(add(2, 3)); // ✅ Funktioniert, aber unsicher
+
+&#128308; Problem: new Function() oder eval() können Sicherheitsrisiken darstellen.
+✅ Best Practice: Funktionsdeklaration oder Expressions nutzen
+
+const add = (a, b) =&gt; a + b;
+console.log(add(2, 3)); // ✅ Sicherer
+
+✅ Warum besser? eval() und new Function() erlauben das Einschleusen von Code und sind ein Sicherheitsrisiko</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n21">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="40.51012716399396" width="600.0" x="1545.4597242552907" y="-3370.7816508835845"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.122251081997092">const add = (a, b) =&gt; a + b;
+console.log(add(2, 3)); // ✅ Sicherer</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n22">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="403.0820916491568" width="600.0" x="925.4597242552907" y="-3205.939855348388"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="387.5859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.748077074578305">1️⃣4️⃣ Methodenbindung mit .bind()
+❌ Bad Practice: this verliert sich in Callbacks
+
+const user = {
+    name: "Alice",
+    greet: function() {
+        setTimeout(function() {
+            console.log("Hallo, " + this.name); // ❌ `this` zeigt auf `window`
+        }, 1000);
+    }
+};
+user.greet();
+
+&#128308; Problem: this referenziert hier das falsche Objekt.
+✅ Best Practice: .bind() nutzen oder Arrow Function
+
+const user = {
+    name: "Alice",
+    greet: function() {
+        setTimeout(() =&gt; {
+            console.log("Hallo, " + this.name); // ✅ this bleibt `user`
+        }, 1000);
+    }
+};
+user.greet();
+
+✅ Warum besser? Behebt das this-Problem in Callbacks.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n23">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="144.8321329487626" width="600.0" x="1545.4597242552907" y="-3076.814875998191"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.818410224381296">const user = {
+    name: "Alice",
+    greet: function() {
+        setTimeout(() =&gt; {
+            console.log("Hallo, " + this.name); // ✅ this bleibt `user`
+        }, 1000);
+    }
+};
+user.greet();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n24">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="310.3498114891864" width="600.0" x="925.4597242552907" y="-1926.0348263795138"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="302.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.780374494593161">1️⃣7️⃣ Dynamische Funktionsaufrufe mit .call(), .apply(), .bind()
+
+Diese Methoden steuern, wie this innerhalb einer Funktion gesetzt wird.
+❌ Bad Practice: Direktaufruf ohne this-Steuerung
+
+const person = {
+    name: "Alice",
+    greet: function() {
+        console.log("Hallo, " + this.name);
+    }
+};
+const greetFn = person.greet;
+greetFn(); // ❌ `this` ist `undefined` oder `window`
+
+&#128308; Problem: this ist verloren gegangen.
+✅ Best Practice: .bind() verwenden
+
+const greetFn = person.greet.bind(person);
+greetFn(); // ✅ "Hallo, Alice"
+
+✅ Warum besser? Sichert den Kontext von this.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n25">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="34.69065723404037" width="600.0" x="1545.4597242552907" y="-1788.2052492519408"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.21251611702018636">const greetFn = person.greet.bind(person);
+greetFn(); // ✅ "Hallo, Alice"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n26">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="302.47215381067457" width="600.0" x="925.4597242552907" y="-1585.684886429147"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.907951905337313">1️⃣8️⃣ IIFE mit Funktionsparametern
+
+IIFEs können Parameter annehmen, um Kapselung zu verbessern.
+❌ Bad Practice: Direkte Variablen im globalen Scope
+
+let count = 0; // ❌ Globale Verschmutzung
+(function() {
+    count++;
+    console.log(count);
+})();
+
+&#128308; Problem: count ist global und kann überschrieben werden.
+✅ Best Practice: Parameter nutzen
+
+(function(count) {
+    count++;
+    console.log(count);
+})(0); // ✅ Kein globaler Zugriff nötig
+
+✅ Warum besser? Vermeidet globale Variablen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n27">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="67.94290820245442" width="600.0" x="1545.4597242552907" y="-1468.4202636250368"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.7058291012272093">(function(count) {
+    count++;
+    console.log(count);
+})(0); // ✅ Kein globaler Zugriff nötig</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n28">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="303.15469982359906" width="600.0" x="925.4597242552907" y="-7215.694016578466"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.249224911799502">3️⃣ Geltungsbereiche (Scopes)
+Bad Practice: Globale Variablen ohne let oder const
+
+function setName() {
+    name = "Alice"; // ❌ Automatische globale Variable
+}
+setName();
+console.log(name); // ❌ Unerwartetes globales Leaking!
+
+&#128308; Problem: Ohne let oder const wird name automatisch global.
+Best Practice: Verwendung von let oder const
+
+function setName() {
+    let name = "Alice";
+    console.log(name);
+}
+setName();
+// console.log(name); ❌ Fehler: name ist nicht global sichtbar
+
+✅ Warum besser? Keine versehentliche Erstellung globaler Variablen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n29">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="79.22707730069988" width="600.0" x="1545.4597242552907" y="-7103.730205317017"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.281507400350165">function setName() {
+    let name = "Alice";
+    console.log(name);
+}
+setName();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n30">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="425.58736235824534" width="600.0" x="925.4597242552907" y="-6882.539316099757"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="415.8515625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.867899929122359">4️⃣ Verschachtelte Funktionen und Closures
+Bad Practice: Keine Rückgabe eines Closures
+
+function counter() {
+    let count = 0;
+    function increment() {
+        count++;
+    }
+}
+const myCounter = counter();
+myCounter.increment(); // ❌ Fehler: myCounter ist `undefined`
+
+&#128308; Problem: increment() ist nicht von außen erreichbar.
+Best Practice: Nutzung eines Closures
+
+function counter() {
+    let count = 0;
+    return {
+        increment: function() {
+            count++;
+            console.log(count);
+        }
+    };
+}
+const myCounter = counter();
+myCounter.increment(); // ✅ Ausgabe: 1
+myCounter.increment(); // ✅ Ausgabe: 2
+
+✅ Warum besser? Die Variable count bleibt privat, aber kann kontrolliert verändert werden.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n31">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="189.03923366622894" width="600.0" x="1545.4597242552907" y="-6764.26525175375"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="175.59375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.722741833114924">function counter() {
+    let count = 0;
+    return {
+        increment: function() {
+            count++;
+            console.log(count);
+        }
+    };
+}
+const myCounter = counter();
+myCounter.increment(); // ✅ Ausgabe: 1
+myCounter.increment(); // ✅ Ausgabe: 2</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n32">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="297.4942793923861" width="600.0" x="925.4597242552907" y="-7942.737615886669"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.419014696192789">1️⃣ Funktionserstellung
+Bad Practice: Verwendung von var in Funktionen
+
+function sayHello() {
+    var message = "Hallo";
+    console.log(message);
+}
+console.log(message); // ❌ Fehler: message ist nicht definiert
+
+&#128308; Problem: var ist function-scoped und kann zu unerwartetem Verhalten führen.
+Best Practice: Verwendung von let oder const
+
+function sayHello() {
+    let message = "Hallo";
+    console.log(message);
+}
+sayHello();
+// console.log(message); ❌ Fehler: message ist außerhalb nicht sichtbar
+
+✅ Warum besser? let und const sind block-scoped und vermeiden unerwartetes Verhalten.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n33">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="98.91673818655113" width="600.0" x="1545.4597242552907" y="-7843.448845283752"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.0599315932759055">function sayHello() {
+    let message = "Hallo";
+    console.log(message);
+}
+sayHello();
+// console.log(message); ❌ Fehler: message ist außerhalb nicht sichtbar</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n34">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="369.5491569916799" width="600.0" x="925.4597242552907" y="-7615.24322928949"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="359.3203125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.114422245839705">2️⃣ Funktion als Ausdruck vs. Deklaration
+Bad Practice: Funktionsausdrücke ohne const oder let
+
+sayHi(); // ❌ Fehler: Cannot access 'sayHi' before initialization
+const sayHi = function() {
+    console.log("Hi!");
+};
+
+&#128308; Problem: Funktionsausdrücke werden nicht gehoisted, daher nicht vor der Definition aufrufbar.
+Best Practice: Funktionsdeklaration oder const für Funktionsausdrücke
+
+// Funktion vor der Nutzung definieren
+function sayHi() {
+    console.log("Hi!");
+}
+sayHi();
+
+// ODER:
+
+const sayHi = function() {
+    console.log("Hi!");
+};
+sayHi();
+
+✅ Warum besser? Funktionsdeklarationen werden gehoisted, daher überall nutzbar.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n35">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="163.73847030115508" width="600.0" x="1545.4597242552907" y="-7512.337885944228"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.1387664005778788">function sayHi() {
+    console.log("Hi!");
+}
+sayHi();
+
+// ODER:
+
+const sayHi = function() {
+    console.log("Hi!");
+};
+sayHi();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n36">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="409.23210667233997" width="600.0" x="925.4597242552907" y="-6426.951767621884"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="401.71875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.756678336169898">5️⃣ Arrow Functions &amp; this Kontext
+Bad Practice: this in normalen Funktionen innerhalb von Methoden
+
+const person = {
+    name: "Alice",
+    greet: function() {
+        setTimeout(function() {
+            console.log("Hallo, " + this.name); // ❌ `this` zeigt auf `window` (oder `undefined` in strict mode)
+        }, 1000);
+    }
+};
+person.greet();
+
+&#128308; Problem: this bezieht sich hier auf das globale Objekt, nicht auf person.
+Best Practice: Arrow Function benutzen
+
+const person = {
+    name: "Alice",
+    greet: function() {
+        setTimeout(() =&gt; {
+            console.log("Hallo, " + this.name); // ✅ `this` bleibt `person`
+        }, 1000);
+    }
+};
+person.greet(); // ✅ Ausgabe: "Hallo, Alice"
+
+✅ Warum besser? Arrow Functions übernehmen this vom umgebenden Kontext.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n37">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="133.44363517367879" width="600.0" x="1545.4597242552907" y="-6289.057531872553"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.1241613368392791">const person = {
+    name: "Alice",
+    greet: function() {
+        setTimeout(() =&gt; {
+            console.log("Hallo, " + this.name); // ✅ `this` bleibt `person`
+        }, 1000);
+    }
+};
+person.greet(); // ✅ Ausgabe: "Hallo, Alice"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n38">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="285.11738711137235" width="600.0" x="925.4597242552907" y="-5987.7194078414"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="260.390625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="12.36338105568575">6️⃣ Parameter mit Default-Werten
+Bad Practice: Kein Default-Wert führt zu undefined
+
+function greet(name) {
+    console.log("Hallo, " + name);
+}
+greet(); // ❌ Ausgabe: "Hallo, undefined"
+
+&#128308; Problem: Falls kein Argument übergeben wird, ist name undefined.
+Best Practice: Standardwerte setzen
+
+function greet(name = "Gast") {
+    console.log("Hallo, " + name);
+}
+greet(); // ✅ Ausgabe: "Hallo, Gast"
+greet("Alice"); // ✅ Ausgabe: "Hallo, Alice"
+
+✅ Warum besser? Verhindert unerwartete undefined-Werte.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n39">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="85.44883583857745" width="600.0" x="1545.4597242552907" y="-5887.885132205003"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.3923866692884985">function greet(name = "Gast") {
+    console.log("Hallo, " + name);
+}
+greet(); // ✅ Ausgabe: "Hallo, Gast"
+greet("Alice"); // ✅ Ausgabe: "Hallo, Alice"</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n40">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="386.04577683208964" width="600.0" x="925.4597242552907" y="-1253.2125709557274"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="373.453125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.296325916044907">1️⃣9️⃣ Generator-Funktionen (function*)
+
+Generatoren ermöglichen pausierbare Funktionen.
+❌ Bad Practice: Normale Funktionen für große Berechnungen
+
+function range(n) {
+    let result = [];
+    for (let i = 1; i &lt;= n; i++) {
+        result.push(i);
+    }
+    return result;
+}
+console.log(range(5)); // ❌ Speicheraufwendig für große `n`
+
+&#128308; Problem: Gibt sofort alle Werte zurück, verbraucht viel Speicher.
+✅ Best Practice: Generator-Funktion nutzen
+
+function* rangeGenerator(n) {
+    for (let i = 1; i &lt;= n; i++) {
+        yield i;
+    }
+}
+const numbers = rangeGenerator(5);
+console.log([...numbers]); // ✅ [1, 2, 3, 4, 5]
+
+✅ Warum besser? Liefert Werte nur bei Bedarf (lazy evaluation).</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n41">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="114.50474494728712" width="600.0" x="1545.4597242552907" y="-1117.4420550133261"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.787528723643618">function* rangeGenerator(n) {
+    for (let i = 1; i &lt;= n; i++) {
+        yield i;
+    }
+}
+const numbers = rangeGenerator(5);
+console.log([...numbers]); // ✅ [1, 2, 3, 4, 5]</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n42">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="428.5583194623147" width="600.0" x="925.4597242552907" y="-837.166461318459"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="415.8515625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.353378481157392">2️⃣0️⃣ Asynchrone Funktionen (async/await)
+
+Erlaubt bessere Handhabung von asynchronem Code.
+❌ Bad Practice: setTimeout mit Callback Hell
+
+function fetchData(callback) {
+    setTimeout(() =&gt; {
+        callback("Daten geladen");
+    }, 2000);
+}
+fetchData(data =&gt; {
+    console.log(data); // ❌ Unübersichtlich bei vielen verschachtelten Callbacks
+});
+
+&#128308; Problem: Callback Hell bei mehreren asynchronen Operationen.
+✅ Best Practice: async/await nutzen
+
+function fetchData() {
+    return new Promise(resolve =&gt; {
+        setTimeout(() =&gt; resolve("Daten geladen"), 2000);
+    });
+}
+async function getData() {
+    const data = await fetchData();
+    console.log(data); // ✅ Bessere Lesbarkeit
+}
+getData();
+
+✅ Warum besser? Code ist linear lesbar und einfacher zu verstehen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n43">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="154.0542294260086" width="600.0" x="1545.4597242552907" y="-699.9144163003059"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3630522130042664">function fetchData() {
+    return new Promise(resolve =&gt; {
+        setTimeout(() =&gt; resolve("Daten geladen"), 2000);
+    });
+}
+async function getData() {
+    const data = await fetchData();
+    console.log(data); // ✅ Bessere Lesbarkeit
+}
+getData();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n44">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="358.6079338067419" width="600.0" x="925.4597242552907" y="-378.6079351573392"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="345.1875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.710216903370963">2️⃣1️⃣ Debouncing &amp; Throttling
+
+Techniken zur Optimierung von Performance durch Steuerung der Funktionsaufrufe.
+❌ Bad Practice: Unkontrollierte Event-Listener
+
+window.addEventListener("resize", () =&gt; {
+    console.log("Resizing..."); // ❌ Führt zu vielen unnötigen Aufrufen
+});
+
+&#128308; Problem: Führt zu Performance-Problemen, da bei jeder Bewegung ausgelöst wird.
+✅ Best Practice: Debouncing
+
+function debounce(func, delay) {
+    let timeout;
+    return function(...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() =&gt; func(...args), delay);
+    };
+}
+window.addEventListener("resize", debounce(() =&gt; {
+    console.log("Resizing..."); // ✅ Wird nur einmal nach der Verzögerung ausgelöst
+}, 300));
+
+✅ Warum besser? Vermeidet unnötige Funktionsaufrufe und verbessert Performance.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n45">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="154.05422942600853" width="600.0" x="1545.4597242552907" y="-276.33108296697253"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3630522130042664">function debounce(func, delay) {
+    let timeout;
+    return function(...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() =&gt; func(...args), delay);
+    };
+}
+window.addEventListener("resize", debounce(() =&gt; {
+    console.log("Resizing..."); // ✅ Wird nur einmal nach der Verzögerung ausgelöst
+}, 300));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <edge id="e0" source="n1" target="n2">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.0" sy="-0.0" tx="-115.5" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n1">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="80.92378218652311" sy="-0.0" tx="-35.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="115.5" sy="-0.0" tx="-111.80607994112222" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n5">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n3" target="n4">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-1.904761904761905" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552907" y="-4011.474603174603"/>
+            <y:Point x="893.9597242552907" y="-4809.205555555555"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n3" target="n6">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-0.9523809523809526" tx="-300.0" ty="-0.0">
+            <y:Point x="909.9597242552907" y="-4010.522222222222"/>
+            <y:Point x="909.9597242552907" y="-4401.0297619047615"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n6" target="n7">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n8" target="n9">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n3" target="n8">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-3.8095238095238093" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552907" y="-4013.379365079365"/>
+            <y:Point x="861.9597242552907" y="-5520.665873015873"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n3" target="n10">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-2.8571428571428568" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552907" y="-4012.426984126984"/>
+            <y:Point x="877.9597242552907" y="-5181.900793650793"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n10" target="n11">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n12" target="n13">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n3" target="n12">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n3" target="n14">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="0.9523809523809526" tx="-300.0" ty="-0.0">
+            <y:Point x="909.9597242552907" y="-4008.6174603174604"/>
+            <y:Point x="909.9597242552907" y="-3652.76626984127"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n14" target="n15">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n16" target="n17">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n3" target="n16">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="3.80952380952381" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552907" y="-4005.7603174603173"/>
+            <y:Point x="861.9597242552907" y="-2584.7376984126986"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="n3" target="n18">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="4.761904761904763" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552907" y="-4004.8079365079366"/>
+            <y:Point x="845.9597242552907" y="-2161.3261904761903"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n18" target="n19">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e19" source="n20" target="n21">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="n3" target="n20">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="1.904761904761905" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552907" y="-4007.6650793650792"/>
+            <y:Point x="893.9597242552907" y="-3350.5265873015874"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e21" source="n3" target="n22">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="2.8571428571428577" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552907" y="-4006.7126984126985"/>
+            <y:Point x="877.9597242552907" y="-3004.3988095238096"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e22" source="n22" target="n23">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e23" source="n24" target="n25">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e24" source="n3" target="n24">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="5.714285714285715" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552907" y="-4003.8555555555554"/>
+            <y:Point x="829.9597242552907" y="-1770.8599206349206"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e25" source="n3" target="n26">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="6.666666666666668" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552907" y="-4002.9031746031746"/>
+            <y:Point x="813.9597242552907" y="-1434.4488095238096"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e26" source="n26" target="n27">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e27" source="n28" target="n29">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e28" source="n3" target="n28">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-7.6190476190476195" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552907" y="-4017.188888888889"/>
+            <y:Point x="797.9597242552907" y="-7064.116666666667"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e29" source="n3" target="n30">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-6.666666666666667" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552907" y="-4016.2365079365077"/>
+            <y:Point x="813.9597242552907" y="-6669.745634920635"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e30" source="n30" target="n31">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e31" source="n32" target="n33">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e32" source="n3" target="n32">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-9.523809523809524" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552907" y="-4019.093650793651"/>
+            <y:Point x="765.9597242552907" y="-7793.990476190476"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e33" source="n3" target="n34">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-8.571428571428571" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552907" y="-4018.1412698412696"/>
+            <y:Point x="781.9597242552907" y="-7430.46865079365"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e34" source="n34" target="n35">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e35" source="n36" target="n37">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e36" source="n3" target="n36">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-5.714285714285714" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552907" y="-4015.284126984127"/>
+            <y:Point x="829.9597242552907" y="-6222.335714285714"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e37" source="n3" target="n38">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-4.761904761904762" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552907" y="-4014.3317460317458"/>
+            <y:Point x="845.9597242552907" y="-5845.160714285715"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e38" source="n38" target="n39">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e39" source="n3" target="n40">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="7.61904761904762" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552907" y="-4001.9507936507935"/>
+            <y:Point x="797.9597242552907" y="-1060.1896825396825"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e40" source="n40" target="n41">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e41" source="n42" target="n43">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e42" source="n3" target="n42">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="8.571428571428573" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552907" y="-4000.9984126984127"/>
+            <y:Point x="781.9597242552907" y="-622.8873015873016"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e43" source="n3" target="n44">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="9.523809523809526" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552907" y="-4000.0460317460315"/>
+            <y:Point x="765.9597242552907" y="-199.30396825396826"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e44" source="n44" target="n45">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
