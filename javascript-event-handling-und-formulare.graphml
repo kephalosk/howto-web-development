@@ -1,0 +1,2418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.21.1-->
+  <key attr.name="Beschreibung" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="161.84756437304623" x="0.0" y="-5308.298412698413"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.84756437304623" x="4.0" xml:space="preserve" y="-0.06640625">Javascript</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="70.0" x="181.84756437304623" y="-5308.298412698413"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.0" x="4.0" xml:space="preserve" y="-0.06640625">Praxis</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="231.0" x="271.8475643730462" y="-5308.298412698413"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.0" x="4.0" xml:space="preserve" y="-0.06640625">1. Grundlagen und DOM-Interaktion</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="223.61215988224444" x="522.8475643730462" y="-5308.298412698413"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="223.61215988224444" x="4.0" xml:space="preserve" y="-0.06640625">Event-Handling und Formulare</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="227.22307507889235" width="600.0" x="973.4597242552907" y="-951.6754264283351"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="203.859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="11.681850039446203">2️⃣5️⃣ DeviceOrientation &amp; Motion Events (Geräte-Bewegung abfangen)
+✅ Best Practice: Smartphone-Neigung erkennen
+
+&lt;script&gt;
+  window.addEventListener("deviceorientation", function(event) {
+    console.log("Alpha:", event.alpha, "Beta:", event.beta, "Gamma:", event.gamma);
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Erlaubt Steuerung durch Gerätedrehung (z. B. für Spiele).
+
+    Funktioniert nur auf Mobilgeräten.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="82.59660354093899" width="600.0" x="1593.4597242552907" y="-879.3621906593584"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.966270520469493">&lt;script&gt;
+  window.addEventListener("deviceorientation", function(event) {
+    console.log("Alpha:", event.alpha, "Beta:", event.beta, "Gamma:", event.gamma);
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="277.233210029095" width="600.0" x="973.4597242552907" y="-297.2332716812142"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="260.390625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.421292514547531">2️⃣7️⃣ Speech Synthesis API (Text in Sprache umwandeln)
+✅ Best Practice: Vorlesefunktion für Formulare
+
+&lt;input type="text" id="speakInput" placeholder="Gib etwas ein"&gt;
+&lt;button id="speakBtn"&gt;Vorlesen&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("speakBtn").addEventListener("click", function() {
+    let text = document.getElementById("speakInput").value;
+    let speech = new SpeechSynthesisUtterance(text);
+    speechSynthesis.speak(speech);
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Erhöht die Barrierefreiheit.
+
+    Ermöglicht Sprach-Feedback für Formulare.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="148.0061772521217" width="600.0" x="1593.4597242552907" y="-232.61975529272752"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.405432376060844">&lt;input type="text" id="speakInput" placeholder="Gib etwas ein"&gt;
+&lt;button id="speakBtn"&gt;Vorlesen&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("speakBtn").addEventListener("click", function() {
+    let text = document.getElementById("speakInput").value;
+    let speech = new SpeechSynthesisUtterance(text);
+    speechSynthesis.speak(speech);
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="293.98346835195315" width="600.0" x="973.4597242552907" y="-1630.0119722712145"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.6636091759764895">2️⃣3️⃣ Resize Observer (Elementgröße automatisch überwachen)
+✅ Best Practice: Größe eines Elements dynamisch überwachen
+
+&lt;div id="resizeBox" style="width: 200px; height: 200px; background: lightblue; resize: both; overflow: auto;"&gt;&lt;/div&gt;
+&lt;script&gt;
+  let resizeObserver = new ResizeObserver(entries =&gt; {
+    for (let entry of entries) {
+      console.log("Neue Größe:", entry.contentRect.width, entry.contentRect.height);
+    }
+  });
+
+  resizeObserver.observe(document.getElementById("resizeBox"));
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Erkennt Änderungen an der Größe eines Elements.
+
+    Besser als window.onresize, da es nur relevante Elemente beobachtet.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="324.3525565538343" width="600.0" x="973.4597242552907" y="-1306.0282624039014"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="316.921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.7153407769171736">2️⃣4️⃣ IntersectionObserver (Elemente im Viewport erkennen)
+✅ Best Practice: Lazy Loading mit IntersectionObserver
+
+&lt;img data-src="bild.jpg" class="lazy-load" width="400"&gt;
+&lt;script&gt;
+  let observer = new IntersectionObserver(entries =&gt; {
+    entries.forEach(entry =&gt; {
+      if (entry.isIntersecting) {
+        entry.target.src = entry.target.dataset.src;
+        observer.unobserve(entry.target);
+      }
+    });
+  });
+
+  document.querySelectorAll(".lazy-load").forEach(img =&gt; observer.observe(img));
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Ersetzt scroll-Event für Performance-Optimierung.
+
+    Erkennt, wenn Elemente sichtbar sind.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="197.2020831791774" width="600.0" x="1593.4597242552907" y="-1242.453025716573"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="189.7265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.7377603395887036">&lt;img data-src="bild.jpg" class="lazy-load" width="400"&gt;
+&lt;script&gt;
+  let observer = new IntersectionObserver(entries =&gt; {
+    entries.forEach(entry =&gt; {
+      if (entry.isIntersecting) {
+        entry.target.src = entry.target.dataset.src;
+        observer.unobserve(entry.target);
+      }
+    });
+  });
+
+  document.querySelectorAll(".lazy-load").forEach(img =&gt; observer.observe(img));
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="367.218386511151" width="600.0" x="973.4597242552907" y="-694.4520503984327"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="345.1875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="11.01544325557552">2️⃣6️⃣ Gamepad API (Controller-Eingaben abfangen)
+✅ Best Practice: Controller verbinden &amp; Tasten drücken erkennen
+
+&lt;script&gt;
+  window.addEventListener("gamepadconnected", function(event) {
+    console.log("Controller verbunden:", event.gamepad);
+  });
+
+  function updateGamepad() {
+    let gamepads = navigator.getGamepads();
+    if (gamepads[0]) {
+      console.log("Taste gedrückt:", gamepads[0].buttons[0].pressed);
+    }
+    requestAnimationFrame(updateGamepad);
+  }
+
+  requestAnimationFrame(updateGamepad);
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Erlaubt die Steuerung mit einem Controller.
+
+    Perfekt für Spiele oder interaktive Apps.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="227.22307507889195" width="600.0" x="1593.4597242552907" y="-624.4543946823031"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="217.9921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.615443789445976">&lt;script&gt;
+  window.addEventListener("gamepadconnected", function(event) {
+    console.log("Controller verbunden:", event.gamepad);
+  });
+
+  function updateGamepad() {
+    let gamepads = navigator.getGamepads();
+    if (gamepads[0]) {
+      console.log("Taste gedrückt:", gamepads[0].buttons[0].pressed);
+    }
+    requestAnimationFrame(updateGamepad);
+  }
+
+  requestAnimationFrame(updateGamepad);
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="377.26728627490354" width="600.0" x="973.4597242552907" y="-3061.3630082168165"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="359.3203125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.9734868874516">1️⃣9️⃣ Speech Recognition API (Formulare per Sprache ausfüllen)
+
+Moderne Browser bieten eine Spracherkennung, um Formulare per Spracheingabe auszufüllen.
+✅ Best Practice: Sprachsteuerung für Formulare
+
+&lt;input type="text" id="speechInput" placeholder="Sag etwas..."&gt;
+&lt;button id="start"&gt;Spracheingabe starten&lt;/button&gt;
+&lt;script&gt;
+  let recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+  recognition.lang = "de-DE";
+
+  document.getElementById("start").addEventListener("click", function() {
+    recognition.start();
+  });
+
+  recognition.onresult = function(event) {
+    document.getElementById("speechInput").value = event.results[0][0].transcript;
+  };
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Barrierefreiheit verbessern.
+
+    Schnellere Dateneingabe.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="210.22703765175152" width="600.0" x="1593.4597242552907" y="-2977.842883905241"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="203.859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.1838313258758717">&lt;input type="text" id="speechInput" placeholder="Sag etwas..."&gt;
+&lt;button id="start"&gt;Spracheingabe starten&lt;/button&gt;
+&lt;script&gt;
+  let recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+  recognition.lang = "de-DE";
+
+  document.getElementById("start").addEventListener("click", function() {
+    recognition.start();
+  });
+
+  recognition.onresult = function(event) {
+    document.getElementById("speechInput").value = event.results[0][0].transcript;
+  };
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="397.8260541175479" width="600.0" x="973.4597242552907" y="-2654.0955667413136"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="387.5859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.120058308773878">2️⃣0️⃣ beforeunload &amp; unload (Seite verlassen verhindern)
+❌ Bad Practice: unload für Warnungen nutzen
+
+&lt;script&gt;
+  window.addEventListener("unload", function() {
+    alert("Seite wird verlassen!"); // Funktioniert nicht mehr in modernen Browsern!
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    alert() in unload wird blockiert.
+
+✅ Best Practice: beforeunload für Warnungen nutzen
+
+&lt;script&gt;
+  window.addEventListener("beforeunload", function(event) {
+    event.preventDefault();
+    event.returnValue = "Möchtest du die Seite wirklich verlassen?";
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Zeigt eine echte Warnung an.
+
+    Funktioniert in modernen Browsern.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="95.40993232066421" width="600.0" x="1593.4597242552907" y="-2502.887505842872"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.306528660332333">&lt;script&gt;
+  window.addEventListener("beforeunload", function(event) {
+    event.preventDefault();
+    event.returnValue = "Möchtest du die Seite wirklich verlassen?";
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="263.67310882780504" width="600.0" x="973.4597242552907" y="-3752.850443302791"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="260.390625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.6412419139023768">1️⃣7️⃣ Fokus-Events (focus, blur und focusin)
+
+focus und blur funktionieren nicht beim Event-Bubbling, aber focusin schon.
+✅ Best Practice: focusin für Event Delegation nutzen
+
+&lt;input type="text" class="feld" placeholder="Klick mich"&gt;
+&lt;input type="text" class="feld" placeholder="Und mich auch"&gt;
+&lt;script&gt;
+  document.addEventListener("focusin", function(event) {
+    if (event.target.classList.contains("feld")) {
+      console.log("Feld hat den Fokus: " + event.target.placeholder);
+    }
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Nur ein Event-Listener für alle Eingabefelder.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="140.5962756023663" width="600.0" x="1593.4597242552907" y="-3691.312026690072"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.700481551183202">&lt;input type="text" class="feld" placeholder="Klick mich"&gt;
+&lt;input type="text" class="feld" placeholder="Und mich auch"&gt;
+&lt;script&gt;
+  document.addEventListener("focusin", function(event) {
+    if (event.target.classList.contains("feld")) {
+      console.log("Feld hat den Fokus: " + event.target.placeholder);
+    }
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="367.8140424684011" width="600.0" x="973.4597242552907" y="-3459.177259329438"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="359.3203125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.246864984200329">1️⃣8️⃣ Form-Events: Change vs. Input
+❌ Bad Practice: change für Live-Validierung nutzen
+
+&lt;input type="text" id="name"&gt;
+&lt;script&gt;
+  document.getElementById("name").addEventListener("change", function() {
+    console.log("Wert geändert: " + this.value);
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    change wird erst ausgelöst, wenn das Feld verlassen wird.
+
+✅ Best Practice: input für Live-Validierung nutzen
+
+&lt;script&gt;
+  document.getElementById("name").addEventListener("input", function() {
+    console.log("Live-Änderung: " + this.value);
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Reagiert sofort auf Eingaben.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="80.5841136621226" width="600.0" x="1593.4597242552907" y="-3315.5622949262997"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.9600255810614726">&lt;script&gt;
+  document.getElementById("name").addEventListener("input", function() {
+    console.log("Live-Änderung: " + this.value);
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n21">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="256.0356668015817" width="600.0" x="973.4597242552907" y="-2226.2694207023783"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="246.2578125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.888927150791005">2️⃣1️⃣ Pointer Events (Ersetzt touch und mouse Events)
+
+Pointer Events vereinen touch, mouse und pen in einem API.
+✅ Best Practice: Einheitliche Steuerung für Maus, Touch und Stift
+
+&lt;div id="box" style="width:100px; height:100px; background:gray;"&gt;&lt;/div&gt;
+&lt;script&gt;
+  document.getElementById("box").addEventListener("pointerdown", function(event) {
+    console.log("Pointer-Event: " + event.pointerType); // "mouse", "touch" oder "pen"
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Einheitliche Event-Behandlung für Maus, Touch und Stylus.
+
+    Kein extra touchstart, mousedown, mouseup nötig.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n22">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="95.40993232066398" width="600.0" x="1593.4597242552907" y="-2145.956553461919"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.306528660331878">&lt;div id="box" style="width:100px; height:100px; background:gray;"&gt;&lt;/div&gt;
+&lt;script&gt;
+  document.getElementById("box").addEventListener("pointerdown", function(event) {
+    console.log("Pointer-Event: " + event.pointerType); // "mouse", "touch" oder "pen"
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n23">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="280.2214344243934" width="600.0" x="973.4597242552907" y="-1940.2337330852126"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="274.5234375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.8489984621967324">2️⃣2️⃣ MutationObserver (Änderungen an DOM-Elementen abfangen)
+✅ Best Practice: Änderungen an Form-Elementen erkennen
+
+&lt;div id="content"&gt;Ändere mich!&lt;/div&gt;
+&lt;script&gt;
+  let observer = new MutationObserver(mutations =&gt; {
+    mutations.forEach(mutation =&gt; {
+      console.log("Änderung entdeckt: ", mutation);
+    });
+  });
+
+  observer.observe(document.getElementById("content"), { childList: true, subtree: true });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Beobachtet Änderungen im DOM.
+
+    Alternative zu setInterval für DOM-Änderungen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n24">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="152.2556463452513" width="600.0" x="1593.4597242552907" y="-1876.2508390456414"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.46376067262554">&lt;div id="content"&gt;Ändere mich!&lt;/div&gt;
+&lt;script&gt;
+  let observer = new MutationObserver(mutations =&gt; {
+    mutations.forEach(mutation =&gt; {
+      console.log("Änderung entdeckt: ", mutation);
+    });
+  });
+
+  observer.observe(document.getElementById("content"), { childList: true, subtree: true });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n25">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="165.32125855514937" width="600.0" x="1593.4597242552907" y="-1565.6808673728124"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.9301605275745715">&lt;div id="resizeBox" style="width: 200px; height: 200px; background: lightblue; resize: both; overflow: auto;"&gt;&lt;/div&gt;
+&lt;script&gt;
+  let resizeObserver = new ResizeObserver(entries =&gt; {
+    for (let entry of entries) {
+      console.log("Neue Größe:", entry.contentRect.width, entry.contentRect.height);
+    }
+  });
+
+  resizeObserver.observe(document.getElementById("resizeBox"));
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n26">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="725.0673475454157" width="600.0" x="973.4597242552907" y="-8278.463038852073"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="712.640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.2133612727084255">9️⃣ Throttling &amp; Debouncing für Performance-Optimierung
+❌ Bad Practice: Ungefilterte Event-Listener (z. B. für scroll oder resize)
+
+&lt;script&gt;
+  window.addEventListener("scroll", function() {
+    console.log("Scroll-Ereignis ausgelöst");
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Führt zu vielen Event-Aufrufen und Performance-Problemen.
+
+✅ Best Practice: Throttling nutzen (setTimeout)
+
+&lt;script&gt;
+  let timeout;
+  window.addEventListener("scroll", function() {
+    if (!timeout) {
+      timeout = setTimeout(() =&gt; {
+        console.log("Scroll-Ereignis ausgelöst");
+        timeout = null;
+      }, 200);
+    }
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Reduziert die Anzahl der Funktionsaufrufe.
+
+    Spart CPU-Leistung.
+
+✅ Alternative: Debouncing mit setTimeout
+
+&lt;script&gt;
+  let timer;
+  window.addEventListener("resize", function() {
+    clearTimeout(timer);
+    timer = setTimeout(() =&gt; {
+      console.log("Größe geändert");
+    }, 300);
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Die Funktion wird erst nach der letzten Aktion ausgeführt.
+
+    Verhindert unnötige Berechnungen während der Aktion.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n27">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="164.8956770907023" width="600.0" x="1593.4597242552907" y="-8179.643870291383"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.71736979535126">&lt;script&gt;
+  let timeout;
+  window.addEventListener("scroll", function() {
+    if (!timeout) {
+      timeout = setTimeout(() =&gt; {
+        console.log("Scroll-Ereignis ausgelöst");
+        timeout = null;
+      }, 200);
+    }
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n28">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="459.71327317756044" width="600.0" x="973.4597242552907" y="-6853.254255636399"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="444.1171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.79804283878002">1️⃣1️⃣ Clipboard-Events (Kopieren, Einfügen, Ausschneiden)
+❌ Bad Practice: Direktes Ändern der Zwischenablage
+
+&lt;input type="text" id="textInput" value="Kopiere mich"&gt;
+&lt;script&gt;
+  document.getElementById("textInput").oncopy = function() {
+    alert("Text wurde kopiert!");
+  };
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    oncopy ist weniger flexibel und schwer erweiterbar.
+
+✅ Best Practice: Clipboard-API nutzen
+
+&lt;input type="text" id="textInput" value="Kopiere mich"&gt;
+&lt;button id="copyBtn"&gt;Kopieren&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("copyBtn").addEventListener("click", async function() {
+    let text = document.getElementById("textInput").value;
+    await navigator.clipboard.writeText(text);
+    alert("Text kopiert!");
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Moderne API mit mehr Kontrolle.
+
+    Funktioniert auch ohne direkte Benutzerinteraktion.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n29">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="138.48216668255554" width="600.0" x="1593.4597242552907" y="-6692.6387023888965"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.643427091277772">&lt;input type="text" id="textInput" value="Kopiere mich"&gt;
+&lt;button id="copyBtn"&gt;Kopieren&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("copyBtn").addEventListener("click", async function() {
+    let text = document.getElementById("textInput").value;
+    await navigator.clipboard.writeText(text);
+    alert("Text kopiert!");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n30">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="497.46455095062146" width="600.0" x="973.4597242552907" y="-9276.638227856263"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="486.515625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.474462975311326">7️⃣ Event-Bubbling &amp; Event-Capturing
+❌ Bad Practice: Direktes Setzen von Event-Handlern auf Kind-Elemente
+
+&lt;div id="container"&gt;
+  &lt;button id="child"&gt;Klick mich&lt;/button&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  document.getElementById("child").addEventListener("click", function() {
+    alert("Button geklickt!");
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Wenn später neue Buttons hinzukommen, erhalten sie keine Event-Listener.
+
+✅ Best Practice: Event-Bubbling für Delegation nutzen
+
+&lt;div id="container"&gt;
+  &lt;button class="child"&gt;Klick mich&lt;/button&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  document.getElementById("container").addEventListener("click", function(event) {
+    if (event.target.classList.contains("child")) {
+      alert("Button geklickt!");
+    }
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Funktioniert auch für später hinzugefügte Buttons.
+
+    Nur ein Event-Listener statt mehrere.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n31">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="440.7101638542885" width="600.0" x="973.4597242552907" y="-8749.173335895399"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="429.984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.362894427144056">8️⃣ once Option für Events (Einmalige Events)
+❌ Bad Practice: Manuelles Entfernen des Event-Listeners
+
+&lt;button id="onceBtn"&gt;Nur einmal klicken&lt;/button&gt;
+&lt;script&gt;
+  function handleClick() {
+    alert("Einmal geklickt!");
+    document.getElementById("onceBtn").removeEventListener("click", handleClick);
+  }
+  document.getElementById("onceBtn").addEventListener("click", handleClick);
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Manuelles Entfernen des Listeners macht den Code unnötig kompliziert.
+
+✅ Best Practice: once: true nutzen
+
+&lt;button id="onceBtn"&gt;Nur einmal klicken&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("onceBtn").addEventListener("click", function() {
+    alert("Einmal geklickt!");
+  }, { once: true });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Keine manuelle Entfernung des Listeners nötig.
+
+    Speicherverbrauch wird reduziert.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n32">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="93.20549865305884" width="600.0" x="1593.4597242552907" y="-8575.421003294785"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.2043118265301018">&lt;button id="onceBtn"&gt;Nur einmal klicken&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("onceBtn").addEventListener("click", function() {
+    alert("Einmal geklickt!");
+  }, { once: true });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n33">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="640.140931230161" width="600.0" x="973.4597242552907" y="-7523.39546561508"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="627.84375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.148590615080138">10. Dynamisches Hinzufügen von Event-Handlern für Formulare
+❌ Bad Practice: Event-Handler für jedes neue Formularfeld manuell setzen
+
+&lt;button id="addField"&gt;Feld hinzufügen&lt;/button&gt;
+&lt;form id="meinForm"&gt;&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("addField").addEventListener("click", function() {
+    let input = document.createElement("input");
+    input.type = "text";
+    input.addEventListener("input", function() {
+      console.log("Eingabe: " + this.value);
+    });
+    document.getElementById("meinForm").appendChild(input);
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Jeder neue Input bekommt einen eigenen Event-Listener → Speicherproblem.
+
+✅ Best Practice: Event-Delegation nutzen
+
+&lt;button id="addField"&gt;Feld hinzufügen&lt;/button&gt;
+&lt;form id="meinForm"&gt;&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("addField").addEventListener("click", function() {
+    let input = document.createElement("input");
+    input.type = "text";
+    input.classList.add("dynamic-input");
+    document.getElementById("meinForm").appendChild(input);
+  });
+
+  document.getElementById("meinForm").addEventListener("input", function(event) {
+    if (event.target.classList.contains("dynamic-input")) {
+      console.log("Eingabe: " + event.target.value);
+    }
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Nur ein Event-Listener für alle Input-Felder.
+
+    Performance wird verbessert.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n34">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="241.08225601872277" width="600.0" x="1593.4597242552907" y="-7323.866128009361"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="232.125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.478628009361273">&lt;button id="addField"&gt;Feld hinzufügen&lt;/button&gt;
+&lt;form id="meinForm"&gt;&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("addField").addEventListener("click", function() {
+    let input = document.createElement("input");
+    input.type = "text";
+    input.classList.add("dynamic-input");
+    document.getElementById("meinForm").appendChild(input);
+  });
+
+  document.getElementById("meinForm").addEventListener("input", function(event) {
+    if (event.target.classList.contains("dynamic-input")) {
+      console.log("Eingabe: " + event.target.value);
+    }
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n35">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="459.7132731775609" width="600.0" x="973.4597242552907" y="-6363.540763572907"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="444.1171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.79804283878002">1️⃣2️⃣ Drag &amp; Drop für Formulare
+✅ Best Practice: Einfaches Drag &amp; Drop für Datei-Uploads
+
+&lt;div id="dropZone" style="border: 2px dashed gray; padding: 20px;"&gt;
+  Ziehe eine Datei hierher
+&lt;/div&gt;
+&lt;input type="file" id="fileInput" style="display: none;"&gt;
+&lt;script&gt;
+  let dropZone = document.getElementById("dropZone");
+
+  dropZone.addEventListener("dragover", function(event) {
+    event.preventDefault();
+    dropZone.style.borderColor = "blue";
+  });
+
+  dropZone.addEventListener("dragleave", function() {
+    dropZone.style.borderColor = "gray";
+  });
+
+  dropZone.addEventListener("drop", function(event) {
+    event.preventDefault();
+    let files = event.dataTransfer.files;
+    alert(files.length + " Datei(en) hochgeladen");
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Benutzerfreundliche Datei-Uploads.
+
+    Keine zusätzlichen UI-Elemente nötig.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n36">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="325.6831577579203" width="600.0" x="1593.4597242552907" y="-6296.525705863087"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="316.921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.380641378959808">&lt;div id="dropZone" style="border: 2px dashed gray; padding: 20px;"&gt;
+  Ziehe eine Datei hierher
+&lt;/div&gt;
+&lt;input type="file" id="fileInput" style="display: none;"&gt;
+&lt;script&gt;
+  let dropZone = document.getElementById("dropZone");
+
+  dropZone.addEventListener("dragover", function(event) {
+    event.preventDefault();
+    dropZone.style.borderColor = "blue";
+  });
+
+  dropZone.addEventListener("dragleave", function() {
+    dropZone.style.borderColor = "gray";
+  });
+
+  dropZone.addEventListener("drop", function(event) {
+    event.preventDefault();
+    let files = event.dataTransfer.files;
+    alert(files.length + " Datei(en) hochgeladen");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n37">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="828.9395410554457" width="600.0" x="973.4597242552907" y="-5051.5741356070885"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="811.5703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.684614277723085">1️⃣5️⃣ Ereignis-Abbruch (stopPropagation() &amp; stopImmediatePropagation())
+
+Standardmäßig "blubbert" ein Event nach oben zur Elternstruktur. Manchmal will man das verhindern.
+❌ Bad Practice: Kein stopPropagation(), unerwünschte Effekte
+
+&lt;div id="outer"&gt;
+  &lt;button id="inner"&gt;Klick mich&lt;/button&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  document.getElementById("outer").addEventListener("click", function() {
+    alert("Äußeres Element geklickt!");
+  });
+
+  document.getElementById("inner").addEventListener("click", function() {
+    alert("Inneres Element geklickt!");
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Klick auf inner löst auch das outer-Event aus.
+
+✅ Best Practice: stopPropagation() nutzen
+
+&lt;script&gt;
+  document.getElementById("inner").addEventListener("click", function(event) {
+    event.stopPropagation();
+    alert("Inneres Element geklickt!");
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Verhindert ungewolltes Bubbling.
+
+    Nur das innere Event wird ausgelöst.
+
+&#128640; Noch stärker: stopImmediatePropagation()
+
+Falls ein Element mehrere Event-Listener hat, kann stopImmediatePropagation() verhindern, dass andere Listener ausgeführt werden.
+
+&lt;button id="btn"&gt;Klick mich&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("btn").addEventListener("click", function(event) {
+    event.stopImmediatePropagation();
+    alert("Erster Handler ausgeführt!");
+  });
+
+  document.getElementById("btn").addEventListener("click", function() {
+    alert("Dieser wird NIE ausgeführt!");
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Blockiert alle anderen Listener auf demselben Element.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n38">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="96.00111837540635" width="600.0" x="1593.4597242552907" y="-4892.339844901989"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.602121687703402">&lt;script&gt;
+  document.getElementById("inner").addEventListener("click", function(event) {
+    event.stopPropagation();
+    alert("Inneres Element geklickt!");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n39">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="409.7838503576636" width="600.0" x="973.4597242552907" y="-4192.634385496292"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="401.71875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.032550178832025">1️⃣6️⃣ Key Events (Tastatureingaben abfangen)
+❌ Bad Practice: keydown-Events ohne Bedingung abfangen
+
+&lt;script&gt;
+  document.addEventListener("keydown", function(event) {
+    console.log("Taste gedrückt: " + event.key);
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Fängt ALLE Tastenanschläge ab (inkl. F5, Esc, Tab).
+
+✅ Best Practice: Nur bestimmte Tasten erlauben
+
+&lt;script&gt;
+  document.addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+      console.log("Eingabetaste wurde gedrückt!");
+    }
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Filtert gezielt gewünschte Tasten.
+
+    Verhindert unbeabsichtigte Effekte.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n40">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="114.28522827418692" width="600.0" x="1593.4597242552907" y="-4044.885074454554"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.67777038709346">&lt;script&gt;
+  document.addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+      console.log("Eingabetaste wurde gedrückt!");
+    }
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n41">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="328.80452947353683" width="600.0" x="973.4597242552907" y="-5873.8272647367685"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="316.921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.941327236768302">1️⃣3️⃣ Custom Events (Eigene Events erstellen)
+
+JavaScript erlaubt das Erstellen eigener Events mit der CustomEvent API.
+✅ Best Practice: Eigene Events auslösen und abfangen
+
+&lt;button id="customBtn"&gt;Eigenes Event auslösen&lt;/button&gt;
+&lt;script&gt;
+  document.addEventListener("meinEvent", function(event) {
+    console.log("Eigenes Event empfangen: ", event.detail);
+  });
+
+  document.getElementById("customBtn").addEventListener("click", function() {
+    let event = new CustomEvent("meinEvent", { detail: { message: "Hallo Welt!" } });
+    document.dispatchEvent(event);
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Ermöglicht flexible Kommunikation zwischen Komponenten.
+
+    detail kann zusätzliche Daten enthalten.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n42">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="168.10120767730473" width="600.0" x="1593.4597242552907" y="-5793.475603838652"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.320135088652023">&lt;button id="customBtn"&gt;Eigenes Event auslösen&lt;/button&gt;
+&lt;script&gt;
+  document.addEventListener("meinEvent", function(event) {
+    console.log("Eigenes Event empfangen: ", event.detail);
+  });
+
+  document.getElementById("customBtn").addEventListener("click", function() {
+    let event = new CustomEvent("meinEvent", { detail: { message: "Hallo Welt!" } });
+    document.dispatchEvent(event);
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n43">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="433.44836636917097" width="600.0" x="973.4597242552907" y="-5515.022595882999"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="415.8515625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.798401934585854">1️⃣4️⃣ Passives Event-Handling für bessere Performance
+
+Standardmäßig blockiert touchstart oder wheel den Hauptthread, da der Browser auf event.preventDefault() wartet. Die Option { passive: true } löst das Problem.
+❌ Bad Practice: Ohne passive: true (führt zu Verzögerungen)
+
+&lt;script&gt;
+  window.addEventListener("wheel", function(event) {
+    event.preventDefault(); // Blockiert den Hauptthread!
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Performance-Einbußen, weil der Browser wartet.
+
+✅ Best Practice: Passive Events nutzen
+
+&lt;script&gt;
+  window.addEventListener("wheel", function(event) {
+    console.log("Scroll erkannt");
+  }, { passive: true });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Verbessert die Performance, besonders auf Mobilgeräten.
+
+    Der Browser kann das Scrollen direkt ausführen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n44">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="78.30706596596792" width="600.0" x="1593.4597242552907" y="-5337.451945681397"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.8215017329839611">&lt;script&gt;
+  window.addEventListener("wheel", function(event) {
+    console.log("Scroll erkannt");
+  }, { passive: true });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n45">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="590.2203695240865" width="600.0" x="973.4597242552907" y="-11467.917724444582"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="571.3125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="9.45393476204299">3️⃣ Event Delegation
+❌ Bad Practice: Event-Handler auf jedes Element setzen
+
+&lt;ul&gt;
+  &lt;li class="item"&gt;Item 1&lt;/li&gt;
+  &lt;li class="item"&gt;Item 2&lt;/li&gt;
+  &lt;li class="item"&gt;Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+  document.querySelectorAll(".item").forEach(item =&gt; {
+    item.addEventListener("click", function() {
+      console.log("Geklickt: " + this.textContent);
+    });
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Falls viele Elemente vorhanden sind, wird für jedes ein Event-Listener erstellt (ineffizient).
+
+✅ Best Practice: Event Delegation
+
+&lt;ul id="liste"&gt;
+  &lt;li class="item"&gt;Item 1&lt;/li&gt;
+  &lt;li class="item"&gt;Item 2&lt;/li&gt;
+  &lt;li class="item"&gt;Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+  document.getElementById("liste").addEventListener("click", function(event) {
+    if (event.target.classList.contains("item")) {
+      console.log("Geklickt: " + event.target.textContent);
+    }
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Nur ein Event-Listener für die gesamte Liste.
+
+    Funktioniert auch für später hinzugefügte Elemente.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n46">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="181.59283302940412" width="600.0" x="1593.4597242552907" y="-11263.603956197241"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="175.59375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.999541514702287">&lt;ul id="liste"&gt;
+  &lt;li class="item"&gt;Item 1&lt;/li&gt;
+  &lt;li class="item"&gt;Item 2&lt;/li&gt;
+  &lt;li class="item"&gt;Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+  document.getElementById("liste").addEventListener("click", function(event) {
+    if (event.target.classList.contains("item")) {
+      console.log("Geklickt: " + event.target.textContent);
+    }
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n47">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="411.76996395698933" width="600.0" x="973.4597242552907" y="-10847.697283565796"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="401.71875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.025606978495489">4️⃣ Verhindern des Standardverhaltens
+❌ Bad Practice: return false; nutzen
+
+&lt;a href="https://example.com" id="meinLink"&gt;Nicht klicken&lt;/a&gt;
+&lt;script&gt;
+  document.getElementById("meinLink").onclick = function() {
+    alert("Verhindert, aber nicht empfohlen!");
+    return false; // Funktioniert nicht immer zuverlässig.
+  };
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    return false; verhindert nicht alle Event-Effekte.
+
+✅ Best Practice: event.preventDefault() nutzen
+
+&lt;a href="https://example.com" id="meinLink"&gt;Nicht klicken&lt;/a&gt;
+&lt;script&gt;
+  document.getElementById("meinLink").addEventListener("click", function(event) {
+    event.preventDefault();
+    alert("Standardverhalten verhindert!");
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Saubere, explizite Verhinderung des Standardverhaltens.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n48">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="110.74222300017118" width="600.0" x="1593.4597242552907" y="-10697.183413087387"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.9062677500860445">&lt;a href="https://example.com" id="meinLink"&gt;Nicht klicken&lt;/a&gt;
+&lt;script&gt;
+  document.getElementById("meinLink").addEventListener("click", function(event) {
+    event.preventDefault();
+    alert("Standardverhalten verhindert!");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n49">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="365.87227467228325" width="600.0" x="973.4597242552907" y="-12404.04248654249"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="359.3203125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.275981086140746">1️⃣ Event-Handling Grundlagen
+❌ Bad Practice: Inline-Events
+
+&lt;button onclick="alert('Hallo Welt!')"&gt;Klick mich&lt;/button&gt;
+
+&#128308; Problem:
+
+    Vermischt HTML und JavaScript (schlecht für Wartung).
+
+    Kein flexibles Event-Handling.
+
+✅ Best Practice: Event Listener nutzen
+
+&lt;button id="meinButton"&gt;Klick mich&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("meinButton").addEventListener("click", function() {
+    alert("Hallo Welt!");
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Trennt HTML und JavaScript.
+
+    Mehrere Event-Listener möglich.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n50">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="100.22336443926679" width="600.0" x="1593.4597242552907" y="-12271.218031425982"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.713244719632712">&lt;button id="meinButton"&gt;Klick mich&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("meinButton").addEventListener("click", function() {
+    alert("Hallo Welt!");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n51">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="510.2519018479087" width="600.0" x="973.4597242552907" y="-12008.169998543"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="500.6484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.801732173953496">2️⃣ Mehrere Event-Listener vermeiden
+❌ Bad Practice: Mehrere Event-Listener auf dasselbe Element
+
+&lt;button id="btn"&gt;Klick&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("btn").addEventListener("click", function() {
+    console.log("Erstes Event");
+  });
+
+  document.getElementById("btn").addEventListener("click", function() {
+    console.log("Zweites Event");
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Führt zu doppelten Event-Handlern (Performance-Probleme).
+
+✅ Best Practice: Einen einzigen Listener mit einer Funktion nutzen
+
+&lt;button id="btn"&gt;Klick&lt;/button&gt;
+&lt;script&gt;
+  function handleClick() {
+    console.log("Erstes Event");
+    console.log("Zweites Event");
+  }
+
+  document.getElementById("btn").addEventListener("click", handleClick);
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Weniger Speicherverbrauch.
+
+    Bessere Kontrolle.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n52">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="143.86419631855483" width="600.0" x="1593.4597242552907" y="-11824.976145778324"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.334441909277302">&lt;button id="btn"&gt;Klick&lt;/button&gt;
+&lt;script&gt;
+  function handleClick() {
+    console.log("Erstes Event");
+    console.log("Zweites Event");
+  }
+
+  document.getElementById("btn").addEventListener("click", handleClick);
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n53">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="512.2029434257031" width="600.0" x="973.4597242552907" y="-10405.927265363645"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="500.6484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.77725296285098">5️⃣ Formulare und Event-Handling
+❌ Bad Practice: Form-Submit ohne preventDefault()
+
+&lt;form id="meinForm"&gt;
+  &lt;input type="text" name="name" /&gt;
+  &lt;button type="submit"&gt;Absenden&lt;/button&gt;
+&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("meinForm").addEventListener("submit", function() {
+    alert("Formular wird abgeschickt!");
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Seite wird neu geladen, bevor das Skript ausgeführt wird.
+
+✅ Best Practice: event.preventDefault() nutzen
+
+&lt;form id="meinForm"&gt;
+  &lt;input type="text" name="name" required /&gt;
+  &lt;button type="submit"&gt;Absenden&lt;/button&gt;
+&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("meinForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    alert("Formular erfolgreich verarbeitet!");
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Verhindert das Neuladen der Seite.
+
+    Ermöglicht eigene Verarbeitung der Eingaben.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n54">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="155.8480392500153" width="600.0" x="1593.4597242552907" y="-10227.749813275803"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.259957125008441">&lt;form id="meinForm"&gt;
+  &lt;input type="text" name="name" required /&gt;
+  &lt;button type="submit"&gt;Absenden&lt;/button&gt;
+&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("meinForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    alert("Formular erfolgreich verarbeitet!");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n55">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="557.0857751265721" width="600.0" x="973.4597242552907" y="-9863.724236769634"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="543.046875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.019450063286058">6️⃣ Form-Validierung mit JavaScript
+❌ Bad Practice: Validierung ohne Prüfung auf Eingaben
+
+&lt;form id="loginForm"&gt;
+  &lt;input type="text" id="username" /&gt;
+  &lt;button type="submit"&gt;Login&lt;/button&gt;
+&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("loginForm").addEventListener("submit", function(event) {
+    alert("Eingabe gespeichert!");
+  });
+&lt;/script&gt;
+
+&#128308; Problem:
+
+    Formular kann auch ohne Eingabe abgeschickt werden.
+
+✅ Best Practice: Validierung mit JavaScript
+
+&lt;form id="loginForm"&gt;
+  &lt;input type="text" id="username" placeholder="Benutzername" required /&gt;
+  &lt;button type="submit"&gt;Login&lt;/button&gt;
+&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("loginForm").addEventListener("submit", function(event) {
+    let username = document.getElementById("username").value.trim();
+    if (!username) {
+      event.preventDefault();
+      alert("Bitte einen Benutzernamen eingeben!");
+    }
+  });
+&lt;/script&gt;
+
+✅ Vorteile:
+
+    Verhindert fehlerhafte Eingaben.
+
+    Nutzt trim(), um Leerzeichen zu entfernen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n56">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="203.35348112668385" width="600.0" x="1593.4597242552907" y="-9686.85808976969"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="189.7265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.813459313341809">&lt;form id="loginForm"&gt;
+  &lt;input type="text" id="username" placeholder="Benutzername" required /&gt;
+  &lt;button type="submit"&gt;Login&lt;/button&gt;
+&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("loginForm").addEventListener("submit", function(event) {
+    let username = document.getElementById("username").value.trim();
+    if (!username) {
+      event.preventDefault();
+      alert("Bitte einen Benutzernamen eingeben!");
+    }
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n57">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="164.89567709070275" width="600.0" x="1593.4597242552907" y="-9110.353790926303"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.71736979535126">&lt;div id="container"&gt;
+  &lt;button class="child"&gt;Klick mich&lt;/button&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  document.getElementById("container").addEventListener("click", function(event) {
+    if (event.target.classList.contains("child")) {
+      alert("Button geklickt!");
+    }
+  });
+&lt;/script&gt;
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n58">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="151.19119043416845" width="600.0" x="1593.4597242552907" y="-7810.258293629783"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.997938967084337">&lt;script&gt;
+  let timer;
+  window.addEventListener("resize", function() {
+    clearTimeout(timer);
+    timer = setTimeout(() =&gt; {
+      console.log("Größe geändert");
+    }, 300);
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n59">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="166.77732801315733" width="600.0" x="1593.4597242552907" y="-4513.258108451023"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.6581952565784377">&lt;button id="btn"&gt;Klick mich&lt;/button&gt;
+&lt;script&gt;
+  document.getElementById("btn").addEventListener("click", function(event) {
+    event.stopImmediatePropagation();
+    alert("Erster Handler ausgeführt!");
+  });
+
+  document.getElementById("btn").addEventListener("click", function() {
+    alert("Dieser wird NIE ausgeführt!");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <edge id="e0" source="n1" target="n2">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.0" sy="-0.0" tx="-115.5" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n1">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="80.92378218652311" sy="-0.0" tx="-35.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="115.5" sy="-0.0" tx="-111.80607994112222" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n5">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n3" target="n4">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="8.148148148148145" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552907" y="-5290.150264550265"/>
+            <y:Point x="797.9597242552907" y="-838.0638888888889"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n3" target="n6">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="9.629629629629626" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552907" y="-5288.668783068783"/>
+            <y:Point x="765.9597242552907" y="-158.61666666666667"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n6" target="n7">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n3" target="n8">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="6.666666666666664" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552907" y="-5291.631746031746"/>
+            <y:Point x="829.9597242552907" y="-1483.020238095238"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n3" target="n9">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="7.407407407407405" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552907" y="-5290.891005291005"/>
+            <y:Point x="813.9597242552907" y="-1143.8519841269842"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n9" target="n10">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n11" target="n12">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n3" target="n11">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="8.888888888888886" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552907" y="-5289.409523809524"/>
+            <y:Point x="781.9597242552907" y="-510.84285714285716"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n13" target="n14">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n3" target="n13">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="3.7037037037037006" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552907" y="-5294.594708994709"/>
+            <y:Point x="893.9597242552907" y="-2872.729365079365"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n3" target="n15">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="4.444444444444441" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552907" y="-5293.853968253969"/>
+            <y:Point x="877.9597242552907" y="-2455.1825396825398"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n15" target="n16">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n17" target="n18">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="n3" target="n17">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="2.2222222222222197" tx="-300.0" ty="-0.0">
+            <y:Point x="925.9597242552907" y="-5296.07619047619"/>
+            <y:Point x="925.9597242552907" y="-3621.0138888888887"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n3" target="n19">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="2.96296296296296" tx="-300.0" ty="-0.0">
+            <y:Point x="909.9597242552907" y="-5295.33544973545"/>
+            <y:Point x="909.9597242552907" y="-3275.270238095238"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e19" source="n19" target="n20">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="n21" target="n22">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e21" source="n3" target="n21">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="5.185185185185182" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552907" y="-5293.113227513228"/>
+            <y:Point x="861.9597242552907" y="-2098.2515873015873"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e22" source="n3" target="n23">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="5.925925925925922" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552907" y="-5292.372486772487"/>
+            <y:Point x="845.9597242552907" y="-1800.123015873016"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e23" source="n23" target="n24">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e24" source="n8" target="n25">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e25" source="n26" target="n27">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-181.26683688635393" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e26" source="n3" target="n26">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-3.703703703703705" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552907" y="-5302.002116402116"/>
+            <y:Point x="893.9597242552907" y="-7915.929365079365"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e27" source="n3" target="n28">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-2.222222222222224" tx="-300.0" ty="-0.0">
+            <y:Point x="925.9597242552907" y="-5300.5206349206355"/>
+            <y:Point x="925.9597242552907" y="-6623.397619047619"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e28" source="n28" target="n29">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e29" source="n3" target="n30">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-5.185185185185186" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552907" y="-5303.483597883598"/>
+            <y:Point x="861.9597242552907" y="-9027.905952380952"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e30" source="n3" target="n31">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-4.4444444444444455" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552907" y="-5302.742857142857"/>
+            <y:Point x="877.9597242552907" y="-8528.818253968255"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e31" source="n31" target="n32">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e32" source="n33" target="n34">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e33" source="n3" target="n33">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-2.9629629629629646" tx="-300.0" ty="-0.0">
+            <y:Point x="909.9597242552907" y="-5301.2613756613755"/>
+            <y:Point x="909.9597242552907" y="-7203.325"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e34" source="n3" target="n35">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-1.4814814814814827" tx="-300.0" ty="-0.0">
+            <y:Point x="941.9597242552907" y="-5299.779894179895"/>
+            <y:Point x="941.9597242552907" y="-6133.684126984127"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e35" source="n35" target="n36">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e36" source="n37" target="n38">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-207.23488526386143" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e37" source="n3" target="n37">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="0.7407407407407387" tx="-300.0" ty="-0.0">
+            <y:Point x="957.9597242552907" y="-5297.557671957672"/>
+            <y:Point x="957.9597242552907" y="-4637.104365079365"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e38" source="n3" target="n39">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="1.4814814814814792" tx="-300.0" ty="-0.0">
+            <y:Point x="941.9597242552907" y="-5296.816931216931"/>
+            <y:Point x="941.9597242552907" y="-3987.7424603174604"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e39" source="n39" target="n40">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e40" source="n41" target="n42">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e41" source="n3" target="n41">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-0.7407407407407423" tx="-300.0" ty="-0.0">
+            <y:Point x="957.9597242552907" y="-5299.039153439154"/>
+            <y:Point x="957.9597242552907" y="-5709.425"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e42" source="n3" target="n43">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-1.7763568394002505E-15" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e43" source="n43" target="n44">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e44" source="n45" target="n46">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e45" source="n3" target="n45">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-8.148148148148149" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552907" y="-5306.446560846561"/>
+            <y:Point x="797.9597242552907" y="-11172.807539682539"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e46" source="n3" target="n47">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-7.407407407407407" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552907" y="-5305.705820105821"/>
+            <y:Point x="813.9597242552907" y="-10641.8123015873"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e47" source="n47" target="n48">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e48" source="n49" target="n50">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e49" source="n3" target="n49">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-9.62962962962963" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552907" y="-5307.9280423280425"/>
+            <y:Point x="765.9597242552907" y="-12221.10634920635"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e50" source="n3" target="n51">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-8.88888888888889" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552907" y="-5307.187301587302"/>
+            <y:Point x="781.9597242552907" y="-11753.044047619047"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e51" source="n51" target="n52">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e52" source="n53" target="n54">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e53" source="n3" target="n53">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-6.666666666666667" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552907" y="-5304.96507936508"/>
+            <y:Point x="829.9597242552907" y="-10149.825793650794"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e54" source="n3" target="n55">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-5.9259259259259265" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552907" y="-5304.224338624339"/>
+            <y:Point x="845.9597242552907" y="-9585.181349206348"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e55" source="n55" target="n56">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e56" source="n30" target="n57">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e57" source="n26" target="n58">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="181.26683688635387" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e58" source="n37" target="n59">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="207.23488526386143" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
