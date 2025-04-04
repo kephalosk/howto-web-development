@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.21.1-->
+  <key attr.name="Beschreibung" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="161.84756437304623" x="0.0" y="-3979.0079365079364"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.84756437304623" x="4.0" xml:space="preserve" y="-0.06640625">Javascript</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="70.0" x="181.84756437304623" y="-3979.0079365079364"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.0" x="4.0" xml:space="preserve" y="-0.06640625">Praxis</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="231.0" x="271.8475643730462" y="-3979.0079365079364"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.0" x="4.0" xml:space="preserve" y="-0.06640625">2. Asynchrones JavaScript und APIs</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="223.61215988224444" x="522.8475643730462" y="-3979.0079365079364"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="223.61215988224444" x="4.0" xml:space="preserve" y="-0.06640625">Callbacks, Promises und async/await</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="282.1281866385119" width="600.0" x="925.4597242552904" y="-897.5704425256054"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="274.5234375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.802374569256017">queueMicrotask() für sofortige Callback-Ausführung
+
+queueMicrotask() ist eine weniger bekannte API, die es ermöglicht, einen kleinen asynchronen Task zu einer Mikro-Task-Warteschlange hinzuzufügen.
+❌ Bad Practice: setTimeout(0) für sofortige Callback-Ausführung
+
+setTimeout(() =&gt; {
+    console.log("Wird später ausgeführt");
+}, 0);
+
+&#128078; Problem: setTimeout(0) verschiebt den Code in die Macrotask-Queue, was unnötige Verzögerung bedeutet.
+✅ Best Practice: queueMicrotask() für direkte Ausführung
+
+queueMicrotask(() =&gt; {
+    console.log("Direkt nach der aktuellen Task ausgeführt");
+});
+
+&#128077; Vorteil: Schneller als setTimeout(0), weil es innerhalb der aktuellen Event Loop bleibt.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="54.89679941162808" width="600.0" x="1545.4597242552904" y="-783.9547489121633"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.2491809558140403">queueMicrotask(() =&gt; {
+    console.log("Direkt nach der aktuellen Task ausgeführt");
+});</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="334.77120493096317" width="600.0" x="925.4597242552904" y="-585.4419516718308"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="316.921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.924664965481611">Async-Iterators (for await...of) für Streams
+
+Falls eine API Daten als Stream liefert, kannst du async iterators verwenden.
+❌ Bad Practice: Manuell then()-Kette für Streams nutzen
+
+fetchStream().then((stream) =&gt; {
+    stream.getReader().read().then((chunk) =&gt; {
+        console.log(chunk);
+    });
+});
+
+&#128078; Problem: Unübersichtlich und nicht effizient für große Datenmengen.
+✅ Best Practice: for await...of für Streams nutzen
+
+async function processStream(stream) {
+    for await (const chunk of stream) {
+        console.log(chunk);
+    }
+}
+
+&#128077; Vorteil: Eleganter, lesbarer Code für Daten-Streaming, besonders für große Dateien oder API-Responses.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="95.40993232066421" width="600.0" x="1545.4597242552904" y="-465.7613153666813"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="9.372934910332106">async function processStream(stream) {
+    for await (const chunk of stream) {
+        console.log(chunk);
+    }
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="282.1281866385128" width="600.0" x="925.4597242552904" y="-1607.5132996684629"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="274.5234375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.8023745692564717">Parallele Verarbeitung mit Limitierung (p-limit)
+
+Manchmal gibt es zu viele parallele Requests, was den Server überlastet.
+❌ Bad Practice: Promise.all() mit zu vielen Requests gleichzeitig
+
+const urls = ["url1", "url2", "url3", ..., "url1000"];
+const results = await Promise.all(urls.map(fetchData)); // ❌ Zu viele Requests gleichzeitig!
+
+&#128078; Problem: Überlastung der API, mögliche Rate-Limits.
+✅ Best Practice: Begrenzung der gleichzeitigen Requests (p-limit)
+
+import pLimit from "p-limit";
+
+const limit = pLimit(5); // Maximal 5 gleichzeitige Requests
+const urls = ["url1", "url2", "url3", ..., "url1000"];
+
+const results = await Promise.all(urls.map((url) =&gt; limit(() =&gt; fetchData(url))));
+
+&#128077; Vorteil: Schützt den Server, bessere Performance.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="105.22404313184313" width="600.0" x="1545.4597242552904" y="-1519.061227915128"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.213584065921623">import pLimit from "p-limit";
+
+const limit = pLimit(5); // Maximal 5 gleichzeitige Requests
+const urls = ["url1", "url2", "url3", ..., "url1000"];
+
+const results = await Promise.all(urls.map((url) =&gt; limit(() =&gt; fetchData(url))));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="367.8140424684011" width="600.0" x="925.4597242552904" y="-1295.3847990119784"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="331.0546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="18.379677484200556">async-Funktionen als Higher-Order Functions verwenden
+❌ Bad Practice: async-Funktion nicht zurückgeben
+
+function createAsyncTask() {
+    async function task() {
+        return await fetchData();
+    }
+    task(); // ❌ Funktion gibt kein Promise zurück!
+}
+
+&#128078; Problem: Kann nicht await-ed oder .then()-ed werden.
+✅ Best Practice: async-Funktion als Higher-Order Function
+
+function createAsyncTask() {
+    return async function task() {
+        return await fetchData();
+    };
+}
+
+const myTask = createAsyncTask();
+myTask().then(console.log);
+
+&#128077; Vorteil: Mehr Wiederverwendbarkeit, besonders für Frameworks oder Utility-Funktionen.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="123.64596188710732" width="600.0" x="1545.4597242552904" y="-1173.3007587213315"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.2917309435536026">function createAsyncTask() {
+    return async function task() {
+        return await fetchData();
+    };
+}
+
+const myTask = createAsyncTask();
+myTask().then(console.log);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="200.67043336945852" width="600.0" x="925.4597242552904" y="-220.6705341450467"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="189.7265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.471935434729261">Event Loop und Microtasks verstehen (setImmediate vs nextTick)
+
+In Node.js gibt es spezielle Funktionen für Microtasks und Macrotasks.
+❌ Bad Practice: setTimeout(0) für sofortige Ausführung in Node.js
+
+setTimeout(() =&gt; console.log("Task ausgeführt"), 0);
+
+&#128078; Problem: setTimeout(0) ist nicht sofort, sondern erst nach der aktuellen Event Loop.
+✅ Best Practice: process.nextTick() für sofortige Ausführung in Node.js
+
+process.nextTick(() =&gt; console.log("Wird vor anderen Macrotasks ausgeführt"));
+
+&#128077; Vorteil: nextTick läuft sofort nach der aktuellen Operation, ideal für Performance-Tuning.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.051697926940733" width="600.0" x="1545.4597242552904" y="-130.36116642378784"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="-0.04055728652963353">process.nextTick(() =&gt; console.log("Wird vor anderen Macrotasks ausgeführt"));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="331.3590209169831" width="600.0" x="925.4597242552904" y="-4845.8838755378565"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="331.0546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.15216670849167713">Verschachtelte Promises vermeiden (then() in then()-Ketten)
+❌ Bad Practice: Promise-Chain mit verschachtelten then()
+
+fetchData()
+    .then((data) =&gt; {
+        return processData(data).then((processedData) =&gt; {
+            return saveData(processedData);
+        });
+    })
+    .then(() =&gt; console.log("Fertig!"))
+    .catch((error) =&gt; console.error("Fehler:", error));
+
+&#128078; Problem: Obwohl Promises verwendet werden, entsteht eine Art "Promise Hell", ähnlich der Callback-Hölle.
+✅ Best Practice: Flache .then()-Kette
+
+fetchData()
+    .then(processData)
+    .then(saveData)
+    .then(() =&gt; console.log("Fertig!"))
+    .catch((error) =&gt; console.error("Fehler:", error));
+
+&#128077; Vorteil: Flacher Code, bessere Lesbarkeit und Wartbarkeit.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="79.36419029502827" width="600.0" x="1545.4597242552904" y="-4719.886460226879"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.3500638975137917">fetchData()
+    .then(processData)
+    .then(saveData)
+    .then(() =&gt; console.log("Fertig!"))
+    .catch((error) =&gt; console.error("Fehler:", error));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="413.5755786507911" width="600.0" x="925.4597242552904" y="-4175.795725833332"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="401.71875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.928414325395352">Async-Funktion immer zurückgeben, nicht nur aufrufen
+❌ Bad Practice: async-Funktion aufrufen, aber nicht zurückgeben
+
+function fetchDataAndProcess() {
+    async function inner() {
+        const data = await fetchData();
+        console.log("Daten:", data);
+    }
+    inner(); // Wird aufgerufen, aber fetchDataAndProcess() gibt kein Promise zurück!
+}
+
+fetchDataAndProcess().then(() =&gt; console.log("Fertig!")); // ❌ Funktion gibt kein Promise zurück!
+
+&#128078; Problem: fetchDataAndProcess() gibt kein Promise zurück, daher kann man nicht auf das Ergebnis warten.
+✅ Best Practice: Das Promise zurückgeben
+
+function fetchDataAndProcess() {
+    return (async () =&gt; {
+        const data = await fetchData();
+        console.log("Daten:", data);
+    })();
+}
+
+fetchDataAndProcess().then(() =&gt; console.log("Fertig!")); // ✅ Funktion gibt Promise zurück!
+
+&#128077; Vorteil: Die Funktion bleibt asynchron kompatibel und kann korrekt awaited oder weiterverkettet werden.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="138.48216668255554" width="600.0" x="1545.4597242552904" y="-4038.249019849214"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="9.709833341277772">function fetchDataAndProcess() {
+    return (async () =&gt; {
+        const data = await fetchData();
+        console.log("Daten:", data);
+    })();
+}
+
+fetchDataAndProcess().then(() =&gt; console.log("Fertig!")); // ✅ Funktion gibt Promise zurück!</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="437.48554806582086" width="600.0" x="925.4597242552904" y="-5499.217774032911"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="415.8515625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="10.816992782910347">Fehlerbehandlung in Promise.all und Promise.allSettled
+
+❌ Bad Practice: Promise.all bricht bei erstem Fehler ab
+
+async function fetchData() {
+    try {
+        const results = await Promise.all([fetchA(), fetchB(), fetchC()]);
+        console.log(results);
+    } catch (error) {
+        console.error("Fehler:", error); // Ein Fehler stoppt alles!
+    }
+}
+
+&#128078; Problem: Wenn eine Anfrage fehlschlägt, werden alle anderen ignoriert.
+
+✅ Best Practice: Promise.allSettled für individuelle Fehlerbehandlung
+
+async function fetchData() {
+    const results = await Promise.allSettled([fetchA(), fetchB(), fetchC()]);
+    results.forEach((result) =&gt; {
+        if (result.status === "fulfilled") {
+            console.log("Erfolg:", result.value);
+        } else {
+            console.error("Fehler:", result.reason);
+        }
+    });
+}
+
+&#128077; Vorteil: Alle Promises laufen durch, Fehler können separat behandelt werden.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="155.84803925001592" width="600.0" x="925.4597242552904" y="-5031.731956132944"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.259957125007531">Fehlerhandling mit .finally()
+
+✅ Best Practice: .finally() für Cleanup-Aktionen
+
+fetchData()
+    .then((data) =&gt; console.log("Daten erhalten:", data))
+    .catch((error) =&gt; console.error("Fehler aufgetreten:", error))
+    .finally(() =&gt; console.log("Cleanup abgeschlossen."));
+
+&#128077; Vorteil: .finally() läuft immer, egal ob Erfolg oder Fehler → nützlich für Logging, UI-Updates, etc.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="79.36419029502804" width="600.0" x="1545.4597242552904" y="-4993.49003165545"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="76.6640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.3500638975137917">fetchData()
+    .then((data) =&gt; console.log("Daten erhalten:", data))
+    .catch((error) =&gt; console.error("Fehler aufgetreten:", error))
+    .finally(() =&gt; console.log("Cleanup abgeschlossen."));
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n21">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="278.7289907704669" width="600.0" x="925.4597242552904" y="-4484.524812845551"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="274.5234375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.1027766352335675">await innerhalb von Schleifen vermeiden (Promise Bottleneck)
+❌ Bad Practice: await in einer Schleife → serielles Processing
+
+async function processItems(items) {
+    for (const item of items) {
+        const result = await processItem(item);
+        console.log("Verarbeitet:", result);
+    }
+}
+
+&#128078; Problem: Jedes await wartet, bis der vorherige Durchlauf fertig ist → langsam.
+✅ Best Practice: Promise.all für parallele Verarbeitung
+
+async function processItems(items) {
+    const results = await Promise.all(items.map(processItem));
+    console.log("Alle verarbeitet:", results);
+}
+
+&#128077; Vorteil: Alle Promises laufen parallel → viel schneller! &#128640;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n22">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="73.44863257145994" width="600.0" x="1545.4597242552904" y="-4381.884633746048"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.4586912857303105">async function processItems(items) {
+    const results = await Promise.all(items.map(processItem));
+    console.log("Alle verarbeitet:", results);
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n23">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="312.072650691899" width="600.0" x="925.4597242552904" y="-3732.2200555046797"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="302.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.641794095949535">await in try/catch-Blöcken richtig nutzen
+❌ Bad Practice: await außerhalb von try/catch
+
+async function fetchDataSafely() {
+    const data = await fetchData(); // ❌ Falls hier ein Fehler passiert, wird er nicht abgefangen
+    console.log("Daten:", data);
+}
+
+&#128078; Problem: Falls fetchData() fehlschlägt, wird der Fehler nicht behandelt.
+✅ Best Practice: try/catch um await herum
+
+async function fetchDataSafely() {
+    try {
+        const data = await fetchData();
+        console.log("Daten:", data);
+    } catch (error) {
+        console.error("Fehler beim Abrufen:", error);
+    }
+}
+
+&#128077; Vorteil: Fehler werden sauber abgefangen und der Code stürzt nicht ab.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n24">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="125.75314814191984" width="600.0" x="1545.4597242552904" y="-3639.0603042296902"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3453240709600323">async function fetchDataSafely() {
+    try {
+        const data = await fetchData();
+        console.log("Daten:", data);
+    } catch (error) {
+        console.error("Fehler beim Abrufen:", error);
+    }
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n25">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="438.30706072879684" width="600.0" x="925.4597242552904" y="-2552.51464147551"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="429.984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.161342864398648">AbortController für API-Requests mit Timeout
+❌ Bad Practice: Kein Timeout für langsame API-Requests
+
+async function fetchData() {
+    return fetch("https://api.example.com/data"); // ❌ Falls die API hängt, bleibt das hängen!
+}
+
+&#128078; Problem: Falls der Server langsam ist, wartet der Request endlos.
+✅ Best Practice: AbortController für Timeout
+
+async function fetchDataWithTimeout() {
+    const controller = new AbortController();
+    const timeout = setTimeout(() =&gt; controller.abort(), 5000); // Timeout nach 5 Sek.
+
+    try {
+        const response = await fetch("https://api.example.com/data", { signal: controller.signal });
+        clearTimeout(timeout);
+        return await response.json();
+    } catch (error) {
+        if (error.name === "AbortError") {
+            console.error("Request abgebrochen wegen Timeout!");
+        } else {
+            console.error("Fehler:", error);
+        }
+    }
+}
+
+fetchDataWithTimeout();
+
+&#128077; Vorteil: Falls die API nicht reagiert, wird der Request abgebrochen statt ewig zu warten.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n26">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="259.02097236999225" width="600.0" x="1545.4597242552904" y="-2462.871597296107"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="260.390625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="-0.6848263150041021">async function fetchDataWithTimeout() {
+    const controller = new AbortController();
+    const timeout = setTimeout(() =&gt; controller.abort(), 5000); // Timeout nach 5 Sek.
+
+    try {
+        const response = await fetch("https://api.example.com/data", { signal: controller.signal });
+        clearTimeout(timeout);
+        return await response.json();
+    } catch (error) {
+        if (error.name === "AbortError") {
+            console.error("Request abgebrochen wegen Timeout!");
+        } else {
+            console.error("Fehler:", error);
+        }
+    }
+}
+
+fetchDataWithTimeout();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n27">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="446.69400597907907" width="600.0" x="925.4597242552904" y="-2084.207320449857"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="429.984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.354815489539305">Rekursive Promises für wiederholte API-Aufrufe
+
+Statt eine API einmal aufzurufen, muss man manchmal mehrmals hintereinander anfragen, z. B. wenn Daten paginiert (in Seiten aufgeteilt) sind.
+❌ Bad Practice: Manuell viele .then() Ketten schreiben
+
+fetchPage(1).then((data1) =&gt; {
+    fetchPage(2).then((data2) =&gt; {
+        fetchPage(3).then((data3) =&gt; {
+            console.log("Alle Seiten geladen");
+        });
+    });
+});
+
+&#128078; Problem: Das ist harter, unwartbarer Code (ähnlich Callback Hell).
+✅ Best Practice: Rekursive Funktion für Pagination
+
+async function fetchAllPages(page = 1, results = []) {
+    const data = await fetchPage(page);
+    results.push(...data.items);
+
+    if (data.hasNextPage) {
+        return fetchAllPages(page + 1, results);
+    }
+    return results;
+}
+
+fetchAllPages().then((allData) =&gt; console.log("Alle Seiten:", allData));
+
+&#128077; Vorteil: Sauberer, wiederverwendbarer Code, besonders für API-Pagination.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n28">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="166.5746154045255" width="600.0" x="1545.4597242552904" y="-1944.1476251625802"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.5568389522627513">async function fetchAllPages(page = 1, results = []) {
+    const data = await fetchPage(page);
+    results.push(...data.items);
+
+    if (data.hasNextPage) {
+        return fetchAllPages(page + 1, results);
+    }
+    return results;
+}
+
+fetchAllPages().then((allData) =&gt; console.log("Alle Seiten:", allData));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n29">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="382.6318397547677" width="600.0" x="925.4597242552904" y="-3390.147269083733"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="373.453125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.589357377383749">await richtig in catch-Blöcken verwenden
+❌ Bad Practice: catch blockiert mit await
+
+async function fetchDataWithBackup() {
+    try {
+        return await fetchData();
+    } catch (error) {
+        return await fetchBackupData(); // ❌ Hier wird das Backup erst nach einem Fehler abgerufen → Verzögerung!
+    }
+}
+
+&#128078; Problem: Das Backup wird erst geladen, wenn der erste Fehler passiert → langsamer.
+✅ Best Practice: Backup parallel vorbereiten
+
+async function fetchDataWithBackup() {
+    const backupPromise = fetchBackupData(); // Backup schon starten!
+    try {
+        return await fetchData();
+    } catch (error) {
+        return await backupPromise; // Backup ist schon in Arbeit → schneller!
+    }
+}
+
+&#128077; Vorteil: Falls der erste Request fehlschlägt, ist das Backup bereits gestartet → schnellere Wiederherstellung.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n30">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="125.75314814191984" width="600.0" x="1545.4597242552904" y="-3261.7079232773094"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="119.0625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3453240709600323">async function fetchDataWithBackup() {
+    const backupPromise = fetchBackupData(); // Backup schon starten!
+    try {
+        return await fetchData();
+    } catch (error) {
+        return await backupPromise; // Backup ist schon in Arbeit → schneller!
+    }
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n31">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="395.0002875968632" width="600.0" x="925.4597242552904" y="-2977.5152231635107"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="387.5859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.707175048431509">setTimeout mit Promises nutzen (setTimeout promisifizieren)
+❌ Bad Practice: setTimeout mit Callbacks
+
+function delay(ms, callback) {
+    setTimeout(() =&gt; {
+        callback();
+    }, ms);
+}
+
+delay(1000, () =&gt; console.log("1 Sekunde vorbei!"));
+
+&#128078; Problem: Callback-basiert → nicht Promise-kompatibel.
+✅ Best Practice: setTimeout in Promise umwandeln
+
+function delay(ms) {
+    return new Promise((resolve) =&gt; setTimeout(resolve, ms));
+}
+
+async function example() {
+    console.log("Warten...");
+    await delay(1000);
+    console.log("1 Sekunde vorbei!");
+}
+
+example();
+
+&#128077; Vorteil: Besser lesbar, Promise-basiert, saubere await-Unterstützung.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n32">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="176.73414762307584" width="600.0" x="1545.4597242552904" y="-2868.382153176617"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="161.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="7.636605061537921">function delay(ms) {
+    return new Promise((resolve) =&gt; setTimeout(resolve, ms));
+}
+
+async function example() {
+    console.log("Warten...");
+    await delay(1000);
+    console.log("1 Sekunde vorbei!");
+}
+
+example();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n33">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="451.8072859437781" width="600.0" x="925.4597242552904" y="-7140.081420749667"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="444.1171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.845049221888985">3. async/await
+
+❌ Bad Practice: Fehlendes try-catch für Fehlerhandling
+
+async function execute() {
+    const data1 = await fetchData();
+    const data2 = await processData(data1);
+    await saveData(data2);
+    console.log("Fertig!");
+}
+
+execute(); // Keine Fehlerbehandlung!
+
+&#128078; Problem: Falls ein Fehler auftritt, wird er nicht abgefangen.
+
+✅ Best Practice: try-catch für saubere Fehlerbehandlung
+
+async function execute() {
+    try {
+        const data1 = await fetchData();
+        const data2 = await processData(data1);
+        await saveData(data2);
+        console.log("Fertig!");
+    } catch (error) {
+        console.error("Fehler aufgetreten:", error);
+    }
+}
+
+execute();
+
+&#128077; Vorteil: Fehler werden abgefangen und ordentlich ausgegeben.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n34">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="181.59283302940412" width="600.0" x="1545.4597242552904" y="-7004.97419429248"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="175.59375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.999541514702287">async function execute() {
+    try {
+        const data1 = await fetchData();
+        const data2 = await processData(data1);
+        await saveData(data2);
+        console.log("Fertig!");
+    } catch (error) {
+        console.error("Fehler aufgetreten:", error);
+    }
+}
+
+execute();</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n35">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="617.8516661765598" width="600.0" x="925.4597242552904" y="-6658.273848961297"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="613.7109375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.070364338280342">Fehlerpropagierung in Callbacks
+
+❌ Bad Practice: Fehler nicht weitergeben
+
+function fetchData(callback) {
+    setTimeout(() =&gt; {
+        try {
+            throw new Error("Fehler beim Abrufen!");
+        } catch (error) {
+            // Fehler wird hier abgefangen, aber nicht weitergegeben
+            console.error(error);
+        }
+    }, 1000);
+}
+
+fetchData((data) =&gt; {
+    console.log("Daten:", data);
+});
+
+&#128078; Problem: Der Fehler wird nur geloggt, aber nicht weitergegeben, was Debugging erschwert.
+
+✅ Best Practice: Fehler übergeben und im Callback behandeln
+
+function fetchData(callback) {
+    setTimeout(() =&gt; {
+        try {
+            throw new Error("Fehler beim Abrufen!");
+        } catch (error) {
+            return callback(error, null); // Fehler weitergeben
+        }
+        callback(null, "Daten");
+    }, 1000);
+}
+
+fetchData((error, data) =&gt; {
+    if (error) {
+        console.error("Fehler:", error);
+        return;
+    }
+    console.log("Daten:", data);
+});
+
+&#128077; Vorteil: Fehler werden korrekt behandelt.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n36">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="269.1483075420799" width="600.0" x="1545.4597242552904" y="-6483.922169644056"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="260.390625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.3788412710400735">function fetchData(callback) {
+    setTimeout(() =&gt; {
+        try {
+            throw new Error("Fehler beim Abrufen!");
+        } catch (error) {
+            return callback(error, null); // Fehler weitergeben
+        }
+        callback(null, "Daten");
+    }, 1000);
+}
+
+fetchData((error, data) =&gt; {
+    if (error) {
+        console.error("Fehler:", error);
+        return;
+    }
+    console.log("Daten:", data);
+});</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n37">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="543.246078075197" width="600.0" x="925.4597242552904" y="-8318.172642212201"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="543.046875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="0.09960153759857349">1. Callbacks
+
+❌ Bad Practice: Callback Hell (Pyramid of Doom)
+
+function fetchData(callback) {
+    setTimeout(() =&gt; {
+        console.log("Daten abgerufen");
+        callback("Ergebnis 1");
+    }, 1000);
+}
+
+function processData(data, callback) {
+    setTimeout(() =&gt; {
+        console.log("Daten verarbeitet:", data);
+        callback("Ergebnis 2");
+    }, 1000);
+}
+
+function saveData(data, callback) {
+    setTimeout(() =&gt; {
+        console.log("Daten gespeichert:", data);
+        callback();
+    }, 1000);
+}
+
+// Verschachtelte Callbacks (Callback Hell)
+fetchData((result1) =&gt; {
+    processData(result1, (result2) =&gt; {
+        saveData(result2, () =&gt; {
+            console.log("Fertig!");
+        });
+    });
+});
+
+&#128078; Problem: Verschachtelte Callbacks führen zu unlesbarem Code, schwierig zu debuggen und zu warten.
+✅ Best Practice: Callbacks vermeiden und stattdessen Promises nutzen
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n38">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="347.8289917329298" width="600.0" x="1545.4597242552904" y="-7631.418464120433"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="331.0546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.387152116464677">function fetchData() {
+    return new Promise((resolve) =&gt; {
+        setTimeout(() =&gt; resolve("Ergebnis 1"), 1000);
+    });
+}
+
+function processData(data) {
+    return new Promise((resolve) =&gt; {
+        setTimeout(() =&gt; resolve("Ergebnis 2"), 1000);
+    });
+}
+
+function saveData(data) {
+    return new Promise((resolve) =&gt; {
+        setTimeout(() =&gt; resolve("Gespeichert"), 1000);
+    });
+}
+
+fetchData()
+    .then(processData)
+    .then(saveData)
+    .then(() =&gt; console.log("Fertig!"))
+    .catch((error) =&gt; console.error("Fehler aufgetreten:", error));</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n39">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="574.844674185386" width="600.0" x="925.4597242552904" y="-7744.926305346661"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="557.1796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.832493342692942">2. Promises
+
+❌ Bad Practice: .then() Kette ohne Error Handling
+
+function fetchData() {
+    return new Promise((resolve) =&gt; {
+        setTimeout(() =&gt; resolve("Ergebnis 1"), 1000);
+    });
+}
+
+function processData(data) {
+    return new Promise((resolve) =&gt; {
+        setTimeout(() =&gt; resolve("Ergebnis 2"), 1000);
+    });
+}
+
+function saveData(data) {
+    return new Promise((resolve) =&gt; {
+        setTimeout(() =&gt; resolve("Gespeichert"), 1000);
+    });
+}
+
+// Fehler werden nicht abgefangen
+fetchData()
+    .then(processData)
+    .then(saveData)
+    .then(() =&gt; console.log("Fertig!"));
+
+&#128078; Problem: Wenn irgendwo ein Fehler auftritt, bricht der Code ohne Erklärung ab.
+
+✅ Best Practice: Fehlerhandling mit .catch()
+
+fetchData()
+    .then(processData)
+    .then(saveData)
+    .then(() =&gt; console.log("Fertig!"))
+    .catch((error) =&gt; console.error("Fehler aufgetreten:", error));
+
+&#128077; Vorteil: Fehler werden abgefangen und korrekt behandelt.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n40">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="295.3557791498863" width="600.0" x="925.4597242552904" y="-6010.421937193991"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3497645749430376">Promise.all für parallele Requests
+
+❌ Bad Practice: Nacheinander ausführen statt parallel
+
+async function getData() {
+    const user = await fetchUser();
+    const orders = await fetchOrders();
+    console.log(user, orders);
+}
+
+&#128078; Problem: Die zweite Funktion startet erst, wenn die erste fertig ist → langsamer Code.
+
+✅ Best Practice: Promise.all für parallele Ausführung
+
+async function getData() {
+    const [user, orders] = await Promise.all([fetchUser(), fetchOrders()]);
+    console.log(user, orders);
+}
+
+&#128077; Vorteil: Beide Funktionen laufen gleichzeitig → schneller! &#128640;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n41">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="155.8480392500153" width="600.0" x="1545.4597242552904" y="-5940.668067244055"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.259957125007531">&lt;form id="meinForm"&gt;
+  &lt;input type="text" name="name" required /&gt;
+  &lt;button type="submit"&gt;Absenden&lt;/button&gt;
+&lt;/form&gt;
+&lt;script&gt;
+  document.getElementById("meinForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    alert("Formular erfolgreich verarbeitet!");
+  });
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n42">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="155.84803925001552" width="600.0" x="925.4597242552904" y="-5685.066083117071"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.259957125007531">Promise.race für schnellste Antwort nutzen
+
+✅ Beispiel: Erstes Ergebnis gewinnt
+
+async function fetchFastest() {
+    const result = await Promise.race([fetchFromServerA(), fetchFromServerB()]);
+    console.log("Schnellste Antwort:", result);
+}
+
+&#128077; Vorteil: Falls ein Server langsam ist, wird trotzdem schnell eine Antwort zurückgegeben.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n43">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="71.09209014994462" width="600.0" x="1545.4597242552904" y="-5642.688108567036"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.280420074972426">async function fetchFastest() {
+    const result = await Promise.race([fetchFromServerA(), fetchFromServerB()]);
+    console.log("Schnellste Antwort:", result);
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n44">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="155.84803925001574" width="600.0" x="1545.4597242552904" y="-5358.399019625008"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="147.328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.259957125007531">async function fetchData() {
+    const results = await Promise.allSettled([fetchA(), fetchB(), fetchC()]);
+    results.forEach((result) =&gt; {
+        if (result.status === "fulfilled") {
+            console.log("Erfolg:", result.value);
+        } else {
+            console.error("Fehler:", result.reason);
+        }
+    });
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <edge id="e0" source="n1" target="n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.0" sy="-0.0" tx="-115.5" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="80.92378218652311" sy="-0.0" tx="-35.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="115.5" sy="-0.0" tx="-111.80607994112222" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n3" target="n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="7.61904761904762" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552906" y="-3961.3888888888887"/>
+            <y:Point x="797.9597242552906" y="-756.5063492063493"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n3" target="n6">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="8.571428571428573" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552906" y="-3960.436507936508"/>
+            <y:Point x="781.9597242552906" y="-418.0563492063492"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n6" target="n7">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n8" target="n9">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n3" target="n8">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="5.714285714285715" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552906" y="-3963.2936507936506"/>
+            <y:Point x="829.9597242552906" y="-1466.4492063492064"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n3" target="n10">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="6.666666666666668" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552906" y="-3962.34126984127"/>
+            <y:Point x="813.9597242552906" y="-1111.4777777777779"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n10" target="n11">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n12" target="n13">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n3" target="n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="9.523809523809526" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552906" y="-3959.4841269841268"/>
+            <y:Point x="765.9597242552906" y="-120.33531746031746"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n14" target="n15">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n3" target="n14">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-1.904761904761905" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552906" y="-3970.9126984126983"/>
+            <y:Point x="893.9597242552906" y="-4680.204365079365"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n3" target="n16">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n16" target="n17">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="n3" target="n18">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-3.8095238095238093" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552906" y="-3972.8174603174602"/>
+            <y:Point x="861.9597242552906" y="-5280.475"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n3" target="n19">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-2.8571428571428568" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552906" y="-3971.865079365079"/>
+            <y:Point x="877.9597242552906" y="-4953.807936507937"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e19" source="n19" target="n20">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="n21" target="n22">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e21" source="n3" target="n21">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-0.9523809523809526" tx="-300.0" ty="-0.0">
+            <y:Point x="909.9597242552906" y="-3969.960317460317"/>
+            <y:Point x="909.9597242552906" y="-4345.160317460318"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e22" source="n3" target="n23">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="0.9523809523809526" tx="-300.0" ty="-0.0">
+            <y:Point x="909.9597242552906" y="-3968.0555555555557"/>
+            <y:Point x="909.9597242552906" y="-3576.18373015873"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e23" source="n23" target="n24">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e24" source="n25" target="n26">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e25" source="n3" target="n25">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="3.80952380952381" tx="-300.0" ty="-0.0">
+            <y:Point x="861.9597242552906" y="-3965.1984126984125"/>
+            <y:Point x="861.9597242552906" y="-2333.3611111111113"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e26" source="n3" target="n27">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="4.761904761904763" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552906" y="-3964.246031746032"/>
+            <y:Point x="845.9597242552906" y="-1860.8603174603174"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e27" source="n27" target="n28">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e28" source="n29" target="n30">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e29" source="n3" target="n29">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="1.904761904761905" tx="-300.0" ty="-0.0">
+            <y:Point x="893.9597242552906" y="-3967.1031746031745"/>
+            <y:Point x="893.9597242552906" y="-3198.8313492063494"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e30" source="n3" target="n31">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="2.8571428571428577" tx="-300.0" ty="-0.0">
+            <y:Point x="877.9597242552906" y="-3966.1507936507937"/>
+            <y:Point x="877.9597242552906" y="-2780.015079365079"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e31" source="n31" target="n32">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e32" source="n33" target="n34">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e33" source="n3" target="n33">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-7.6190476190476195" tx="-300.0" ty="-0.0">
+            <y:Point x="797.9597242552906" y="-3976.626984126984"/>
+            <y:Point x="797.9597242552906" y="-6914.177777777778"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e34" source="n3" target="n35">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-6.666666666666667" tx="-300.0" ty="-0.0">
+            <y:Point x="813.9597242552906" y="-3975.674603174603"/>
+            <y:Point x="813.9597242552906" y="-6349.348015873016"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e35" source="n35" target="n36">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e36" source="n3" target="n37">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-9.523809523809524" tx="-300.0" ty="-0.0">
+            <y:Point x="765.9597242552906" y="-3978.531746031746"/>
+            <y:Point x="765.9597242552906" y="-8046.549603174603"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e37" source="n3" target="n39">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-8.571428571428571" tx="-300.0" ty="-0.0">
+            <y:Point x="781.9597242552906" y="-3977.579365079365"/>
+            <y:Point x="781.9597242552906" y="-7457.503968253968"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e38" source="n40" target="n41">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e39" source="n3" target="n40">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-5.714285714285714" tx="-300.0" ty="-0.0">
+            <y:Point x="829.9597242552906" y="-3974.722222222222"/>
+            <y:Point x="829.9597242552906" y="-5862.744047619048"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e40" source="n3" target="n42">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="111.80607994112222" sy="-4.761904761904762" tx="-300.0" ty="-0.0">
+            <y:Point x="845.9597242552906" y="-3973.769841269841"/>
+            <y:Point x="845.9597242552906" y="-5607.142063492063"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e41" source="n42" target="n43">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e42" source="n18" target="n44">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e43" source="n39" target="n38">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
