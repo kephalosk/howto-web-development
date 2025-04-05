@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.21.1-->
+  <key attr.name="Beschreibung" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="161.84756437304623" x="0.0" y="-1112.8097222222223"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.84756437304623" x="4.0" xml:space="preserve" y="-0.06640625">Javascript</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="70.0" x="181.84756437304623" y="-1112.8097222222223"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.0" x="4.0" xml:space="preserve" y="-0.06640625">Praxis</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="343.03368173133526" x="271.8475643730462" y="-1112.8097222222223"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="343.03368173133526" x="4.0" xml:space="preserve" y="-0.06640625">5. Moderne Webentwicklung und Zukunft von JavaScript</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="335.9108445272643" x="634.8812461043815" y="-1112.8097222222223"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="335.9108445272643" x="4.0" xml:space="preserve" y="-0.06640625">Microservices mit Node.js</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="249.27755219358232" width="600.0" x="1053.7920906316458" y="-2314.755045938061"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="232.125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.576276096790934">&#128268; 2. Kommunikation zwischen Services (HTTP)
+❌ Bad Practice: Services direkt fest verdrahten
+
+// orders-service
+fetch('http://localhost:3001/users') // Hardcoded
+
+&#128308; Unflexibel, problematisch bei Deployment in der Cloud.
+
+✅ Best Practice: Nutzung von Service Discovery / ENV Variablen
+
+// orders-service
+const USER_SERVICE_URL = process.env.USER_SERVICE_URL || 'http://localhost:3001';
+
+fetch(`${USER_SERVICE_URL}/users`);
+
+✅ Konfigurierbar, portable, cloud-fähig.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="58.594477599886545" width="600.0" x="1673.7920906316458" y="-2219.4135086412134"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.3984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.098020049943443">const USER_SERVICE_URL = process.env.USER_SERVICE_URL || 'http://localhost:3001';
+
+fetch(`${USER_SERVICE_URL}/users`);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="479.0443084287883" width="600.0" x="1053.7920906316458" y="-2035.4773129445525"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="472.3828125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3307479643940496">&#128230; 3. Node.js Best Practices für Microservices
+❌ Bad Practice: Keine Modularisierung
+
+// user-service/index.js
+app.get('/users', (req, res) =&gt; {
+  // Datenbank, Logik, Antwort – alles hier
+});
+
+&#128308; Schwer testbar, unübersichtlich.
+✅ Best Practice: Trennung von Concerns
+
+// user-service/routes/userRoutes.js
+const express = require('express');
+const router = express.Router();
+const { getUsers } = require('../controllers/userController');
+
+router.get('/', getUsers);
+module.exports = router;
+
+// user-service/controllers/userController.js
+exports.getUsers = (req, res) =&gt; {
+  res.json([{ id: 1, name: 'Alice' }]);
+};
+
+// user-service/index.js
+const express = require('express');
+const app = express();
+const userRoutes = require('./routes/userRoutes');
+
+app.use('/users', userRoutes);
+app.listen(3001);
+
+✅ Sauber, testbar, wartbar.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="307.478971963827" width="600.0" x="1673.7920906316458" y="-1949.6946447120722"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="9.411360981913504">// user-service/routes/userRoutes.js
+const express = require('express');
+const router = express.Router();
+const { getUsers } = require('../controllers/userController');
+
+router.get('/', getUsers);
+module.exports = router;
+
+// user-service/controllers/userController.js
+exports.getUsers = (req, res) =&gt; {
+  res.json([{ id: 1, name: 'Alice' }]);
+};
+
+// user-service/index.js
+const express = require('express');
+const app = express();
+const userRoutes = require('./routes/userRoutes');
+
+app.use('/users', userRoutes);
+app.listen(3001);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="281.95287708593935" width="600.0" x="1673.7920906316458" y="-2807.808184574716"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="274.5234375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.714719792969845">// users-service/index.js
+const express = require('express');
+const app = express();
+
+app.get('/users', (req, res) =&gt; {
+  res.json([{ id: 1, name: 'Alice' }]);
+});
+
+app.listen(3001);
+
+// orders-service/index.js
+const express = require('express');
+const app = express();
+
+app.get('/orders', (req, res) =&gt; {
+  res.json([{ id: 101, userId: 1 }]);
+});
+
+app.listen(3002);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="644.1532354926303" width="600.0" x="1053.7920906316458" y="-2988.9083637780614"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="627.84375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.15474274631515">&#129521; 1. Microservice-Architektur: Grundidee
+❌ Bad Practice: Monolithischer Code
+
+// monolith.js
+const express = require('express');
+const app = express();
+
+app.get('/users', (req, res) =&gt; {
+  // Userlogik
+});
+
+app.get('/orders', (req, res) =&gt; {
+  // Bestelllogik
+});
+
+app.listen(3000);
+
+&#128308; Alles in einer App: schwer skalierbar, schlecht testbar, unübersichtlich bei Wachstum.
+✅ Best Practice: Getrennte Services
+
+/users-service
+/orders-service
+
+// users-service/index.js
+const express = require('express');
+const app = express();
+
+app.get('/users', (req, res) =&gt; {
+  res.json([{ id: 1, name: 'Alice' }]);
+});
+
+app.listen(3001);
+
+// orders-service/index.js
+const express = require('express');
+const app = express();
+
+app.get('/orders', (req, res) =&gt; {
+  res.json([{ id: 101, userId: 1 }]);
+});
+
+app.listen(3002);
+
+✅ Jeder Service ist unabhängig – leicht skalierbar, testbar, wartbar.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="316.5043013178321" width="600.0" x="1673.7920906316458" y="-1485.99540462717"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="316.921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="-0.20878684108402012">// user-service sendet Event
+const amqp = require('amqplib');
+
+async function sendUserCreatedEvent(user) {
+  const conn = await amqp.connect('amqp://localhost');
+  const ch = await conn.createChannel();
+  await ch.assertQueue('user_created');
+  ch.sendToQueue('user_created', Buffer.from(JSON.stringify(user)));
+}
+
+// orders-service empfängt Event
+async function listenForUserCreated() {
+  const conn = await amqp.connect('amqp://localhost');
+  const ch = await conn.createChannel();
+  await ch.assertQueue('user_created');
+
+  ch.consume('user_created', (msg) =&gt; {
+    const user = JSON.parse(msg.content.toString());
+    console.log('Neuer User angelegt:', user);
+    ch.ack(msg);
+  });
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="397.3789108211928" width="600.0" x="1053.7920906316458" y="-1526.4327093788504"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="387.5859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.896486660596338">&#128736;️ 4. Asynchrone Kommunikation (z. B. mit RabbitMQ)
+✅ Beispiel: Event-basierte Kommunikation
+
+// user-service sendet Event
+const amqp = require('amqplib');
+
+async function sendUserCreatedEvent(user) {
+  const conn = await amqp.connect('amqp://localhost');
+  const ch = await conn.createChannel();
+  await ch.assertQueue('user_created');
+  ch.sendToQueue('user_created', Buffer.from(JSON.stringify(user)));
+}
+
+// orders-service empfängt Event
+async function listenForUserCreated() {
+  const conn = await amqp.connect('amqp://localhost');
+  const ch = await conn.createChannel();
+  await ch.assertQueue('user_created');
+
+  ch.consume('user_created', (msg) =&gt; {
+    const user = JSON.parse(msg.content.toString());
+    console.log('Neuer User angelegt:', user);
+    ch.ack(msg);
+  });
+}
+
+✅ Loose coupling, skalierbar, performant für große Systeme.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="442.35470243357133" width="600.0" x="1053.7920906316458" y="-1099.053541692976"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="429.984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.18516371678561">&#128272; 5. Authentifizierung (JWT zwischen Microservices)
+❌ Bad Practice: Kein Token-Check
+
+app.get('/users', (req, res) =&gt; {
+  // Jeder darf alles
+});
+
+&#128308; Unsicher.
+
+✅ Best Practice: JWT Middleware
+
+// middleware/auth.js
+const jwt = require('jsonwebtoken');
+
+module.exports = (req, res, next) =&gt; {
+  const token = req.headers.authorization?.split(' ')[1];
+  try {
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    req.user = decoded;
+    next();
+  } catch (err) {
+    res.status(401).json({ message: 'Unauthorized' });
+  }
+};
+
+// user-service/index.js
+const auth = require('./middleware/auth');
+app.use('/users', auth, userRoutes);
+
+✅ Sicher, kontrolliert, flexibel.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="249.56935230306" width="600.0" x="1673.7920906316458" y="-1002.6608666277205"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="246.2578125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="1.6557699015299931">// middleware/auth.js
+const jwt = require('jsonwebtoken');
+
+module.exports = (req, res, next) =&gt; {
+  const token = req.headers.authorization?.split(' ')[1];
+  try {
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    req.user = decoded;
+    next();
+  } catch (err) {
+    res.status(401).json({ message: 'Unauthorized' });
+  }
+};
+
+// user-service/index.js
+const auth = require('./middleware/auth');
+app.use('/users', auth, userRoutes);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="139.94865225485466" width="600.0" x="1053.7920906316458" y="-626.6985324766338"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.3766698774272754">&#128269; 6. Monitoring &amp; Health Checks
+✅ Beispiel: Health Endpoint
+
+// health.js
+app.get('/health', (req, res) =&gt; {
+  res.json({ status: 'ok', timestamp: Date.now() });
+});
+
+✅ Wichtig für Load Balancer / Kubernetes</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="71.75010327920972" width="600.0" x="1673.7920906316458" y="-592.5992579888112"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.53125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.609426639604862">// health.js
+app.get('/health', (req, res) =&gt; {
+  res.json({ status: 'ok', timestamp: Date.now() });
+});</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="183.77025211519515" width="600.0" x="1053.7920906316458" y="-456.7498085972801"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="175.59375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.088251057597574">&#128200; 7. Deployment: Docker
+✅ Beispiel Dockerfile für einen Service
+
+FROM node:20-alpine
+WORKDIR /app
+COPY package*.json ./
+RUN npm install --production
+COPY . .
+EXPOSE 3001
+CMD ["node", "index.js"]
+
+✅ Microservice bereit für Containerisierung</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="118.19918748704276" width="600.0" x="1673.7920906316458" y="-423.9642762832039"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="104.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.634749993521382">FROM node:20-alpine
+WORKDIR /app
+COPY package*.json ./
+RUN npm install --production
+COPY . .
+EXPOSE 3001
+CMD ["node", "index.js"]</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="222.97901283383464" width="600.0" x="1053.7920906316458" y="-242.97918895659987"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="203.859375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="9.559818916917322">✅ Bonus: API Gateway Pattern (z. B. mit Express)
+
+// api-gateway/index.js
+const express = require('express');
+const { createProxyMiddleware } = require('http-proxy-middleware');
+
+const app = express();
+
+app.use('/users', createProxyMiddleware({ target: 'http://localhost:3001', changeOrigin: true }));
+app.use('/orders', createProxyMiddleware({ target: 'http://localhost:3002', changeOrigin: true }));
+
+app.listen(3000);
+
+✅ Zentraler Einstiegspunkt, ideal für Frontends</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="142.05839063173062" width="600.0" x="1673.7920906316458" y="-202.51887785554786"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="4.431539065865309">const express = require('express');
+const { createProxyMiddleware } = require('http-proxy-middleware');
+
+const app = express();
+
+app.use('/users', createProxyMiddleware({ target: 'http://localhost:3001', changeOrigin: true }));
+app.use('/orders', createProxyMiddleware({ target: 'http://localhost:3002', changeOrigin: true }));
+
+app.listen(3000);</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <edge id="e0" source="n1" target="n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.0" sy="-0.0" tx="-171.51684086566763" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="80.92378218652311" sy="-0.0" tx="-35.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="171.51684086566763" sy="-0.0" tx="-167.95542226363216" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n3" target="n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="-6.25" tx="-300.0" ty="-0.0">
+            <y:Point x="1006.2920906316459" y="-1109.0597222222223"/>
+            <y:Point x="1006.2920906316459" y="-2190.11626984127"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n3" target="n6">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="-3.75" tx="-300.0" ty="-0.0">
+            <y:Point x="1022.2920906316459" y="-1106.5597222222223"/>
+            <y:Point x="1022.2920906316459" y="-1795.9551587301585"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n6" target="n7">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n3" target="n9">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="-8.75" tx="-300.0" ty="-0.0">
+            <y:Point x="990.2920906316459" y="-1111.5597222222223"/>
+            <y:Point x="990.2920906316459" y="-2666.831746031746"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n3" target="n11">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="-1.25" tx="-300.0" ty="-0.0">
+            <y:Point x="1038.2920906316458" y="-1104.0597222222223"/>
+            <y:Point x="1038.2920906316458" y="-1327.743253968254"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n9" target="n8">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n11" target="n10">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n3" target="n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="1.25" tx="-300.0" ty="-0.0">
+            <y:Point x="1038.2920906316458" y="-1101.5597222222223"/>
+            <y:Point x="1038.2920906316458" y="-877.8761904761905"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n12" target="n13">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n3" target="n14">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="3.75" tx="-300.0" ty="-0.0">
+            <y:Point x="1022.2920906316459" y="-1099.0597222222223"/>
+            <y:Point x="1022.2920906316459" y="-556.7242063492064"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n14" target="n15">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n3" target="n16">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="6.25" tx="-300.0" ty="-0.0">
+            <y:Point x="1006.2920906316459" y="-1096.5597222222223"/>
+            <y:Point x="1006.2920906316459" y="-364.8646825396825"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n16" target="n17">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="n3" target="n18">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="8.75" tx="-300.0" ty="-0.0">
+            <y:Point x="990.2920906316459" y="-1094.0597222222223"/>
+            <y:Point x="990.2920906316459" y="-131.48968253968255"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n18" target="n19">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
