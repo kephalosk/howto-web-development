@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.21.1-->
+  <key attr.name="Beschreibung" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="161.84756437304623" x="0.0" y="-1241.1325396825396"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.84756437304623" x="4.0" xml:space="preserve" y="-0.06640625">Javascript</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="70.0" x="181.84756437304623" y="-1241.1325396825396"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.0" x="4.0" xml:space="preserve" y="-0.06640625">Praxis</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="296.2946224643531" x="271.8475643730462" y="-1241.1325396825396"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="296.2946224643531" x="4.0" xml:space="preserve" y="-0.06640625">3. Modularisierung und Programmierparadigmen</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="20.0" width="335.9108445272643" x="588.1421868373993" y="-1241.1325396825396"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="335.9108445272643" x="4.0" xml:space="preserve" y="-0.06640625">State-Management mit Redux, Vuex, Zustand</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="728.9851706086323" width="600.0" x="975.0530313646636" y="-2366.5358392725702"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="698.5078125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="15.23867905431598">1️⃣ Redux (React-Ökosystem, funktional, immutable, Boilerplate-lastig)
+Basic Setup (Best Practice)
+
+// store.js
+import { createStore } from "redux";
+
+// Actions
+const INCREMENT = "INCREMENT";
+const increment = () =&gt; ({ type: INCREMENT });
+
+// Reducer
+const initialState = { count: 0 };
+function counterReducer(state = initialState, action) {
+  switch (action.type) {
+    case INCREMENT:
+      return { ...state, count: state.count + 1 };
+    default:
+      return state;
+  }
+}
+
+// Store
+const store = createStore(counterReducer);
+
+// usage.js
+store.subscribe(() =&gt; console.log(store.getState()));
+store.dispatch(increment());
+
+✅ Best Practice:
+
+    Action Types als Konstanten
+
+    Pure Reducer-Funktion (keine Seiteneffekte)
+
+    Immutables State-Handling mit Spread-Operator
+
+&#128683; Bad Practice:
+
+// BAD: Mutiert den State direkt → Redux erkennt keine Änderung!
+function counterReducer(state = initialState, action) {
+  switch (action.type) {
+    case INCREMENT:
+      state.count++; // ❌
+      return state;
+    default:
+      return state;
+  }
+}
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="350.2083705829557" width="600.0" x="1595.0530313646636" y="-2177.1474392597315"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="345.1875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="2.5104352914777337">// store.js
+import { createStore } from "redux";
+
+// Actions
+const INCREMENT = "INCREMENT";
+const increment = () =&gt; ({ type: INCREMENT });
+
+// Reducer
+const initialState = { count: 0 };
+function counterReducer(state = initialState, action) {
+  switch (action.type) {
+    case INCREMENT:
+      return { ...state, count: state.count + 1 };
+    default:
+      return state;
+  }
+}
+
+// Store
+const store = createStore(counterReducer);
+
+// usage.js
+store.subscribe(() =&gt; console.log(store.getState()));
+store.dispatch(increment());</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="752.8359892545648" width="600.0" x="975.0530313646636" y="-1607.550534309822"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="740.90625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.964869627282496">2️⃣ Vuex (Vue-Ökosystem, basiert auf Reaktivität)
+Basic Setup
+
+// store.js
+import { createStore } from 'vuex';
+
+const store = createStore({
+  state() {
+    return {
+      count: 0,
+    };
+  },
+  mutations: {
+    increment(state) {
+      state.count++;
+    },
+  },
+  actions: {
+    asyncIncrement({ commit }) {
+      setTimeout(() =&gt; {
+        commit('increment');
+      }, 1000);
+    },
+  },
+});
+
+// Component.vue
+&lt;template&gt;
+  &lt;button @click="increment"&gt;+1&lt;/button&gt;
+&lt;/template&gt;
+
+&lt;script&gt;
+export default {
+  methods: {
+    increment() {
+      this.$store.commit('increment');
+    },
+  },
+};
+&lt;/script&gt;
+
+✅ Best Practice:
+
+    Nutze Mutations für synchrone Änderungen, Actions für asynchrone
+
+    Strikte Trennung von State, Mutations, Actions
+
+&#128683; Bad Practice:
+
+// BAD: Direkter Zugriff und Mutation im Component-Template
+this.$store.state.count++; // ❌
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="541.2323725056222" width="600.0" x="1595.0530313646636" y="-1501.7487259353506"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="528.9140625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="6.159155002811076">// store.js
+import { createStore } from 'vuex';
+
+const store = createStore({
+  state() {
+    return {
+      count: 0,
+    };
+  },
+  mutations: {
+    increment(state) {
+      state.count++;
+    },
+  },
+  actions: {
+    asyncIncrement({ commit }) {
+      setTimeout(() =&gt; {
+        commit('increment');
+      }, 1000);
+    },
+  },
+});
+
+// Component.vue
+&lt;template&gt;
+  &lt;button @click="increment"&gt;+1&lt;/button&gt;
+&lt;/template&gt;
+
+&lt;script&gt;
+export default {
+  methods: {
+    increment() {
+      this.$store.commit('increment');
+    },
+  },
+};
+&lt;/script&gt;</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="106.94942334518362" width="600.0" x="1595.0530313646636" y="-2607.734632307512"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="90.796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="8.076274172591638">// Einfaches Beispiel: Lokaler State in einer Komponente
+let counter = 0;
+
+function increment() {
+  counter++;
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="315.44778217407395" width="600.0" x="975.0530313646636" y="-2711.9838117219574"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="288.65625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="13.395766087036918">&#129504; Allgemeines Konzept von State-Management
+Was ist "State"?
+
+// Einfaches Beispiel: Lokaler State in einer Komponente
+let counter = 0;
+
+function increment() {
+  counter++;
+}
+
+Problem: Wenn mehrere Komponenten denselben State brauchen → &#128293; Chaos
+
+// BAD PRACTICE: Komponenten teilen sich keinen zentralen State
+// Ergebnis: Inkonsistente Daten, schwierig zu debuggen
+
+componentA.state = { theme: "dark" };
+componentB.state = { theme: "light" }; // huh?
+
+Lösung: Zentraler, global verwalteter State über ein State-Management-Tool wie Redux, Vuex oder Zustand.</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="243.31434358849162" width="600.0" x="1595.0530313646636" y="-713.606378143452"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="217.9921875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="12.661078044245869">// store.js
+import create from 'zustand';
+
+const useStore = create((set) =&gt; ({
+  count: 0,
+  increment: () =&gt; set((state) =&gt; ({ count: state.count + 1 })),
+}));
+
+// Component.jsx
+import { useStore } from './store';
+
+function Counter() {
+  const { count, increment } = useStore();
+  return &lt;button onClick={increment}&gt;Count: {count}&lt;/button&gt;;
+}</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="309.1840621487894" width="600.0" x="975.0530313646636" y="-329.18409456645816"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="302.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.197499824394697">&#129513; Modularisierung
+
+Best Practice: Slice-based Modularisierung
+
+// store/userSlice.js
+export const userSlice = {
+  state: () =&gt; ({ user: null }),
+  mutations: {
+    setUser(state, payload) {
+      state.user = payload;
+    },
+  },
+};
+
+&#128683; Bad Practice: Monolithischer Store
+
+const store = createStore({
+  state: { user: null, cart: [], settings: {} }, // ❌ alles in einer Datei
+});
+
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="465.5300675542841" width="600.0" x="975.0530313646636" y="-824.7142401263484"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="458.25" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="3.64003377714198">3️⃣ Zustand (React, leichtgewichtig, modern, einfach)
+Basic Setup
+
+// store.js
+import create from 'zustand';
+
+const useStore = create((set) =&gt; ({
+  count: 0,
+  increment: () =&gt; set((state) =&gt; ({ count: state.count + 1 })),
+}));
+
+// Component.jsx
+import { useStore } from './store';
+
+function Counter() {
+  const { count, increment } = useStore();
+  return &lt;button onClick={increment}&gt;Count: {count}&lt;/button&gt;;
+}
+
+✅ Best Practice:
+
+    Halte Actions und State logisch zusammen
+
+    Nutze Selector Functions für Performance
+
+const count = useStore((state) =&gt; state.count); // &#128077; Performance-freundlich
+
+&#128683; Bad Practice:
+
+// BAD: Store überall vollständig abfragen → unnötige Rerenders
+const state = useStore(); // ❌
+</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.process">
+          <y:Geometry height="143.50321635230853" width="600.0" x="1595.0530313646636" y="-246.34367166821775"/>
+          <y:Fill color="#FF99CC" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="133.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="600.0" x="4.0" xml:space="preserve" y="5.153951926154264">// store/userSlice.js
+export const userSlice = {
+  state: () =&gt; ({ user: null }),
+  mutations: {
+    setUser(state, payload) {
+      state.user = payload;
+    },
+  },
+};</y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <edge id="e0" source="n1" target="n2">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.0" sy="-0.0" tx="-148.14731123217655" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="80.92378218652311" sy="-0.0" tx="-35.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="148.14731123217655" sy="-0.0" tx="-167.95542226363216" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n3" target="n4">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="-4.0" tx="-300.0" ty="-0.0">
+            <y:Point x="959.5530313646635" y="-1235.1325396825396"/>
+            <y:Point x="959.5530313646635" y="-2002.043253968254"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n3" target="n6">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n6" target="n7">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n3" target="n9">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="-8.0" tx="-300.0" ty="-0.0">
+            <y:Point x="943.5530313646635" y="-1239.1325396825396"/>
+            <y:Point x="943.5530313646635" y="-2554.2599206349205"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n3" target="n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="4.0" tx="-300.0" ty="-0.0">
+            <y:Point x="959.5530313646635" y="-1227.1325396825396"/>
+            <y:Point x="959.5530313646635" y="-591.9492063492063"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n3" target="n11">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="167.95542226363216" sy="8.0" tx="-300.0" ty="-0.0">
+            <y:Point x="943.5530313646635" y="-1223.1325396825396"/>
+            <y:Point x="943.5530313646635" y="-174.5920634920635"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n9" target="n8">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n12" target="n10">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n11" target="n13">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="300.0" sy="-0.0" tx="-300.0" ty="-0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
+</graphml>
